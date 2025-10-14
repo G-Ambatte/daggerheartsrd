@@ -1,0 +1,31 @@
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 10vh;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	background: rgb(88, 24, 13);
+	border-bottom: 2px solid black;
+	z-index: 10;
+
+	p {
+		font-family: 'Nodesto';
+		font-size: 2em;
+		line-height: 10vh;
+		margin: 0;
+		-webkit-text-stroke: 4px black;
+		paint-order: stroke;
+		color: white;
+	}
+
+	img {
+		max-height: 8vh;
+		margin: 0 10px;
+		&.right {
+			transform: scaleX(-1);
+		}
+	}
+}

@@ -1,34 +1,50 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import "./App.css";
+import './App.css'
+import './fonts.css'
+
+import { useState } from 'react'
+
+import Header from './components/Header/header';
+
+import Input from './components/input';
+import Result from './components/Result/result';
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [data, setData] = useState();
+  const [type, setType] = useState('ancestry');
+
+  // const loadHomebrewery = function(){
+  //   const url = 'http://localhost:8000/new';
+  //   const id = 'tempHB';
+
+  //   const iframe = document.createElement('iframe');
+  //   iframe.id = id;
+  //   iframe.style = 'display: none;';
+  //   window.addEventListener('messagingReady', async ()=>{
+  //     console.log('Messaging ready');
+  //     iframe.contentWindow.postMessage('myTestContent', url);
+  //   });
+  //   window.addEventListener('message', async (e)=>{
+  //     console.log('APItoHB RX:', e.data);
+  //     if(e.data == 'complete'){
+  //       iframe.remove();
+  //     }
+  //   });
+
+  //   iframe.src = url;
+  //   document.body.appendChild(iframe);
+  // };
 
   return (
-    <div className="App">
+    <div className='App'>
+      <Header />
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        <a href='https://homebrewery.naturalcrit.com/new'>The Homebrewery - New Page</a>
+        {/* <button onClick={()=>loadHomebrewery()}>LOAD TO HOMEBREWERY</button> */}
+        <Input setData={setData} type={type} setType={setType}></Input>
+        <Result data={data} type={type}></Result>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR!
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
