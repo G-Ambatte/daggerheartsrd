@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react'
 
 function Result({ data, type }) {
 
-	const [ activeTab, setActiveTab ] = useState('homebrewery');
+	const [ activeTab, setActiveTab ] = useState('raw');
 	const [ text, setText ] = useState('');
 	const [ copyState, setCopyState] = useState(false);
 
