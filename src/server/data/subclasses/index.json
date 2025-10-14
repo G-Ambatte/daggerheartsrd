@@ -1,0 +1,343 @@
+{
+  "subclasses": [
+    {
+      "id": "bard-troubadour",
+      "type": "subclass",
+      "class": "Bard",
+      "subclass": "Troubadour",
+      "name": "Troubadour",
+      "spellcastTrait": "presence",
+      "levels": {
+        "foundation": {
+          "level": "foundation",
+          "traits": [
+            {
+              "name": "Gifted Performer",
+              "description": "Describe how you perform for others. You can play each song once per long rest:",
+              "frequency": "once per long rest (each option)",
+              "options": [
+                {
+                  "option": "Relaxing Song",
+                  "description": "You and all allies within Close range clear a Hit Point."
+                },
+                {
+                  "option": "Epic Song",
+                  "description": "Make a target within Close range temporarily Vulnerable."
+                },
+                {
+                  "option": "Heartbreaking Song",
+                  "description": "You and all allies within Close range gain a Hope."
+                }
+              ]
+            }
+          ],
+          "tags": ["bard", "troubadour", "foundation"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "001/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "009/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "specialization": {
+          "level": "specialization",
+          "traits": [
+            {
+              "name": "Maestro",
+              "description": "Your rallying songs steel the courage of those who listen. When you give a Rally Die to an ally, they can gain a Hope or clear a Stress.",
+              "options": []
+            }
+          ],
+          "tags": ["bard", "troubadour", "specialization"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "002/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "009/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "mastery": {
+          "level": "mastery",
+          "traits": [
+            {
+              "name": "Virtuoso",
+              "description": "You are among the greatest of your craft and your skill is boundless. You can perform each of your 'Gifted Performer' feature's songs twice instead of once per long rest.",
+              "options": []
+            }
+          ],
+          "tags": ["bard", "troubadour", "mastery"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "003/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "009/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bard-wordsmith",
+      "type": "subclass",
+      "class": "Bard",
+      "subclass": "Wordsmith",
+      "name": "Wordsmith",
+      "spellcastTrait": "presence",
+      "levels": {
+        "foundation": {
+          "level": "foundation",
+          "traits": [
+            {
+              "name": "Rousing Speech",
+              "description": "Once per long rest, you can give a heartfelt, inspiring speech. All allies within Far range clear 2 Stress.",
+              "options": []
+            },
+            {
+              "name": "Heart of a Poet",
+              "description": "After you make an action roll to impress, persuade, or offend someone, you can **spend a Hope** to add a **d4** to the roll.",
+              "options": []
+            }
+          ],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "004/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "009/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "specialization": {
+          "level": "specialization",
+          "traits": [
+            {
+              "name": "Eloquent",
+              "description": "Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:",
+              "type": "ability",
+              "frequency": "once per session",
+              "options": [
+                {
+                  "option": "",
+                  "description": "Allow them to find a mundane object or tool they need."
+                },
+                {
+                  "option": "",
+                  "description": "Help an Ally without spending Hope"
+                },
+                {
+                  "option": "",
+                  "description": "Give them an additional downtime move during their next rest."
+                }
+              ]
+            }
+          ],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "005/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "010/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "mastery": {
+          "level": "mastery",
+          "traits": [
+            {
+              "name": "Epic Poetry",
+              "description": "Your Rally Die increases to a **d10**. Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your advantage die.",
+              "options": []
+            }
+          ],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "006/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "010/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "druid-warden-of-the-elements",
+      "type": "subclass",
+      "class": "Druid",
+      "subclass": "Warden of the Elements",
+      "name": "warden_of_the_elements",
+      "spellcastTrait": "instinct",
+      "levels": {
+        "foundation": {
+          "level": "foundation",
+          "traits": [
+            {
+              "name": "Elemental Incarnation",
+              "description": "**Mark a Stress** to *Channel* one of the following elements until you take Severe damage or until your next rest:",
+              "frequency": "ability",
+              "options": [
+                {
+                  "option": "Fire",
+                  "description": "When an adversary within melee range deals damage to you, they take 1d10 magic damage."
+                },
+                {
+                  "option": "Earth",
+                  "description": "Gain a bonus to your damage thresholds equal to your proficiency."
+                },
+                {
+                  "option": "Water",
+                  "description": "When you deal damage to an adversary within Melee range, all other adversaries within Very Close range must mark a Stress."
+                },
+                {
+                  "option": "Air",
+                  "description": "You can hover, gaining advantage on Agility Rolls."
+                }
+              ]
+            }
+          ],
+          "tags": ["druid", "warden of the elements", "foundation"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "007/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "011/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "specialization": {
+          "level": "specialization",
+          "traits": [
+            {
+              "name": "Elemental Aura",
+              "description": "Once per rest while *Channeling*, you can assume an aura matching your element. The aura affects targets within close rnage until you *Channeling* ends.",
+              "options": [
+                {
+                  "option": "Fire",
+                  "description": "When an adversary marks 1 or more Hit Points, they must also mark a Stress."
+                },
+                {
+                  "option": "Earth",
+                  "description": "Your allies gain a +1 bonus to Strength."
+                },
+                {
+                  "option": "Water",
+                  "description": "When an adversary deals damage to you, you can **mark a Stress** to move them anywhere within Very Close range of where they are."
+                },
+                {
+                  "option": "Air",
+                  "description": "When you or an ally takes damage from an attack beyond Melee range, reduce the damage by **1d8**."
+                }
+              ]
+            }
+          ],
+          "tags": ["druid", "warden of the elements", "specialization"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "008/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "009/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "mastery": {
+          "level": "mastery",
+          "traits": [
+            {
+              "name": "Elemental Dominion",
+              "description": "You further embody your element. While *Channeling*, you gain the following benefit:",
+              "options": [
+                {
+                  "option": "Fire",
+                  "description": "You gain a +1 bonus to your Proficiency for attacks and spells that deal damage."
+                },
+                {
+                  "option": "Earth",
+                  "description": "When you would mark Hit Points, roll a **d6** per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1."
+                },
+                {
+                  "option": "Water",
+                  "description": "When an attack against you succeeds, you can **mark a Stress** to make the attacker temporarily *Vulnerable*."
+                },
+                {
+                  "option": "Air",
+                  "description": "You gain a +1 bonus to your Evasion and can fly."
+                }
+              ]
+            }
+          ],
+          "tags": ["druid", "warden of the elements", "mastery"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "009/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "009/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+
