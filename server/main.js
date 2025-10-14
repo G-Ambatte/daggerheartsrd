@@ -30,6 +30,12 @@ app.get("/api/ancestries", asyncHandler(async (req, res) => {
   res.send(data);
 }));
 
+// Ancestries
+app.get("/ancestries", asyncHandler(async (req, res) => {
+  const data = await getDataFromJSON('ancestries', ancestryData);
+  res.send(data);
+}));
+
 // Ancestry
 app.get("/api/ancestry/:id", asyncHandler(async (req, res) => {
   const data = await getDataFromJSON(req.params.id, ancestryData, 'ancestries');
