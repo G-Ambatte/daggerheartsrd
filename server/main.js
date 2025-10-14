@@ -3,9 +3,16 @@ import ViteExpress from "vite-express";
 
 import asyncHandler from "express-async-handler";
 
+import ancestryData from './data/ancestries/index.json' with { type: 'json' };
+import classData from './data/classes/index.json' with { type: 'json' };
+import communityData from './data/communities/index.json' with { type: 'json' };
+import domainData from './data/domains/index.json' with { type: 'json' };
+import subclassData from './data/subclasses/index.json' with { type: 'json' };
 
-const getDataFromJSON = async (id, file, genre = false)=>{
-  const dataObj = await import(file, { with: { type: 'json' } });
+
+
+const getDataFromJSON = async (id, dataObj, genre = false)=>{
+  // const dataObj = await import(file, { with: { type: 'json' } });
   const data = dataObj.default;
   if(!genre){
     return data[id];
@@ -19,65 +26,65 @@ const app = express();
 
 // Ancestries
 app.get("/api/ancestries", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON('ancestries', './data/ancestry/index.json');
+  const data = await getDataFromJSON('ancestries', ancestryData);
   res.send(data);
 }));
 
 // Ancestry
 app.get("/api/ancestry/:id", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON(req.params.id, './data/ancestry/index.json', 'ancestries');
+  const data = await getDataFromJSON(req.params.id, ancestryData, 'ancestries');
   if(data.length == 0) return res.status(404).json('Unknown ancestry');
   res.send(data);
 }));
 
 // Classes
 app.get("/api/classes", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON('classes', './data/classes/index.json');
+  const data = await getDataFromJSON('classes', classData);
   res.send(data);
 }));
 
 // Class
 app.get("/api/class/:id", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON(req.params.id, './data/classes/index.json', 'classes');
+  const data = await getDataFromJSON(req.params.id, classData, 'classes');
   if(data.length == 0) return res.status(404).json('Unknown class');
   res.send(data);
 }));
 
 // Communities
 app.get("/api/communities", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON('communities', './data/communities/index.json');
+  const data = await getDataFromJSON('communities', communityData);
   res.send(data);
 }));
 
 // Community
 app.get("/api/community/:id", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON(req.params.id, './data/communities/index.json', 'communities');
+  const data = await getDataFromJSON(req.params.id, communityData, 'communities');
   if(data.length == 0) return res.status(404).json('Unknown community');
   res.send(data);
 }));
 
 // Domains
 app.get("/api/domains", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON('domains', './data/domains/index.json');
+  const data = await getDataFromJSON('domains', domainData);
   res.send(data);
 }));
 
 // Domain
 app.get("/api/domain/:id", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON(req.params.id, './data/domains/index.json', 'domains');
+  const data = await getDataFromJSON(req.params.id, domainData, 'domains');
   if(data.length == 0) return res.status(404).json('Unknown domain');
   res.send(data);
 }));
 
 // Subclasses
 app.get("/api/subclasses", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON('subclasses', './data/subclasses/index.json');
+  const data = await getDataFromJSON('subclasses', subclassData);
   res.send(data);
 }));
 
 // Subclass
 app.get("/api/subclass/:id", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON(req.params.id, './data/subclasses/index.json', 'subclasses');
+  const data = await getDataFromJSON(req.params.id, subclassData, 'subclasses');
   if(data.length == 0) return res.status(404).json('Unknown subclass');
   res.send(data);
 }));
