@@ -287,7 +287,7 @@
               "updated": "2025-06-15"
             },
             {
-              "id": "009/135",
+              "id": "011/135",
               "set": "DH SRD",
               "updated": "2025-09-09",
               "publisher": "Daggerheart © Darrington Press 2025"
@@ -329,7 +329,107 @@
               "updated": "2025-06-15"
             },
             {
-              "id": "009/135",
+              "id": "011/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "druid-warden-of-renewal",
+      "type": "subclass",
+      "class": "Druid",
+      "subclass": "Warden of Renewal",
+      "name": "warden_of_renewal",
+      "spellcastTrait": "instinct",
+      "levels": {
+        "foundation": {
+          "level": "foundation",
+          "traits": [
+            {
+              "name": "Clarity of Nature",
+              "description": "Once per long rest, you can create a space of natural serenity within Close range. When you spend a few minutes resting within the space, clear Stress equal to your Instinct, distributed as you choose between you and your allies.",
+              "frequency": "once per long rest",
+              "options": []
+            },
+            {
+              "name": "Regeneration",
+              "description": "Touch a creature and **spend 3 Hope.** That creature clears **1d4** Hit Points.",
+              "frequency": "ability",
+              "options": []
+            }
+          ],
+          "tags": ["druid", "warden of renewal", "foundation"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "010/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "011/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "specialization": {
+          "level": "specialization",
+          "traits": [
+            {
+              "name": "Regenerative Reach",
+              "description": "You can target creatures within Very Close rnage with your \"Regeneration\" feature.",
+              "feature": "ability",
+              "options": []
+            },
+            {
+              "name": "Warden's Protection",
+              "description": "Once per long rest, **spend 2 Hope** to clear 2 Hit Points on **1d4** allies within Close range.",
+              "feature": "once per long rest",
+              "options": []
+            }
+          ],
+          "tags": ["druid", "warden of renewal", "specialization"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "011/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "011/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "mastery": {
+          "level": "mastery",
+          "traits": [
+            {
+              "name": "Defender",
+              "description": "Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally within Close range marks 2 or more Hit Points, you can **mark a Stress* to reduce the number of Hit Points they mark by 1.",
+              "frequency": "passive",
+              "options": []
+            }
+          ],
+          "tags": ["druid", "warden of renewal", "mastery"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "011/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "011/135",
               "set": "DH SRD",
               "updated": "2025-09-09",
               "publisher": "Daggerheart © Darrington Press 2025"
