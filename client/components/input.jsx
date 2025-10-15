@@ -7,12 +7,13 @@ import 'react-autocomplete-input/dist/bundle.css';
 
 import ancestryData from '../types/ancestries.js';
 import classData from '../types/classes.js';
+import communityData from '../types/communities.js';
 
 
 const URL = '/api/';
 
 function Input({ setData, type, setType }) {
-	const types = [ 'ancestry', 'class' ];
+	const types = [ 'ancestry', 'class', 'community' ];
 
 	const [autoCompleteSuggestions, setAutoCompleteSuggestions] = useState([ '', '' ]);
 
@@ -20,8 +21,9 @@ function Input({ setData, type, setType }) {
 
 	useEffect(()=>{
 		const suggestionsMap = {
-			'ancestry': ancestryData.suggestionsRoute,
-			'class'   : classData.suggestionsRoute
+			'ancestry'  : ancestryData.suggestionsRoute,
+			'class'     : classData.suggestionsRoute,
+			'community' : communityData.suggestionsRoute
 		};
 		if(!Object.keys(suggestionsMap).includes(type)){
 			console.log('Unknown type for suggestions:', type);
@@ -52,8 +54,9 @@ function Input({ setData, type, setType }) {
 		try {
 
 			const dataMap = {
-				'ancestry': ancestryData.dataRoute,
-				'class'   : classData.dataRoute
+				'ancestry'  : ancestryData.dataRoute,
+				'class'     : classData.dataRoute,
+				'community' : communityData.dataRoute
 			};
 
 			// console.log(dataURL);
