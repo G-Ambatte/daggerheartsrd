@@ -2,6 +2,7 @@ import './result.css'
 
 import { useState, useEffect } from 'react'
 
+import resultStyle from './resultStyle.js';
 import { formatFn as environmentFormat } from '../../types/environments.js';
 
 function Result({ data, type }) {
@@ -22,7 +23,7 @@ function Result({ data, type }) {
 			'environment' : environmentFormat
 		}
 
-		if(activeTab == 'homebrewery') setText(outputMap[type] ? outputMap[type](data) : '');
+		if(activeTab == 'homebrewery') setText(outputMap[type] ? `${outputMap[type](data)}\n\n<style>${resultStyle}</style>` : '');
 		if(activeTab == 'raw') setText(JSON.stringify(data));
 
 		setCopyState(false);
