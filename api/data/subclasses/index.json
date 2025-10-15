@@ -589,7 +589,7 @@
           "traits": [
             {
               "name": "Act of Reprisal",
-              "description": "When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiecy for the next successful attack you make against that adversary.",
+              "description": "When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiency for the next successful attack you make against that adversary.",
               "feature": "ability",
               "options": []
             }
@@ -615,7 +615,7 @@
           "traits": [
             {
               "name": "Nemesis",
-              "description": "**Spend 2 Hope** to *Prioritiz* an adversary until your next rest. When you make an attack against your *Prioritized* adversary, you can swap the results of your Hope and Fear Dice. You can only *Prioritize* one adversary at a time.",
+              "description": "**Spend 2 Hope** to *Prioritize* an adversary until your next rest. When you make an attack against your *Prioritized* adversary, you can swap the results of your Hope and Fear Dice. You can only *Prioritize* one adversary at a time.",
               "frequency": "ability",
               "options": []
             }
