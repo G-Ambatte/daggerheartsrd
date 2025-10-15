@@ -12,12 +12,10 @@ import subclassData from './data/subclasses/index.json' with { type: 'json' };
 
 
 const getDataFromJSON = async (id, dataObj, genre = false)=>{
-  // const dataObj = await import(file, { with: { type: 'json' } });
-  const data = dataObj.default;
   if(!genre){
-    return data[id];
+    return dataObj[id];
   }
-  const result = data[genre].filter((obj)=>{return id.toLowerCase() == obj.name.toLowerCase();});
+  const result = dataObj[genre].filter((obj)=>{return id.toLowerCase() == obj.name.toLowerCase();});
   return result;
 };
 
