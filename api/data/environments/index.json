@@ -1,26 +1,6 @@
 {
 	"environments": [
 		{
-			"id" : "blank",
-			"name" : "",
-			"tier" : 0,
-			"type" : "",
-			"description" : "",
-			"difficulty" : "",
-			"potentialAdversaries" : [
-				""
-			],
-			"features" : [
-				{
-					"name" : "",
-					"type" : "",
-					"description" : [
-						""
-					]
-				}
-			]
-		},
-		{
 			"id" : "abandoned-grove",
 			"name" : "Abandoned Grove",
 			"tier" : 1,

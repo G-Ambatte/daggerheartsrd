@@ -1,0 +1,24 @@
+{
+	"environments": [
+		{
+			"id" : "blank",
+			"name" : "",
+			"tier" : 0,
+			"type" : "",
+			"description" : "",
+			"difficulty" : "",
+			"potentialAdversaries" : [
+				""
+			],
+			"features" : [
+				{
+					"name" : "",
+					"type" : "",
+					"description" : [
+						""
+					]
+				}
+			]
+		}
+	]
+}
