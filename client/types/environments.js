@@ -23,8 +23,10 @@ const formatFn = (data)=>{
 
 	## Features
 	${data.features.map((feature)=>{
-		return `**${feature.name} - ${feature.type}** ${feature.description.join('  \n')}\n*${feature.questions}*`;
+		return `**${feature.name} - ${feature.type}** ${feature.description.join('  \n')}\n\n{{questions *${feature.questions}* }}\n`;
 	}).join('\n:\n')}
+
+	:
 
 	{{source ${data.source.map((source)=>{return `*${source.id} ${source.set}, ${source.updated} - ${source.publisher}*`;}).join('\n')}}}
 }}`
