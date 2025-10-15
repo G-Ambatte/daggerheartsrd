@@ -142,7 +142,7 @@
             {
               "name": "Eloquent",
               "description": "Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:",
-              "type": "ability",
+              "type": "action",
               "frequency": "once per session",
               "options": [
                 {
@@ -215,7 +215,7 @@
             {
               "name": "Elemental Incarnation",
               "description": "**Mark a Stress** to *Channel* one of the following elements until you take Severe damage or until your next rest:",
-              "frequency": "ability",
+              "frequency": "action",
               "options": [
                 {
                   "option": "Fire",
@@ -358,7 +358,7 @@
             {
               "name": "Regeneration",
               "description": "Touch a creature and **spend 3 Hope.** That creature clears **1d4** Hit Points.",
-              "frequency": "ability",
+              "frequency": "action",
               "options": []
             }
           ],
@@ -384,7 +384,7 @@
             {
               "name": "Regenerative Reach",
               "description": "You can target creatures within Very Close range with your \"Regeneration\" feature.",
-              "feature": "ability",
+              "feature": "action",
               "options": []
             },
             {
@@ -458,7 +458,7 @@
             {
               "name": "Iron Will",
               "description": "When you take physical damage, you can **mark an additional Armor Slot** to reduce the severity.",
-              "frequency": "ability",
+              "frequency": "reaction",
               "options": []
             }
           ],
@@ -490,7 +490,7 @@
             {
               "name": "Partners-in-Arms",
               "description": "When an ally within Very Close range takes damage, you can **mark an Armor Slot** to reduce the severity by one threshold.",
-              "feature": "ability",
+              "feature": "reaction",
               "options": []
             }
           ],
@@ -522,7 +522,7 @@
             {
               "name": "Loyal Protector",
               "description": "When an ally within Close range has 2 or fewer Hit Points and would take damage, you can **mark a Stress** to sprint to their side and take the damage instead.",
-              "frequency": "ability",
+              "frequency": "reaction",
               "options": []
             }
           ],
@@ -564,7 +564,7 @@
             {
               "name": "Revenge",
               "description": "When an adversary within Melee range succeeds on an attack against you, you can **mark 2 Stress* to force the attacker to mark a Hit Point.",
-              "frequency": "ability",
+              "frequency": "reaction",
               "options": []
             }
           ],
@@ -590,7 +590,7 @@
             {
               "name": "Act of Reprisal",
               "description": "When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiency for the next successful attack you make against that adversary.",
-              "feature": "ability",
+              "feature": "reaction",
               "options": []
             }
           ],
@@ -616,7 +616,7 @@
             {
               "name": "Nemesis",
               "description": "**Spend 2 Hope** to *Prioritize* an adversary until your next rest. When you make an attack against your *Prioritized* adversary, you can swap the results of your Hope and Fear Dice. You can only *Prioritize* one adversary at a time.",
-              "frequency": "ability",
+              "frequency": "action",
               "options": []
             }
           ],
