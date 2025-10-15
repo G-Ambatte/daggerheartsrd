@@ -206,7 +206,7 @@
       "type": "subclass",
       "class": "Druid",
       "subclass": "Warden of the Elements",
-      "name": "warden_of_the_elements",
+      "name": "Warden of the Elements",
       "spellcastTrait": "instinct",
       "levels": {
         "foundation": {
@@ -343,7 +343,7 @@
       "type": "subclass",
       "class": "Druid",
       "subclass": "Warden of Renewal",
-      "name": "warden_of_renewal",
+      "name": "Warden of Renewal",
       "spellcastTrait": "instinct",
       "levels": {
         "foundation": {
@@ -443,7 +443,7 @@
       "type": "subclass",
       "class": "Guardian",
       "subclass": "Stalwart",
-      "name": "stalwart",
+      "name": "Stalwart",
       "spellcastTrait": "",
       "levels": {
         "foundation": {
@@ -549,7 +549,7 @@
       "type": "subclass",
       "class": "Guardian",
       "subclass": "Vengeance",
-      "name": "vengeance",
+      "name": "Vengeance",
       "spellcastTrait": "",
       "levels": {
         "foundation": {
