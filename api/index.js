@@ -7,6 +7,7 @@ import ancestryData from './data/ancestries/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
 import communityData from './data/communities/index.json' with { type: 'json' };
 import domainData from './data/domains/index.json' with { type: 'json' };
+import environmentData from './data/environments/index.json' with { type: 'json' };
 import subclassData from './data/subclasses/index.json' with { type: 'json' };
 
 
@@ -76,6 +77,19 @@ app.get("/api/domains", asyncHandler(async (req, res) => {
 // Domain
 app.get("/api/domain/:id", asyncHandler(async (req, res) => {
   const data = await getDataFromJSON(req.params.id, domainData, 'domains');
+  if(data.length == 0) return res.status(404).json('Unknown domain');
+  res.send(data);
+}));
+
+// Environments
+app.get("/api/environments", asyncHandler(async (req, res) => {
+  const data = await getDataFromJSON('environments', environmentData);
+  res.send(data);
+}));
+
+// Domain
+app.get("/api/environment/:id", asyncHandler(async (req, res) => {
+  const data = await getDataFromJSON(req.params.id, environmentData, 'environments');
   if(data.length == 0) return res.status(404).json('Unknown domain');
   res.send(data);
 }));
