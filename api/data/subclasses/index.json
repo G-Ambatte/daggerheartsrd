@@ -383,7 +383,7 @@
           "traits": [
             {
               "name": "Regenerative Reach",
-              "description": "You can target creatures within Very Close rnage with your \"Regeneration\" feature.",
+              "description": "You can target creatures within Very Close range with your \"Regeneration\" feature.",
               "feature": "ability",
               "options": []
             },
