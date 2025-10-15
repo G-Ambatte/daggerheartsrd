@@ -543,6 +543,100 @@
           ]
         }
       }
+    },
+    {
+      "id": "guardian-vengeance",
+      "type": "subclass",
+      "class": "Guardian",
+      "subclass": "Vengeance",
+      "name": "vengeance",
+      "spellcastTrait": "",
+      "levels": {
+        "foundation": {
+          "level": "foundation",
+          "traits": [
+            {
+              "name": "At Ease",
+              "description": "Gain an additional Stress slot.",
+              "frequency": "passive",
+              "options": []
+            },
+            {
+              "name": "Revenge",
+              "description": "When an adversary within Melee range succeeds on an attack against you, you can **mark 2 Stress* to force the attacker to mark a Hit Point.",
+              "frequency": "ability",
+              "options": []
+            }
+          ],
+          "tags": ["guardian", "vengeance", "foundation"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "016/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "016/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "specialization": {
+          "level": "specialization",
+          "traits": [
+            {
+              "name": "Act of Reprisal",
+              "description": "When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiecy for the next successful attack you make against that adversary.",
+              "feature": "ability",
+              "options": []
+            }
+          ],
+          "tags": ["guardian", "vengeance", "specialization"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "017/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "016/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        },
+        "mastery": {
+          "level": "mastery",
+          "traits": [
+            {
+              "name": "Nemesis",
+              "description": "**Spend 2 Hope** to *Prioritiz* an adversary until your next rest. When you make an attack against your *Prioritized* adversary, you can swap the results of your Hope and Fear Dice. You can only *Prioritize* one adversary at a time.",
+              "frequency": "ability",
+              "options": []
+            }
+          ],
+          "tags": ["guardian", "vengeance", "mastery"],
+          "source": [
+            {
+              "set": "DH Core",
+              "id": "018/270",
+              "publisher": "Daggerheart © Darrington Press 2025",
+              "updated": "2025-06-15"
+            },
+            {
+              "id": "016/135",
+              "set": "DH SRD",
+              "updated": "2025-09-09",
+              "publisher": "Daggerheart © Darrington Press 2025"
+            }
+          ]
+        }
+      }
     }
   ]
 }
