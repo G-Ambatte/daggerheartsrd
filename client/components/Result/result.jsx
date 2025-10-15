@@ -2,6 +2,7 @@ import './result.css'
 
 import { useState, useEffect } from 'react'
 
+import { formatFn as environmentFormat } from '../../types/environments.js';
 
 function Result({ data, type }) {
 
@@ -18,9 +19,10 @@ function Result({ data, type }) {
 		const url = '';
 
 		const outputMap = {
+			'environment' : environmentFormat
 		}
 
-		if(activeTab == 'homebrewery') setText(outputMap[type] ? outputMap[type](data, url) : '');
+		if(activeTab == 'homebrewery') setText(outputMap[type] ? outputMap[type](data) : '');
 		if(activeTab == 'raw') setText(JSON.stringify(data));
 
 		setCopyState(false);

@@ -9,7 +9,7 @@ import ancestryData from '../types/ancestries.js';
 import classData from '../types/classes.js';
 import communityData from '../types/communities.js';
 import domainData from '../types/domains.js';
-import environmentData from '../types/environments.js';
+import * as environmentData from '../types/environments.js';
 import subclassData from '../types/subclasses.js';
 
 
