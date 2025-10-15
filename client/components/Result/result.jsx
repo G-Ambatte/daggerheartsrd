@@ -27,8 +27,6 @@ function Result({ data, type }) {
 
 	},	[activeTab, type, data])
 
-	if(!data) return;
-
 
 	const copyToClipboard = function(){
 		navigator.clipboard.writeText(text);
