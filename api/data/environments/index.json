@@ -189,6 +189,61 @@
 					"publisher": "Daggerheart © Darrington Press 2025"
 				}
 			]
+		},
+		{
+			"id" : "cliffside-ascent",
+			"name" : "Cliffside Ascent",
+			"tier" : 1,
+			"type" : "Traversal",
+			"description" : "A steep, rocky cliffside tall enough to make traversal dangerous.",
+			"impulses" : "Cast the unready down to a rocky doom, draw people in with promise of what lies at the top.",
+			"difficulty" : "12",
+			"potentialAdversaries" : [
+				"Construct",
+				"Deeproot Defender",
+				"Giant Scorpion",
+				"Glass Snake"
+			],
+			"features" : [
+				{
+					"name" : "The Climb",
+					"type" : "Passive",
+					"description" : [
+						"Climbing up the cliff side uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:",
+						"- Critical Success: Tick down 3",
+						"- Success with Hope: Tick down 2",
+						"- Success with Fear: Tick down 1",
+						"- Failure with Hope: No advancement",
+						"- Failure with Fear: Tick up 1",
+						"When the countdown triggers, the party has made it to the top of the cliff.",
+						"What strange formations are the stones arranged in? What ominous warnings did previous adventurers leave?"
+					]
+				},
+				{
+					"name" : "Pitons Left Behind",
+					"type" : "Passive",
+					"description" : [
+						"Previous climbers left behind large metal rods that climbers can use to aid their ascent. If a PC using the pitons fails an action roll to climb, they can mark a Stress instead of ticking the countdown up.",
+						"What do the shape and material of these pitons tell you about the previous climbers? How far apart are they from one another?"
+					]
+				},
+				{
+					"name" : "Fall",
+					"type" : "Action",
+					"description" : [
+						"Spend a Fear to have a PC’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they hit the ground and tick up the countdown by 2. The PC takes 1d12 physical damage if the countdown is between 8 and 12, 2d12 between 4 and 7, and 3d12 at 3 or lower.",
+						"How can you tell many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?"
+					]
+				}
+			],
+			"source": [
+				{
+					"id": "104/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
 		}
 	]
 }
