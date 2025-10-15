@@ -9,13 +9,14 @@ import ancestryData from '../types/ancestries.js';
 import classData from '../types/classes.js';
 import communityData from '../types/communities.js';
 import domainData from '../types/domains.js';
+import environmentData from '../types/environments.js';
 import subclassData from '../types/subclasses.js';
 
 
 const URL = '/api/';
 
 function Input({ setData, type, setType }) {
-	const types = [ 'ancestry', 'class', 'community', 'domain', 'subclass' ];
+	const types = [ 'ancestry', 'class', 'community', 'domain', 'environment', 'subclass' ];
 
 	const [autoCompleteSuggestions, setAutoCompleteSuggestions] = useState([ '', '' ]);
 
@@ -23,11 +24,12 @@ function Input({ setData, type, setType }) {
 
 	useEffect(()=>{
 		const suggestionsMap = {
-			'ancestry'  : ancestryData.suggestionsRoute,
-			'class'     : classData.suggestionsRoute,
-			'community' : communityData.suggestionsRoute,
-			'domain'    : domainData.suggestionsRoute,
-			'subclass'  : subclassData.suggestionsRoute
+			'ancestry'    : ancestryData.suggestionsRoute,
+			'class'       : classData.suggestionsRoute,
+			'community'   : communityData.suggestionsRoute,
+			'domain'      : domainData.suggestionsRoute,
+			'environment' : environmentData.suggestionsRoute,
+			'subclass'    : subclassData.suggestionsRoute
 		};
 		if(!Object.keys(suggestionsMap).includes(type)){
 			console.log('Unknown type for suggestions:', type);
@@ -58,11 +60,12 @@ function Input({ setData, type, setType }) {
 		try {
 
 			const dataMap = {
-				'ancestry'  : ancestryData.dataRoute,
-				'class'     : classData.dataRoute,
-				'community' : communityData.dataRoute,
-				'domain'    : domainData.dataRoute,
-				'subclass'  : subclassData.dataRoute
+				'ancestry'    : ancestryData.dataRoute,
+				'class'       : classData.dataRoute,
+				'community'   : communityData.dataRoute,
+				'domain'      : domainData.dataRoute,
+				'environment' : environmentData.dataRoute,
+				'subclass'    : subclassData.dataRoute
 			};
 
 			// console.log(dataURL);
