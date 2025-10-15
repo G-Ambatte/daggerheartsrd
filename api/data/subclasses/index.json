@@ -457,7 +457,7 @@
             },
             {
               "name": "Iron Will",
-              "description": "when you take physical damage, you can **mark an additional Armor Slot** to reduce the severity.",
+              "description": "When you take physical damage, you can **mark an additional Armor Slot** to reduce the severity.",
               "frequency": "ability",
               "options": []
             }
