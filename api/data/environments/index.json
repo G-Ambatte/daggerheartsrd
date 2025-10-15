@@ -68,6 +68,14 @@
 						"What color does the grass turn as the elemental appears? How does the chaos warp insects and small wildlife within the grove?"
 					]
 				}
+			],
+			"source": [
+				{
+					"id": "103/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
 			]
 		}
 	]
