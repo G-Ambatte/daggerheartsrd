@@ -29,7 +29,7 @@ const formatFn = (data)=>{
 	:
 
 	{{source ${data.source.map((source)=>{return `*${source.id} ${source.set}, ${source.updated} - ${source.publisher}*`;}).join('\n')}}}
-}}`
+	}}`
 };
 
 export {
