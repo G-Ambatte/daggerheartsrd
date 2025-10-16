@@ -276,7 +276,7 @@
 		{
 			"name" : "Giant Mosquitoes",
 			"tier" : "1",
-			"type" : "Horde (/HP)",
+			"type" : "Horde (5/HP)",
 			"description" : "Dozens of fist-sized mosquitoes, flying together for protection.",
 			"tactics" : "Fly away, harass, steal blood",
 			"difficulty" : 10,
@@ -1504,7 +1504,7 @@
 		{
 			"name" : "Swarm Of Rats",
 			"tier" : "1",
-			"type" : "Horde (1/HP)",
+			"type" : "Horde (10/HP)",
 			"description" : "A skittering mass of ordinary rodents moving as one like a ravenous wave.",
 			"tactics" : "Consume, obscure, swarm",
 			"difficulty" : 10,
