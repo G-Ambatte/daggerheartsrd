@@ -5,7 +5,7 @@ const category = 'subclasses';
 const suggestionsRoute = '/api/subclasses';
 const dataRoute = '/api/subclass';
 
-export default {
+export {
 	type,
 	category,
 	suggestionsRoute,
