@@ -10,7 +10,7 @@ import Result from './components/Result/result';
 
 function App() {
   const [data, setData] = useState();
-  const [type, setType] = useState('ancestry');
+  const [type, setType] = useState('adversary');
 
   // const loadHomebrewery = function(){
   //   const url = 'http://localhost:8000/new';
