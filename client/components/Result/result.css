@@ -22,14 +22,15 @@
 		max-height: 80vh;
 		background-color: var(--color-aft);
 		color: var(--color-fore);
+		resize: none;
 
 		& ~ button {
 			--color-light: #eee;
 			--color-mid: #777;
 			--color-dark: #333;
 			position: absolute;
-			top: 50px;
-			right: 20px;
+			bottom: 10px;
+			right: 0px;
 			background-color: var(--color-light);
 			border-color: var(--color-mid);
 			color: var(--color-dark);
