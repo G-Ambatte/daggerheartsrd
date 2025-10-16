@@ -3,6 +3,7 @@ import ViteExpress from "vite-express";
 
 import asyncHandler from "express-async-handler";
 
+import adversaryData from './data/adversaries/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
 import communityData from './data/communities/index.json' with { type: 'json' };
@@ -14,7 +15,7 @@ import subclassData from './data/subclasses/index.json' with { type: 'json' };
 
 const getDataFromJSON = async (id, dataObj, genre = false)=>{
   if(!genre){
-    return dataObj[id];
+    return dataObj[id].map((obj)=>{return obj.name;});
   }
   const result = dataObj[genre].filter((obj)=>{return id.toLowerCase() == obj.name.toLowerCase();});
   return result;
@@ -24,13 +25,20 @@ const getDataFromJSON = async (id, dataObj, genre = false)=>{
 const app = express();
 
 // Ancestries
-app.get("/api/ancestries", asyncHandler(async (req, res) => {
-  const data = await getDataFromJSON('ancestries', ancestryData);
+app.get("/api/adversaries", asyncHandler(async (req, res) => {
+  const data = await getDataFromJSON('adversaries', adversaryData);
+  res.send(data);
+}));
+
+// Ancestry
+app.get("/api/adversary/:id", asyncHandler(async (req, res) => {
+  const data = await getDataFromJSON(req.params.id, adversaryData, 'adversaries');
+  if(data.length == 0) return res.status(404).json('Unknown ancestry');
   res.send(data);
 }));
 
 // Ancestries
-app.get("/ancestries", asyncHandler(async (req, res) => {
+app.get("/api/ancestries", asyncHandler(async (req, res) => {
   const data = await getDataFromJSON('ancestries', ancestryData);
   res.send(data);
 }));
