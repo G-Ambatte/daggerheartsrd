@@ -5,7 +5,7 @@ const category = 'classes';
 const suggestionsRoute = '/api/classes';
 const dataRoute = '/api/class';
 
-export default {
+export {
 	type,
 	category,
 	suggestionsRoute,

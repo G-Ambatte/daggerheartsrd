@@ -6,8 +6,8 @@ import AutocompleteTextField from 'react-autocomplete-input';
 import 'react-autocomplete-input/dist/bundle.css';
 
 import * as adversaryData from '../types/adversaries.js';
-import ancestryData from '../types/ancestries.js';
-import classData from '../types/classes.js';
+import * as ancestryData from '../types/ancestries.js';
+import * as classData from '../types/classes.js';
 import communityData from '../types/communities.js';
 import domainData from '../types/domains.js';
 import * as environmentData from '../types/environments.js';
