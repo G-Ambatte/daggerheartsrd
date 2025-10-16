@@ -7,13 +7,19 @@ import { formatFn as environmentFormat } from '../../types/environments.js';
 
 function Result({ data, type }) {
 
-	const [ activeTab, setActiveTab ] = useState('raw');
+	const DEFAULT_TAB = 'raw';
+
+	const [ activeTab, setActiveTab ] = useState(DEFAULT_TAB);
 	const [ text, setText ] = useState('');
 	const [ copyState, setCopyState] = useState(false);
 
 	useEffect(()=>{
 		setCopyState(false);
 	}, [data])
+
+	useEffect(()=>{
+		setActiveTab(DEFAULT_TAB);
+	}, [type])
 
 	useEffect(()=>{
 		if(!data) return;
@@ -23,7 +29,7 @@ function Result({ data, type }) {
 			'environment' : environmentFormat
 		}
 
-		if(activeTab == 'homebrewery') setText(outputMap[type] ? `${outputMap[type](data)}\n\n<style>${resultStyle}</style>` : '');
+		if(activeTab == 'homebrewery') setText(Object.keys(outputMap).includes(type) ? `${outputMap[type](data)}\n\n<style>${resultStyle}</style>` : '');
 		if(activeTab == 'raw') setText(JSON.stringify(data));
 
 		setCopyState(false);
