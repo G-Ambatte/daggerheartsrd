@@ -5,7 +5,7 @@ const category = 'communities';
 const suggestionsRoute = '/api/communities';
 const dataRoute = '/api/community';
 
-export default {
+export {
 	type,
 	category,
 	suggestionsRoute,
