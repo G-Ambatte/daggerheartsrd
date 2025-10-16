@@ -15,7 +15,7 @@ import subclassData from './data/subclasses/index.json' with { type: 'json' };
 
 const getDataFromJSON = async (id, dataObj, genre = false)=>{
   if(!genre){
-    return dataObj[id].map((obj)=>{return obj.name;});
+    return dataObj[id];
   }
   const result = dataObj[genre].filter((obj)=>{return id.toLowerCase() == obj.name.toLowerCase();});
   return result;
