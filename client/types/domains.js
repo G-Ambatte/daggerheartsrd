@@ -5,7 +5,7 @@ const category = 'domains';
 const suggestionsRoute = '/api/domains';
 const dataRoute = '/api/domain';
 
-export default {
+export {
 	type,
 	category,
 	suggestionsRoute,

@@ -9,7 +9,7 @@ import * as adversaryData from '../types/adversaries.js';
 import * as ancestryData from '../types/ancestries.js';
 import * as classData from '../types/classes.js';
 import * as communityData from '../types/communities.js';
-import domainData from '../types/domains.js';
+import * as domainData from '../types/domains.js';
 import * as environmentData from '../types/environments.js';
 import subclassData from '../types/subclasses.js';
 
