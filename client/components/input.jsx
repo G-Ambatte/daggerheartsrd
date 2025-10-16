@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react'
 import AutocompleteTextField from 'react-autocomplete-input';
 import 'react-autocomplete-input/dist/bundle.css';
 
+import * as adversaryData from '../types/adversaries.js';
 import ancestryData from '../types/ancestries.js';
 import classData from '../types/classes.js';
 import communityData from '../types/communities.js';
@@ -16,7 +17,7 @@ import subclassData from '../types/subclasses.js';
 const URL = '/api/';
 
 function Input({ setData, type, setType }) {
-	const types = [ 'ancestry', 'class', 'community', 'domain', 'environment', 'subclass' ];
+	const types = [ 'adversary', 'ancestry', 'class', 'community', 'domain', 'environment', 'subclass' ];
 
 	const [autoCompleteSuggestions, setAutoCompleteSuggestions] = useState([ '', '' ]);
 
@@ -24,6 +25,7 @@ function Input({ setData, type, setType }) {
 
 	useEffect(()=>{
 		const suggestionsMap = {
+			'adversary'   : adversaryData.suggestionsRoute,
 			'ancestry'    : ancestryData.suggestionsRoute,
 			'class'       : classData.suggestionsRoute,
 			'community'   : communityData.suggestionsRoute,
@@ -60,6 +62,7 @@ function Input({ setData, type, setType }) {
 		try {
 
 			const dataMap = {
+				'adversary'   : adversaryData.dataRoute,
 				'ancestry'    : ancestryData.dataRoute,
 				'class'       : classData.dataRoute,
 				'community'   : communityData.dataRoute,
