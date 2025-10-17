@@ -3,6 +3,14 @@
 		{
 			"name" : "Acid Burrower",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "075/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A horse-sized insect with digging claws and acidic blood.",
 			"tactics" : "Burrow, drag away, feed, reposition",
@@ -47,6 +55,14 @@
 		{
 			"name" : "Bear",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "075/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A large bear with thick fur and powerful claws.",
 			"tactics" : "Climb, defend territory, pummel, track",
@@ -85,6 +101,14 @@
 		{
 			"name" : "Cave Ogre",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "075/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A massive humanoid who sees all sapient life as food.",
 			"tactics" : "Bite off heads, feast, rip limbs, stomp, throw enemies",
@@ -128,6 +152,14 @@
 		{
 			"name" : "Construct",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "075/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A roughly humanoid being of stone and steel, assembled and animated by magic.",
 			"tactics" : "Destroy environment, serve creator, smash target, trample groups",
@@ -175,6 +207,14 @@
 		{
 			"name" : "Courtier",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "076/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "An ambitious and ostentatiously dressed socialite.",
 			"tactics" : "Discredit, gain favor, maneuver, scheme",
@@ -209,6 +249,14 @@
 		{
 			"name" : "Deeproot Defender",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "076/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A burly vegetable-person with grasping vines.",
 			"tactics" : "Ambush, grab, protect, pummel",
@@ -243,6 +291,14 @@
 		{
 			"name" : "Dire Wolf",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "076/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A large wolf with menacing teeth, seldom encountered alone.",
 			"tactics" : "Defend territory, harry, protect pack, surround, trail",
@@ -276,6 +332,14 @@
 		{
 			"name" : "Giant Mosquitoes",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "076/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (/HP)",
 			"description" : "Dozens of fist-sized mosquitoes, flying together for protection.",
 			"tactics" : "Fly away, harass, steal blood",
@@ -315,6 +379,14 @@
 		{
 			"name" : "Giant Rat",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "076/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A cat-sized rodent skilled at scavenging and survival.",
 			"tactics" : "Burrow, hunger, scavenge, wear down",
@@ -349,6 +421,14 @@
 		{
 			"name" : "Giant Scorpion",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "076/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A human-sized arachnid with tearing claws and a stinging tail.",
 			"tactics" : "Ambush, feed, grapple, poison",
@@ -388,6 +468,14 @@
 		{
 			"name" : "Glass Snake",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "077/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.",
 			"tactics" : "Climb, feed, keep distance, scare",
@@ -426,6 +514,14 @@
 		{
 			"name" : "Harrier",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "077/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A nimble fighter armed with javelins.",
 			"tactics" : "Flank, harry, kite, profit",
@@ -460,6 +556,14 @@
 		{
 			"name" : "Archer Guard",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "077/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors.",
 			"tactics" : "Arrest, close gates, make it through the day, pin down",
@@ -488,6 +592,14 @@
 		{
 			"name" : "Bladed Guard",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "077/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "An armored guard bearing a sword and shield painted in the settlement’s colors.",
 			"tactics" : "Arrest, close gates, make it through the day, pin down",
@@ -521,6 +633,14 @@
 		{
 			"name" : "Head Guard",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "077/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A seasoned guard with a mace, a whistle, and a bellowing voice.",
 			"tactics" : "Arrest, close gates, pin down, seek glory",
@@ -560,6 +680,14 @@
 		{
 			"name" : "Jagged Knife Bandit",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "077/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A cunning criminal in a cloak bearing one of the gang’s iconic knives.",
 			"tactics" : "Escape, profit, steal, throw smoke",
@@ -594,6 +722,14 @@
 		{
 			"name" : "Jagged Knife Hexer",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "078/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.",
 			"tactics" : "Command, hex, profit",
@@ -628,6 +764,14 @@
 		{
 			"name" : "Jagged Knife Kneebreaker",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "078/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "An imposing brawler carrying a large club.",
 			"tactics" : "Grapple, intimidate, profit, steal",
@@ -662,6 +806,14 @@
 		{
 			"name" : "Jagged Knife Lackey",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "078/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A thief with simple clothes and small daggers, eager to prove themselves.",
 			"tactics" : "Escape, profit, throw smoke",
@@ -695,6 +847,14 @@
 		{
 			"name" : "Jagged Knife Lieutenant",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "078/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A seasoned bandit in quality leathers with a strong voice and cunning eyes.",
 			"tactics" : "Bully, command, profit, reinforce",
@@ -739,6 +899,14 @@
 		{
 			"name" : "Jagged Knife Shadow",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "078/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets.",
 			"tactics" : "Ambush, conceal, divide, profit",
@@ -773,6 +941,14 @@
 		{
 			"name" : "Jagged Knife Sniper",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "078/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A lanky bandit striking from cover with a shortbow.",
 			"tactics" : "Ambush, hide, profit, reposition",
@@ -802,6 +978,14 @@
 		{
 			"name" : "Merchant",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "079/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "A finely dressed trader with a keen eye for financial gain.",
 			"tactics" : "Buy low and sell high, create demand, inflate prices, seek profit",
@@ -835,6 +1019,14 @@
 		{
 			"name" : "Minor Chaos Elemental",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "079/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A coruscating mass of uncontrollable magic.",
 			"tactics" : "Confound, destabilize, transmogrify",
@@ -883,6 +1075,14 @@
 		{
 			"name" : "Minor Fire Elemental",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "079/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A living flame the size of a large bonfire.",
 			"tactics" : "Encircle enemies, grow in size, intimidate, start fires",
@@ -930,6 +1130,14 @@
 		{
 			"name" : "Minor Demon",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "079/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A crimson-hued creature from the Circles Below, consumed by rage against all mortals.",
 			"tactics" : "Act erratically, corral targets, relish pain, torment",
@@ -977,6 +1185,14 @@
 		{
 			"name" : "Minor Treant",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "080/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "An ambulatory sapling rising up to defend their forest.",
 			"tactics" : "Crush, overwhelm, protect",
@@ -1009,6 +1225,14 @@
 		{
 			"name" : "Green Ooze",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "080/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A moving mound of translucent green slime.",
 			"tactics" : "Camouflage, consume and multiply, creep up, envelop",
@@ -1052,6 +1276,14 @@
 		{
 			"name" : "Tiny Green Ooze",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "080/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A small moving mound of translucent green slime.",
 			"tactics" : "Camouflage, creep up",
@@ -1079,6 +1311,14 @@
 		{
 			"name" : "Red Ooze",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "080/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A moving mound of translucent flaming red slime.",
 			"tactics" : "Camouflage, consume and multiply, ignite, start fires",
@@ -1117,6 +1357,14 @@
 		{
 			"name" : "Tiny Red Ooze",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "080/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A small moving mound of translucent flaming red slime",
 			"tactics" : "Blaze, camouflage",
@@ -1144,6 +1392,14 @@
 		{
 			"name" : "Petty Noble",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "080/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "A richly dressed and adorned aristocrat brimming with hubris.",
 			"tactics" : "Abuse power, gather resources, mobilize minions",
@@ -1182,6 +1438,14 @@
 		{
 			"name" : "Pirate Captain",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "081/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A charismatic sea dog with an impressive hat, eager to raid and plunder.",
 			"tactics" : "Command, make ’em walk the plank, plunder, raid",
@@ -1225,6 +1489,14 @@
 		{
 			"name" : "Pirate Raiders",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "081/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (3/HP)",
 			"description" : "Seafaring scoundrels moving in a ravaging pack.",
 			"tactics" : "Gang up, plunder, raid",
@@ -1259,6 +1531,14 @@
 		{
 			"name" : "Pirate Tough",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "081/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A thickly muscled and tattooed pirate with melon-sized fists.",
 			"tactics" : "Plunder, raid, smash, terrorize",
@@ -1293,6 +1573,14 @@
 		{
 			"name" : "Sellsword",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "081/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "An armed mercenary testing their luck.",
 			"tactics" : "Charge, lacerate, overwhelm, profit",
@@ -1325,6 +1613,14 @@
 		{
 			"name" : "Skeleton Archer",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "081/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A fragile skeleton with a shortbow and arrows.",
 			"tactics" : "Perforate distracted targets, play dead, steal skin",
@@ -1357,6 +1653,14 @@
 		{
 			"name" : "Skeleton Dredge",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "081/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A clattering pile of bones.",
 			"tactics" : "Fall apart, overwhelm, play dead, steal skin",
@@ -1389,6 +1693,14 @@
 		{
 			"name" : "Skeleton Knight",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "082/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A large armored skeleton with a huge blade.",
 			"tactics" : "Cut down the living, steal skin, wreak havoc",
@@ -1427,6 +1739,14 @@
 		{
 			"name" : "Skeleton Warrior",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "082/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A dirt-covered skeleton armed with a rusted blade.",
 			"tactics" : "Feign death, gang up, steal skin",
@@ -1460,6 +1780,14 @@
 		{
 			"name" : "Spellblade",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "082/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A mercenary combining swordplay and magic to deadly effect.",
 			"tactics" : "Blast, command, endure",
@@ -1504,6 +1832,14 @@
 		{
 			"name" : "Swarm Of Rats",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "075/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (1/HP)",
 			"description" : "A skittering mass of ordinary rodents moving as one like a ravenous wave.",
 			"tactics" : "Consume, obscure, swarm",
@@ -1537,6 +1873,14 @@
 		{
 			"name" : "Sylvan Soldier",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "082/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A faerie warrior adorned in armor made of leaves and bark.",
 			"tactics" : "Ambush, hide, overwhelm, protect, trail",
@@ -1576,6 +1920,14 @@
 		{
 			"name" : "Tangle Bramble Swarm",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "082/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (3/HP)",
 			"description" : "A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd.",
 			"tactics" : "Digest, entangle, immobilize",
@@ -1615,6 +1967,14 @@
 		{
 			"name" : "Tangle Bramble",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "083/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "An animate, blood-drinking tumbleweed.",
 			"tactics" : "Combine, drain, entangle",
@@ -1652,6 +2012,14 @@
 		{
 			"name" : "Weaponmaster",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "083/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A master-at-arms wielding a sword twice their size.",
 			"tactics" : "Act first, aim for the weakest, intimidate",
@@ -1690,6 +2058,14 @@
 		{
 			"name" : "Young Dryad",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "083/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "An imperious tree-person leading their forest’s defenses.",
 			"tactics" : "Command, nurture, prune the unwelcome",
@@ -1729,6 +2105,14 @@
 		{
 			"name" : "Brawny Zombie",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "083/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A large corpse, decay-bloated and angry.",
 			"tactics" : "Crush, destroy, hail debris, slam",
@@ -1768,6 +2152,14 @@
 		{
 			"name" : "Patchwork Zombie Hulk",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "083/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.",
 			"tactics" : "Absorb corpses, flail, hunger, terrify",
@@ -1812,6 +2204,14 @@
 		{
 			"name" : "Rotted Zombie",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "083/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A decaying corpse ambling toward their prey.",
 			"tactics" : "Eat flesh, hunger, maul, surround",
@@ -1844,6 +2244,14 @@
 		{
 			"name" : "Shambling Zombie",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "084/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "An animated corpse that moves shakily, driven only by hunger.",
 			"tactics" : "Devour, hungry, mob enemy, shred flesh",
@@ -1877,6 +2285,14 @@
 		{
 			"name" : "Zombie Pack",
 			"tier" : "1",
+			"sources" : [
+			{
+				"id": "084/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (2/HP)",
 			"description" : "A group of shambling corpses instinctively moving together.",
 			"tactics" : "Consume flesh, hunger, maul",
@@ -1910,6 +2326,14 @@
 		{
 			"name" : "Archer Squadron",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "084/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (2/HP)",
 			"description" : "A group of trained archers bearing massive bows.",
 			"tactics" : "Stick together, survive, volley fire",
@@ -1948,6 +2372,14 @@
 		{
 			"name" : "Apprentice Assassin",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "084/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A young trainee eager to prove themselves.",
 			"tactics" : "Act reckless, kill, prove their worth, show off",
@@ -1981,6 +2413,14 @@
 		{
 			"name" : "Assassin Poisoner",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "084/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A cunning scoundrel skilled in both poisons and ambushing.",
 			"tactics" : "Anticipate, get paid, kill, taint food and water",
@@ -2020,6 +2460,14 @@
 		{
 			"name" : "Master Assassin",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "084/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A seasoned killer with a threatening voice and a deadly blade.",
 			"tactics" : "Ambush, get out alive, kill, prepare for all scenarios",
@@ -2063,6 +2511,14 @@
 		{
 			"name" : "Battle Box",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "085/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A cube-shaped construct with a different rune on each of their six sides.",
 			"tactics" : "Change tactics, trample foes, wait in disguise",
@@ -2107,6 +2563,14 @@
 		{
 			"name" : "Chaos Skull",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "085/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A floating humanoid skull animated by scintillating magic.",
 			"tactics" : "Cackle, consume magic, serve creator",
@@ -2150,6 +2614,14 @@
 		{
 			"name" : "Conscript",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "085/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A poorly trained civilian pressed into war.",
 			"tactics" : "Follow orders, gang up, survive",
@@ -2182,6 +2654,14 @@
 		{
 			"name" : "Courtesan",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "085/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "An accomplished manipulator and master of the social arts.",
 			"tactics" : "Entice, maneuver, secure patrons",
@@ -2211,6 +2691,14 @@
 		{
 			"name" : "Cult Adept",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "085/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "An experienced mage wielding shadow and fear.",
 			"tactics" : "Curry favor, hinder foes, uncover knowledge",
@@ -2255,6 +2743,14 @@
 		{
 			"name" : "Cult Fang",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "086/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A professional killer-turned-cultist.",
 			"tactics" : "Capture sacrifices, isolate prey, rise in the ranks",
@@ -2287,6 +2783,14 @@
 		{
 			"name" : "Cult Initiate",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "086/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A low-ranking cultist in simple robes, eager to gain power.",
 			"tactics" : "Follow orders, gain power, seek forbidden knowledge",
@@ -2318,6 +2822,14 @@
 		{
 			"name" : "Demonic Hound Pack",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "086/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (1/HP)",
 			"description" : "Unnatural hounds lit from within by hellfire.",
 			"tactics" : "Cause fear, consume flesh, please masters",
@@ -2357,6 +2869,14 @@
 		{
 			"name" : "Electric Eels",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "086/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (2/HP)",
 			"description" : "A swarm of eels that encircle and electrocute.",
 			"tactics" : "Avoid larger predators, shock prey, tear apart",
@@ -2390,6 +2910,14 @@
 		{
 			"name" : "Elite Soldier",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "086/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "An armored squire or experienced commoner looking to advance.",
 			"tactics" : "Gain glory, keep order, make alliances",
@@ -2423,6 +2951,14 @@
 		{
 			"name" : "Failed Experiment",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "086/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A magical necromantic experiment gone wrong, leaving them warped and ungainly.",
 			"tactics" : "Devour, hunt, track",
@@ -2462,6 +2998,14 @@
 		{
 			"name" : "Giant Beastmaster",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "087/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A leather-clad warrior bearing a whip and massive bow.",
 			"tactics" : "Command, make a living, maneuver, pin down, protect companion animals",
@@ -2500,6 +3044,14 @@
 		{
 			"name" : "Giant Brawler",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "087/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "An especially muscular giant wielding a warhammer larger than a human.",
 			"tactics" : "Make a living, overwhelm, slam, topple",
@@ -2539,6 +3091,14 @@
 		{
 			"name" : "Giant Recruit",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "087/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A giant fighter wearing borrowed armor.",
 			"tactics" : "Batter, make a living, overwhelm, terrify",
@@ -2571,6 +3131,14 @@
 		{
 			"name" : "Giant Eagle",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "087/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A giant bird of prey with blood-stained talons.",
 			"tactics" : "Hunt prey, stay mobile, strike decisively",
@@ -2614,6 +3182,14 @@
 		{
 			"name" : "Gorgon",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "088/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed.",
 			"tactics" : "Corner, hit-and-run, petrify, seek vengeance",
@@ -2663,6 +3239,14 @@
 		{
 			"name" : "Juvenile Flickerfly",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "088/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.",
 			"tactics" : "Collect shiny things, hunt, swoop",
@@ -2706,6 +3290,14 @@
 		{
 			"name" : "Knight Of The Realm",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "088/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A decorated soldier with heavy armor and a powerful steed.",
 			"tactics" : "Run down, seek glory, show dominance",
@@ -2750,6 +3342,14 @@
 		{
 			"name" : "Masked Thief",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "088/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A cunning thief with acrobatic skill and a flair for the dramatic.",
 			"tactics" : "Evade, hide, pilfer, profit",
@@ -2784,6 +3384,14 @@
 		{
 			"name" : "Merchant Baron",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "088/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "An accomplished merchant with a large operation under their command.",
 			"tactics" : "Abuse power, gather resources, mobilize minions",
@@ -2817,6 +3425,14 @@
 		{
 			"name" : "Minotaur Wrecker",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "089/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A massive bull-headed firbolg with a quick temper.",
 			"tactics" : "Consume, gore, navigate, overpower, pursue",
@@ -2856,6 +3472,14 @@
 		{
 			"name" : "Mortal Hunter",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "089/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "An undead figure wearing a heavy leather coat, with searching eyes and a casually cruel demeanor.",
 			"tactics" : "Devour, hunt, track",
@@ -2900,6 +3524,14 @@
 		{
 			"name" : "Royal Advisor",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "089/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "A high-ranking courtier with the ear of the local nobility.",
 			"tactics" : "Curry favor, manufacture evidence, scheme",
@@ -2939,6 +3571,14 @@
 		{
 			"name" : "Secret-Keeper",
 				"tier" : "2",
+			"sources" : [
+			{
+				"id": "089/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A clandestine leader with a direct channel to the Fallen Gods.",
 			"tactics" : "Amass great power, plot, take command",
@@ -2982,6 +3622,14 @@
 		{
 			"name" : "Shark",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "090/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A large aquatic predator, always on the move.",
 			"tactics" : "Find the blood, isolate prey, target the weak",
@@ -3021,6 +3669,14 @@
 		{
 			"name" : "Siren",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "090/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A half-fish person with shimmering scales and an irresistible voice.",
 			"tactics" : "Consume, lure prey, subdue with song",
@@ -3055,6 +3711,14 @@
 		{
 			"name" : "Spectral Archer",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "090/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A ghostly fighter with an ethereal bow, unable to move on while their charge is vulnerable.",
 			"tactics" : "Move through solid objects, stay out of the fray, rehash old battles",
@@ -3088,6 +3752,14 @@
 		{
 			"name" : "Spectral Captain",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "090/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A ghostly commander leading their troops beyond death.",
 			"tactics" : "Move through solid objects, rally troops, rehash old battles",
@@ -3131,6 +3803,14 @@
 		{
 			"name" : "Spectral Guardian",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "090/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A ghostly fighter with spears and swords, anchored by duty.",
 			"tactics" : "Move through solid objects, protect treasure, rehash old battles",
@@ -3164,6 +3844,14 @@
 		{
 			"name" : "Spy",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "090/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "A skilled espionage agent with a knack for being in the right place to overhear secrets.",
 			"tactics" : "Cut and run, disguise appearance, eavesdrop",
@@ -3198,6 +3886,14 @@
 		{
 			"name" : "Stonewraith",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "091/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.",
 			"tactics" : "Defend territory, isolate prey, stalk",
@@ -3242,6 +3938,14 @@
 		{
 			"name" : "War Wizard",
 			"tier" : "2",
+			"sources" : [
+			{
+				"id": "091/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A battle-hardened mage trained in destructive magic.",
 			"tactics" : "Develop new spells, seek power, shatter formations",
@@ -3290,6 +3994,14 @@
 		{
 			"name" : "Adult Flickerfly",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "091/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A winged insect the size of a large house with iridescent scales and wings that move too fast to track.",
 			"tactics" : "Collect shiny things, hunt, nest, swoop",
@@ -3348,6 +4060,14 @@
 		{
 			"name" : "Demon Of Avarice",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "091/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "A regal cloaked monstrosity with circular horns adorned with treasure.",
 			"tactics" : "Consume, fuel greed, sow dissent",
@@ -3387,6 +4107,14 @@
 		{
 			"name" : "Demon Of Despair",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "092/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A cloaked demon-creature with long limbs, seeping shadows.",
 			"tactics" : "Make fear contagious, stick to the shadows, undermine resolve",
@@ -3430,6 +4158,14 @@
 		{
 			"name" : "Demon Of Hubris",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "092/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.",
 			"tactics" : "Condescend, declare premature victory, prove superiority",
@@ -3478,6 +4214,14 @@
 		{
 			"name" : "Demon Of Jealousy",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "092/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A fickle creature of spindly limbs and insatiable desires.",
 			"tactics" : "Join in on others’ success, take what belongs to others, hold grudges",
@@ -3521,6 +4265,14 @@
 		{
 			"name" : "Demon Of Wrath",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "092/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A hulking demon with boulder-sized fists, driven by endless rage.",
 			"tactics" : "Fuel anger, impress rivals, wreak havoc",
@@ -3565,6 +4317,14 @@
 		{
 			"name" : "Dire Bat",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "093/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A wide-winged pet endlessly loyal to their vampire owner.",
 			"tactics" : "Dive-bomb, hide, protect leader",
@@ -3604,6 +4364,14 @@
 		{
 			"name" : "Dryad",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "093/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A nature spirit in the form of a humanoid tree.",
 			"tactics" : "Command, cultivate, drive out, preserve the forest",
@@ -3642,6 +4410,14 @@
 		{
 			"name" : "Elemental Spark",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "093/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A blazing mote of elemental fire.",
 			"tactics" : "Blast, consume, gain mass",
@@ -3674,6 +4450,14 @@
 		{
 			"name" : "Greater Earth Elemental",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "093/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A living landslide of boulders and dust, as large as a house.",
 			"tactics" : "Avalanche, knock over, pummel",
@@ -3722,6 +4506,14 @@
 		{
 			"name" : "Greater Water Elemental",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "093/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "A huge living wave that crashes down upon enemies.",
 			"tactics" : "Deluge, disperse, drown",
@@ -3760,6 +4552,14 @@
 		{
 			"name" : "Huge Green Ooze",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "094/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Skulk",
 			"description" : "A translucent green mound of acid taller than most humans.",
 			"tactics" : "Camouflage, creep up, envelop, multiply",
@@ -3804,6 +4604,14 @@
 		{
 			"name" : "Hydra",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "094/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.",
 			"tactics" : "Devour, regenerate, terrify",
@@ -3852,6 +4660,14 @@
 		{
 			"name" : "Monarch",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "094/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Social",
 			"description" : "The sovereign ruler of a nation, wreathed in the privilege of tradition and wielding unmatched power in their domain.",
 			"tactics" : "Control vassals, destroy rivals, forge a legacy",
@@ -3891,6 +4707,14 @@
 		{
 			"name" : "Stag Knight",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "094/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "A knight with huge, majestic antlers wearing armor made of dangerous thorns.",
 			"tactics" : "Isolate, maneuver, protect the forest, weed the unwelcome",
@@ -3929,6 +4753,14 @@
 		{
 			"name" : "Oak Treant",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "095/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A sturdy animate old-growth tree.",
 			"tactics" : "Hide in plain sight, preserve the forest, root down, swing branches",
@@ -3967,6 +4799,14 @@
 		{
 			"name" : "Treant Sapling",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "095/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A small, sentient tree sapling.",
 			"tactics" : "Blend in, preserve the forest, pummel, surround",
@@ -3998,6 +4838,14 @@
 		{
 			"name" : "Head Vampire",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "095/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A captivating undead dressed in aristocratic finery.",
 			"tactics" : "Create thralls, charm, command, fly, intimidate",
@@ -4047,6 +4895,14 @@
 		{
 			"name" : "Vampire",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "095/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Standard",
 			"description" : "An intelligent undead with blood-stained lips and a predator’s smile.",
 			"tactics" : "Bite, charm, deceive, feed, intimidate",
@@ -4081,6 +4937,14 @@
 		{
 			"name" : "Vault Guardian Gaoler",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "095/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "A boxy, dust-covered construct with thick metallic swinging doors on their torso.",
 			"tactics" : "Carry away, entrap, protect, pummel",
@@ -4114,6 +4978,14 @@
 		{
 			"name" : "Vault Guardian Sentinel",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "096/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A dust-covered golden construct with boxy limbs and a huge mace for a hand.",
 			"tactics" : "Destroy at any cost, expunge, protect",
@@ -4157,6 +5029,14 @@
 		{
 			"name" : "Vault Guardian Turret",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "096/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "A massive living turret with reinforced armor and twelve piston- driven mechanical legs.",
 			"tactics" : "Concentrate fire, lock down, mark, protect",
@@ -4200,6 +5080,14 @@
 		{
 			"name" : "Young Ice Dragon",
 			"tier" : "3",
+			"sources" : [
+			{
+				"id": "096/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A glacier-blue dragon with four powerful limbs and frost-tinged wings.",
 			"tactics" : "Avalanche, defend lair, fly, freeze, defend what is mine, maul",
@@ -4258,6 +5146,14 @@
 		{
 			"name" : "Arch-Necromancer",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "097/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A decaying mage adorned in dark, tattered robes.",
 			"tactics" : "Corrupt, decay, flee to fight another day, resurrect",
@@ -4306,6 +5202,14 @@
 		{
 			"name" : "Fallen Shock Troop",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "097/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A cursed soul bound to the Fallen’s will.",
 			"tactics" : "Crush, dominate, earn relief, punish",
@@ -4343,6 +5247,14 @@
 		{
 			"name" : "Fallen Sorcerer",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "097/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "A powerful mage bound by the bargains they made in life.",
 			"tactics" : "Acquire, dishearten, dominate, torment",
@@ -4387,6 +5299,14 @@
 		{
 			"name" : "Fallen Warlord: Realm-Breaker",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "097/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A Fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.",
 			"tactics" : "Corrupt, dominate, punish, break the weak",
@@ -4440,6 +5360,14 @@
 		{
 			"name" : "Fallen Warlord: Undefeated Champion",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "098/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "That which only the most feared have a chance to fear.",
 			"tactics" : "Dispatch merciless death, punish the defiant, secure victory at any cost",
@@ -4498,6 +5426,14 @@
 		{
 			"name" : "Hallowed Archer",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "098/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Ranged",
 			"description" : "Spirit soldiers with sanctified bows.",
 			"tactics" : "Focus fire, obey, reposition, volley",
@@ -4531,6 +5467,14 @@
 		{
 			"name" : "Hallowed Soldier",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "098/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "Souls of the faithful, lifted up with divine weaponry.",
 			"tactics" : "Obey, outmaneuver, punish, swarm",
@@ -4568,6 +5512,14 @@
 		{
 			"name" : "High Seraph",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "098/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Leader",
 			"description" : "A divine champion, head of a hallowed host of warriors who enforce their god’s will.",
 			"tactics" : "Enforce dogma, fly, pronounce judgment, smite",
@@ -4617,6 +5569,14 @@
 		{
 			"name" : "Kraken",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "099/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.",
 			"tactics" : "Consume, crush, drown, grapple",
@@ -4666,6 +5626,14 @@
 		{
 			"name" : "Oracle Of Doom",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "099/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A towering immortal and incarnation of fate, cursed to only see bad outcomes.",
 			"tactics" : "Change environment, condemn, dishearten, toss aside",
@@ -4719,6 +5687,14 @@
 		{
 			"name" : "Outer Realms Abomination",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "099/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A chaotic mockery of life, constantly in flux.",
 			"tactics" : "Demolish, devour, undermine",
@@ -4762,6 +5738,14 @@
 		{
 			"name" : "Outer Realms Corrupter",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "099/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Support",
 			"description" : "A shifting, formless mass seemingly made of chromatic light.",
 			"tactics" : "Confuse, distract, overwhelm",
@@ -4795,6 +5779,14 @@
 		{
 			"name" : "Outer Realms Thrall",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "099/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Minion",
 			"description" : "A vaguely humanoid form stripped of memory and identity.",
 			"tactics" : "Destroy, disgust, disorient, intimidate",
@@ -4827,6 +5819,14 @@
 		{
 			"name" : "Volcanic Dragon: Obsidian Predator",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "100/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "A massive winged creature with obsidian scales and impossibly sharp claws.",
 			"tactics" : "Defend lair, dive-bomb, fly, hunt, intimidate",
@@ -4881,6 +5881,14 @@
 		{
 			"name" : "Volcanic Dragon: Molten Scourge",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "097/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "Enraged by their wounds, the dragon bursts into molten lava.",
 			"tactics" : "Douse with lava, incinerate, repel Invaders, reposition",
@@ -4939,6 +5947,14 @@
 		{
 			"name" : "Ashen Tyrant",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "101/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Solo",
 			"description" : "No enemy has ever had the insolence to wound the dragon so. As the lava settles, it’s ground to ash like the dragon’s past foes.",
 			"tactics" : "Choke, fly, intimidate, kill or be killed",
@@ -4998,6 +6014,14 @@
 		{
 			"name" : "Perfected Zombie",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "101/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Bruiser",
 			"description" : "A towering, muscular zombie with magically infused strength and skill.",
 			"tactics" : "Consume, hound, maim, terrify",
@@ -5041,6 +6065,14 @@
 		{
 			"name" : "Zombie Legion",
 			"tier" : "4",
+			"sources" : [
+			{
+				"id": "101/135",
+				"set": "DH SRD",
+				"updated": "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+			],
 			"type" : "Horde (3/HP)",
 			"description" : "A large pack of undead, still powerful despite their rotting flesh.",
 			"tactics" : "Consume brain, shred flesh, surround",
