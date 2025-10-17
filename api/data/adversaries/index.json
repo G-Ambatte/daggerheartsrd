@@ -4874,12 +4874,12 @@
 				{
 				"name" : "Erupting Rage (Phase Change)",
 				"type" : "Reaction",
-				"description" : "When the Obsidian Predator marks their last HP, replace them with the Molten Scourge and immediately spotlight them. VOLCANIC DRAGON:"
+				"description" : "When the Obsidian Predator marks their last HP, replace them with the Molten Scourge and immediately spotlight them."
 				}
 			]
 		},
 		{
-			"name" : "Molten Scourge",
+			"name" : "Volcanic Dragon: Molten Scourge",
 			"tier" : "4",
 			"type" : "Solo",
 			"description" : "Enraged by their wounds, the dragon bursts into molten lava.",
