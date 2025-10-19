@@ -4,7 +4,7 @@ export default `
 
 .page {
     .card {
-      &.environment {
+      &.environment,&.adversary {
         background: white;
         border: 1px solid black;
         border-radius: 5px;
@@ -38,6 +38,9 @@ export default `
 
         .descriptive {
           background: #DDD;
+          &+* {
+            margin-top: 8px;
+          }
         }
 
         .source {
@@ -45,6 +48,23 @@ export default `
           color: #444;
           text-align: right;
           width: 100%;
+        }
+      }
+      &.adversary {
+        background: #DDD;
+        
+        .descriptive {
+          background: #FFF;
+          border-width: 1px 0px;
+          border-image: none;
+          padding: 5px;
+          font-size: 12px;
+          line-height: 1.2em;
+          
+          hr {
+            visibility: visible;
+            border-top: 1px dashed lightgrey;
+          }
         }
       }
     }
