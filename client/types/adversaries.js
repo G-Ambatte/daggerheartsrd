@@ -35,7 +35,13 @@ const formatFn = (data)=>{
 	:
 
 	{{source ${data.sources.map((source)=>{return `*${source.id} ${source.set}, ${source.updated} - ${source.publisher}*`;}).join('\n')}}}
-	}}`;
+	}}
+	
+	::
+
+	${data.attribution}
+	
+	`;
 };
 
 export {
