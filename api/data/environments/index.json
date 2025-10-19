@@ -49,7 +49,7 @@
 					"questions" : "What color does the grass turn as the elemental appears? How does the chaos warp insects and small wildlife within the grove?"
 				}
 			],
-			"source": [
+			"sources": [
 				{
 					"id": "103/135",
 					"set": "DH SRD",
@@ -87,7 +87,7 @@
 					"questions" : "What do the ambushers want from the party? How do their tactics in the ambush reflect that?"
 				}
 			],
-			"source": [
+			"sources": [
 				{
 					"id": "103/135",
 					"set": "DH SRD",
@@ -125,7 +125,7 @@
 					"questions" : "What are the adversaries in the middle of doing when the ambush starts? How does this impact their approach to the fight?"
 				}
 			],
-			"source": [
+			"sources": [
 				{
 					"id": "103/135",
 					"set": "DH SRD",
@@ -181,7 +181,7 @@
 					"questions" : "Where does the crowd's movement carry them? How do they feel about being alone but surrounded?"
 				}
 			],
-			"source": [
+			"sources": [
 				{
 					"id": "104/135",
 					"set": "DH SRD",
@@ -236,7 +236,7 @@
 					"questions" : "How can you tell many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?"
 				}
 			],
-			"source": [
+			"sources": [
 				{
 					"id": "104/135",
 					"set": "DH SRD",
