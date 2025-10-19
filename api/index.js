@@ -17,7 +17,7 @@ import subclassData from './data/subclasses/index.json' with { type: 'json' };
 
 const getDataFromJSON = async (id, dataObj, genre = false)=>{
 	if(!genre){
-		return dataObj[id];
+		return dataObj[id].map((obj)=>{ obj.attribution = dpcgl; return obj; });
 	}
 	const result = dataObj[genre].filter((obj)=>{return id.toLowerCase() == obj.name.toLowerCase();});
 	if(result.length > 0) result[0].attribution = dpcgl;
