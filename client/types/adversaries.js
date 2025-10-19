@@ -17,7 +17,7 @@ const formatFn = (data)=>{
 	:
 
 	{{descriptive
-	**Difficulty:** ${data.difficulty} | **Thresholds:** ${data.thresholds.major > 0 ? data.thresholds.major : '-'}/${data.thresholds.severe > 0 ? data.thresholds.severe : '-'}
+	**Difficulty:** ${data.difficulty} | **Thresholds:** ${data.thresholds.major > 0 ? data.thresholds.major : '-'}/${data.thresholds.severe > 0 ? data.thresholds.severe : '-'} | **HP:** ${data.hitPoints} | **Stress:** ${data.stress}  
 	**ATK:** ${data.attack.mod} | **${data.attack.name}:** ${data.attack.range} | ${data.attack.damage}
 	
 	${data.experience ? `
