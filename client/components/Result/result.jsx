@@ -2,6 +2,7 @@ import './result.css';
 
 import { useState, useEffect } from 'react';
 
+import dpcgl from './dpcgl.js';
 import resultStyle from './resultStyle.js';
 import { formatFn as adversaryFormat } from '../../types/adversaries.js';
 import { formatFn as environmentFormat } from '../../types/environments.js';
@@ -31,7 +32,7 @@ function Result({ data, type }) {
 			'environment' : environmentFormat
 		};
 
-		if(activeTab == 'homebrewery') setText(Object.keys(outputMap).includes(type) ? `${outputMap[type](data)}\n\n<style>${resultStyle}</style>` : '');
+		if(activeTab == 'homebrewery') setText(Object.keys(outputMap).includes(type) ? `${outputMap[type](data)}\n\n::\n${dpcgl}\n\n<style>${resultStyle}</style>` : '');
 		if(activeTab == 'raw') setText(JSON.stringify(data));
 
 		setCopyState(false);
