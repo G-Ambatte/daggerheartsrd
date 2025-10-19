@@ -1,4 +1,4 @@
-import dedent from "dedent";
+import dedent from 'dedent';
 
 const type = 'environment';
 const category = 'environments';
@@ -29,7 +29,13 @@ const formatFn = (data)=>{
 	:
 
 	{{source ${data.source.map((source)=>{return `*${source.id} ${source.set}, ${source.updated} - ${source.publisher}*`;}).join('\n')}}}
-	}}`
+	}}
+	
+	::
+
+	${data.attribution}
+	
+	`;
 };
 
 export {
@@ -38,4 +44,4 @@ export {
 	suggestionsRoute,
 	dataRoute,
 	formatFn
-}
+};
