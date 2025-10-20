@@ -1,0 +1,2844 @@
+{
+	"weapons" :	[
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Broadsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8 phy",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Longsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d10+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Battleaxe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Greatsword",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Massive: −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Mace",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+1 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Warhammer",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Dagger",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+1 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Quarterstaff",
+			"trait" : "Instinct",
+			"range" : "Melee",
+			"damage" : "d10+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Cutlass",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+1 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Rapier",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Halberd",
+			"trait" : "Strength",
+			"range" : "Very Close",
+			"damage" : "d10+2 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Cumbersome: −1 to Finesse"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Spear",
+			"trait" : "Finesse",
+			"range" : "Very Close",
+			"damage" : "d8+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Shortbow",
+			"trait" : "Agility",
+			"range" : "Far",
+			"damage" : "d6+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Crossbow",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+1 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Longbow",
+			"trait" : "Agility",
+			"range" : "Very Far",
+			"damage" : "d8+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Cumbersome: −1 to Finesse"
+		},
+
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Arcane Gauntlets",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+3 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Hallowed Axe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+1 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Glowing Rings",
+			"trait" : "Agility",
+			"range" : "Very Close",
+			"damage" : "d10+2 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Hand Runes",
+			"trait" : "Instinct",
+			"range" : "Very Close",
+			"damage" : "d10 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Returning Blade",
+			"trait" : "Finesse",
+			"range" : "Close",
+			"damage" : "d8 mag",
+			"burden" : "One-Handed",
+			"feature" : "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Shortstaff",
+			"trait" : "Instinct",
+			"range" : "Close",
+			"damage" : "d8+1 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Dualstaff",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d6+3 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Scepter",
+			"trait" : "Presence",
+			"range" : "Far",
+			"damage" : "d6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Versatile: This weapon can also be used with these statistics—Presence, Melee, d8."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Wand",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d6+1 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 1,
+			"sources" : [
+				{
+					"id" : "045/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Greatstaff",
+			"trait" : "Knowledge",
+			"range" : "Very Far",
+			"damage" : "d6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Broadsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+3 phy",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Longsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d10+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Battleaxe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Greatsword",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Massive: −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Mace",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+4 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Warhammer",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Dagger",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+4 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Quarterstaff",
+			"trait" : "Instinct",
+			"range" : "Melee",
+			"damage" : "d10+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Cutlass",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+4 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Rapier",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+3 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Halberd",
+			"trait" : "Strength",
+			"range" : "Very Close",
+			"damage" : "d10+5 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Cumbersome: −1 to Finesse"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Spear",
+			"trait" : "Finesse",
+			"range" : "Very Close",
+			"damage" : "d8+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Shortbow",
+			"trait" : "Agility",
+			"range" : "Far",
+			"damage" : "d6+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Crossbow",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+4 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Improved Longbow",
+			"trait" : "Agility",
+			"range" : "Very Far",
+			"damage" : "d8+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Cumbersome: −1 to Finesse"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Gilded Falchion",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+4 phy",
+			"burden" : "One-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Knuckle Blades",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Urok Broadsword",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+3 phy",
+			"burden" : "One-Handed",
+			"feature" : "Deadly: When you deal Severe damage, the target must mark an additional HP."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Bladed Whip",
+			"trait" : "Agility",
+			"range" : "Very Close",
+			"damage" : "d8+3 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Steelforged Halberd",
+			"trait" : "Strength",
+			"range" : "Very Close",
+			"damage" : "d8+4 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Scary: On a successful attack, the target must mark a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "War Scythe",
+			"trait" : "Finesse",
+			"range" : "Very Close",
+			"damage" : "d8+5 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Reliable: +1 to attack rolls."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"name" : "Blunderbuss",
+			"trait" : "Finesse",
+			"range" : "Close",
+			"damage" : "d8+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Greatbow",
+			"trait" : "Strength",
+			"range" : "Far",
+			"damage" : "d6+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "046/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Finehair Bow",
+			"trait" : "Agility",
+			"range" : "Very Far",
+			"damage" : "d6+5 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Arcane Gauntlets",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Hallowed Axe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Glowing Rings",
+			"trait" : "Agility",
+			"range" : "Very Close",
+			"damage" : "d10+5 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Hand Runes",
+			"trait" : "Instinct",
+			"range" : "Very Close",
+			"damage" : "d10+3 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Returning Blade",
+			"trait" : "Finesse",
+			"range" : "Close",
+			"damage" : "d8+3 mag",
+			"burden" : "One-Handed",
+			"feature" : "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Shortstaff",
+			"trait" : "Instinct",
+			"range" : "Close",
+			"damage" : "d8+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Dualstaff",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d6+6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Scepter",
+			"trait" : "Presence",
+			"range" : "Far",
+			"damage" : "d6+3 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+3."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Wand",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d6+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Improved Greatstaff",
+			"trait" : "Knowledge",
+			"range" : "Very Far",
+			"damage" : "d6+3 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Ego Blade",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d12+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "Pompous: You must have a Presence of 0 or lower to use this weapon."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Casting Sword",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+4 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Versatile: This weapon can also be used with these statistics—Knowledge, Far, d6+3."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Devouring Dagger",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "Scary: On a successful attack, the target must mark a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Hammer of Exota",
+			"trait" : "Instinct",
+			"range" : "Melee",
+			"damage" : "d8+6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Eruptive: On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Yutari Bloodbow",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+4 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+		},
+
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Elder Bow",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d6+4 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Scepter of Elias",
+			"trait" : "Presence",
+			"range" : "Far",
+			"damage" : "d6+3 mag",
+			"burden" : "One-Handed",
+			"feature" : "Invigorating: On a successful attack, roll a d4. On a result of 4, clear a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Wand of Enthrallment",
+			"trait" : "Presence",
+			"range" : "Far",
+			"damage" : "d6+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "Persuasive: Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 2,
+			"sources" : [
+				{
+					"id" : "047/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Keeper's Staff",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d6+4 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Broadsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+6 phy",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Longsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d10+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Battleaxe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Greatsword",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Massive: −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Mace",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+7 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Warhammer",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Dagger",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+7 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Quarterstaff",
+			"trait" : "Instinct",
+			"range" : "Melee",
+			"damage" : "d10+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Cutlass",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+7 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Rapier",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+6 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Halberd",
+			"trait" : "Strength",
+			"range" : "Very Close",
+			"damage" : "d10+8 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Cumbersome: −1 to Finesse"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Spear",
+			"trait" : "Finesse",
+			"range" : "Very Close",
+			"damage" : "d8+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Shortbow",
+			"trait" : "Agility",
+			"range" : "Far",
+			"damage" : "d6+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Crossbow",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+7 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Advanced Longbow",
+			"trait" : "Agility",
+			"range" : "Very Far",
+			"damage" : "d8+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Cumbersome: −1 to Finesse"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Flickerfly Blade",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+5 phy",
+			"burden" : "One-Handed",
+			"feature" : "Sharpwing: Gain a bonus to your damage rolls equal to your Agility."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Bravesword",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+7 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Brave: −1 to Evasion; +3 to Severe damage threshold"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Hammer of Wrath",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+7 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Devastating: Before you make an attack roll, you can mark a Stress to use a d20 as your damage die."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Labrys Axe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+7 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Protective: +1 to Armor Score"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Meridian Cutlass",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d10+5 phy",
+			"burden" : "One-Handed",
+			"feature" : "Dueling: When there are no other creatures within Close range of the target, gain advantage on your attack roll against them."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Retractable Saber",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d10+7 phy",
+			"burden" : "One-Handed",
+			"feature" : "Retractable: The blade can be hidden in the hilt to avoid detection."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Double Flail",
+			"trait" : "Agility",
+			"range" : "Very Close",
+			"damage" : "d10+8 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Talon Blades",
+			"trait" : "Finesse",
+			"range" : "Close",
+			"damage" : "d10+7 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Black Powder Revolver",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+8 phy",
+			"burden" : "One-Handed",
+			"feature" : "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "048/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Spiked Bow",
+			"trait" : "Agility",
+			"range" : "Very Far",
+			"damage" : "d6+7 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Versatile: This weapon can also be used with these statistics—Agility, Melee, d10+5."
+		},
+		
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Arcane Gauntlets",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Hallowed Axe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+7 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Glowing Rings",
+			"trait" : "Agility",
+			"range" : "Very Close",
+			"damage" : "d10+8 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Hand Runes",
+			"trait" : "Instinct",
+			"range" : "Very Close",
+			"damage" : "d10+6 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Returning Blade",
+			"trait" : "Finesse",
+			"range" : "Close",
+			"damage" : "d8+6 mag",
+			"burden" : "One-Handed",
+			"feature" : "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Shortstaff",
+			"trait" : "Instinct",
+			"range" : "Close",
+			"damage" : "d8+7 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Dualstaff",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d6+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Scepter",
+			"trait" : "Presence",
+			"range" : "Far",
+			"damage" : "d6+6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+4."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Wand",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d6+7 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Advanced Greatstaff",
+			"trait" : "Knowledge",
+			"range" : "Very Far",
+			"damage" : "d6+6 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Axe of Fortunis",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+8 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Lucky: On a failed attack, you can mark a Stress to reroll your attack."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Blessed Anlace",
+			"trait" : "Instinct",
+			"range" : "Melee",
+			"damage" : "d10+6 mag",
+			"burden" : "One-Handed",
+			"feature" : "Healing: During downtime, automatically clear a Hit Point."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Ghostblade",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d10+7 phy or mag",
+			"burden" : "One-Handed",
+			"feature" : "Otherworldly: On a successful attack, you can deal physical or magic damage."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Runes of Ruination",
+			"trait" : "Knowledge",
+			"range" : "Very Close",
+			"damage" : "d20+4 mag",
+			"burden" : "One-Handed",
+			"feature" : "Painful: Each time you make a successful attack, you must mark a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Widogast Pendant",
+			"trait" : "Knowledge",
+			"range" : "Close",
+			"damage" : "d10+5 mag",
+			"burden" : "One-Handed",
+			"feature" : "Timebending: You choose the target of your attack after making your attack roll."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Gilded Bow",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+7 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Self-Correcting: When you roll a 1 on a damage die, it deals 6 damage instead."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Firestaff",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d6+7 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Burning: When you roll a 6 on a damage die, the target must mark a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Mage Orb",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d6+7 mag",
+			"burden" : "One-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 3,
+			"sources" : [
+				{
+					"id" : "049/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Ilmari's Rifle",
+			"trait" : "Finesse",
+			"range" : "Very Far",
+			"damage" : "d6+6 mag",
+			"burden" : "One-Handed",
+			"feature" : "Self-Correcting: When you roll a 1 on a damage die, it deals 6 damage instead."
+		},	
+
+
+
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Broadsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+9 phy",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Longsword",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d10+12 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Battleaxe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+12 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Greatsword",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+12 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Massive: −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Mace",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+10 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Warhammer",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+12 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Dagger",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+10 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Quarterstaff",
+			"trait" : "Instinct",
+			"range" : "Melee",
+			"damage" : "d10+12 phy",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Cutlass",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+10 phy",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Legendary Rapier",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d8+9 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Impact Gauntlet",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+11 phy",
+			"burden" : "One-Handed",
+			"feature" : "Concussive: On a successful attack, you cna spend a Hope to knock the target back to Far range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Sledge Axw",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+13 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Destructive: -1 to Agility; on a successful attack, al adversaries within Very Close rnage must mark a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Curved Dagger",
+			"trait" : "Finesse",
+			"range" : "Melee",
+			"damage" : "d8+9 phy",
+			"burden" : "One-Handed",
+			"feature" : "Serrated: When you roll a 1 on a damage die, it deals 8 damage instead."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Extended Polearm",
+			"trait" : "Finesse",
+			"range" : "Very Close",
+			"damage" : "d8+10 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Long: This weapon's attack targets all adversaries in a line within range."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Swinging Ropeblade",
+			"trait" : "Presence",
+			"range" : "Close",
+			"damage" : "d8+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Grappling: On a successful attack, you can spend a Hope to Restraing the target or pull them into Melee range with you."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Ricochet Axes",
+			"trait" : "Agility",
+			"range" : "Far",
+			"damage" : "d6+11 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Bouncing: Mark 1 or more Stress to hit that many targets in range of the attack."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Antari Bow",
+			"trait" : "Finesse",
+			"range" : "Far",
+			"damage" : "d6+11 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "050/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Physical",
+			"name" : "Hand Cannon",
+			"trait" : "Finesse",
+			"range" : "Very Far",
+			"damage" : "d6+12 phy",
+			"burden" : "One-Handed",
+			"feature" : "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+		},
+
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Arcane Gauntlets",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+12 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Hallowed Axe",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d8+10 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Glowing Rings",
+			"trait" : "Agility",
+			"range" : "Very Close",
+			"damage" : "d10+11 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Hand Runes",
+			"trait" : "Instinct",
+			"range" : "Very Close",
+			"damage" : "d10+9 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Returning Blade",
+			"trait" : "Finesse",
+			"range" : "Close",
+			"damage" : "d8+9 mag",
+			"burden" : "One-Handed",
+			"feature" : "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Shortstaff",
+			"trait" : "Instinct",
+			"range" : "Close",
+			"damage" : "d8+10 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Dualstaff",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d8+12 mag",
+			"burden" : "Two-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Scepter",
+			"trait" : "Presence",
+			"range" : "Far",
+			"damage" : "d6+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+6."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Wand",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d6+10 mag",
+			"burden" : "One-Handed",
+			"feature" : "—"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Legendary Greatstaff",
+			"trait" : "Knowledge",
+			"range" : "Very Far",
+			"damage" : "d6+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Sword of Light & Flame",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d10+11 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Hot: This weapon cuts through solid material."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Siphoning Gauntlets",
+			"trait" : "Presence",
+			"range" : "Melee",
+			"damage" : "d10+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Lifestealing: On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Midas Scythe",
+			"trait" : "Knowledge",
+			"range" : "Melee",
+			"damage" : "d10+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Greedy: Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Floating Bladeshards",
+			"trait" : "Instinct",
+			"range" : "Close",
+			"damage" : "d8+9 mag",
+			"burden" : "One-Handed",
+			"feature" : "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Bloodstaff",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d20+7 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Painful: Each time you make a successful attack, you must mark a Stress."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Thistlebow",
+			"trait" : "Instinct",
+			"range" : "Far",
+			"damage" : "d6+13 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Reliable: +1 to attack rolls"
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Wand of Essek",
+			"trait" : "Knowledge",
+			"range" : "Far",
+			"damage" : "d8+13 mag",
+			"burden" : "One-Handed",
+			"feature" : "Timebending: You can choose the target of your attack after making your attack roll."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Magus Revolver",
+			"trait" : "Finesse",
+			"range" : "Very Far",
+			"damage" : "d6+13 mag",
+			"burden" : "One-Handed",
+			"feature" : "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+		},
+		{
+			"slot" : "Primary",
+			"tier" : 4,
+			"sources" : [
+				{
+					"id" : "051/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			],
+			"type" : "Magic",
+			"name" : "Fusion Gloves",
+			"trait" : "Knowledge",
+			"range" : "Very Far",
+			"damage" : "d6+9 mag",
+			"burden" : "Two-Handed",
+			"feature" : "Bonded: Gain a bonus to your damage rolls equal to your level."
+		}
+	]
+}
