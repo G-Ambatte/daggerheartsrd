@@ -1,6 +1,7 @@
 
 export default `
 @import url('https://fonts.cdnfonts.com/css/eveleth');
+/* @import MUST go on the first line of the Style Editor */
 
 .page {
     .card {
