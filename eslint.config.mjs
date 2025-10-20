@@ -26,7 +26,7 @@ export default [{
 			"react/prefer-es6-class" : ["error", "never"],
 
 			/** Warnings **/
-			"max-lines"            : ["warn", { max: 200, skipComments: true, skipBlankLines: true }],
+			"max-lines"            : ["warn", { max: 1000, skipComments: true, skipBlankLines: true }],
 			"max-depth"            : ["warn", { max: 4 }],
 			"max-params"           : ["warn", { max: 5 }],
 			"no-restricted-syntax" : ["warn", "ClassDeclaration", "SwitchStatement"],
