@@ -1,7 +1,7 @@
 {
 	"environments": [
 		{
-		"name"                 : "ABANDONED GROVE",
+		"name"                 : "Abandoned Grove",
 		"tier"                 : 1,
 		"type"                 : "Exploration",
 		"description"          : "A former druidic grove lying fallow and fully reclaimed by nature.",
@@ -45,7 +45,7 @@
 			]
 		},
 		{
-		"name"                 : "AMBUSHED",
+		"name"                 : "Ambushed",
 		"tier"                 : 1,
 		"type"                 : "Event",
 		"description"          : "An ambush is set to catch an unsuspecting party off-guard.",
@@ -77,7 +77,7 @@
 			]
 		},
 		{
-		"name"                 : "AMBUSHERS",
+		"name"                 : "Ambushers",
 		"tier"                 : 1,
 		"type"                 : "Event",
 		"description"          : "An ambush is set by the PCs to catch unsuspecting adversaries off-guard.",
@@ -109,7 +109,7 @@
 			]
 		},
 		{
-		"name"                 : "BUSTLING MARKETPLACE",
+		"name"                 : "Bustling Marketplace",
 		"tier"                 : 1,
 		"type"                 : "Social",
 		"description"          : "The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.",
@@ -155,7 +155,7 @@
 			]
 		},
 		{
-		"name"                 : "CLIFFSIDE ASCENT",
+		"name"                 : "Cliffside Ascent",
 		"tier"                 : 1,
 		"type"                 : "Traversal",
 		"description"          : "A steep, rocky cliffside tall enough to make traversal dangerous.",
@@ -201,7 +201,7 @@
 			]
 		},
 		{
-		"name"                 : "LOCAL TAVERN",
+		"name"                 : "Local Tavern",
 		"tier"                 : 1,
 		"type"                 : "Social",
 		"description"          : "A lively tavern that serves as the social hub for its town.",
@@ -260,7 +260,7 @@
 			]
 		},
 		{
-		"name"                 : "OUTPOST TOWN",
+		"name"                 : "Outpost Town",
 		"tier"                 : 1,
 		"type"                 : "Social",
 		"description"          : "A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations.",
@@ -319,7 +319,7 @@
 			]
 		},
 		{
-		"name"                 : "RAGING RIVER",
+		"name"                 : "Raging River",
 		"tier"                 : 1,
 		"type"                 : "Traversal",
 		"description"          : "A swift-moving river without a bridge crossing, deep enough to sweep away most people.",
@@ -358,7 +358,7 @@
 			]
 		},
 		{
-		"name"                 : "CULT RITUAL",
+		"name"                 : "Cult Ritual",
 		"tier"                 : 2,
 		"type"                 : "Event",
 		"description"          : "A Fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.",
@@ -410,7 +410,7 @@
 			]
 		},
 		{
-		"name"                 : "HALLOWED TEMPLE",
+		"name"                 : "Hallowed Temple",
 		"tier"                 : 2,
 		"type"                 : "Social",
 		"description"          : "A bustling but well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.",
@@ -462,7 +462,7 @@
 			]
 		},
 		{
-		"name"                 : "HAUNTED CITY",
+		"name"                 : "Haunted City",
 		"tier"                 : 2,
 		"type"                 : "Exploration",
 		"description"          : "An abandoned city populated by the restless spirits of eras past.",
@@ -514,7 +514,7 @@
 			]
 		},
 		{
-		"name"                 : "MOUNTAIN PASS",
+		"name"                 : "Mountain Pass",
 		"tier"                 : 2,
 		"type"                 : "Traversal",
 		"description"          : "Stony peaks that pierce the clouds, with a twisting path winding its way up and over through many switchbacks.",
@@ -560,7 +560,7 @@
 			]
 		},
 		{
-		"name"                 : "BURNING HEART OF THE WOODS",
+		"name"                 : "Burning Heart Of The Woods",
 		"tier"                 : 3,
 		"type"                 : "Exploration",
 		"description"          : "Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue.",
@@ -618,7 +618,7 @@
 			]
 		},
 		{
-		"name"                 : "CASTLE SIEGE",
+		"name"                 : "Castle Siege",
 		"tier"                 : 3,
 		"type"                 : "Event",
 		"description"          : "An active siege with an attacking force fighting to gain entry to a fortified castle.",
@@ -668,7 +668,7 @@
 			]
 		},
 		{
-		"name"                 : "PITCHED BATTLE",
+		"name"                 : "Pitched Battle",
 		"tier"                 : 3,
 		"type"                 : "Event",
 		"description"          : "A massive combat between two large groups of armed combatants.",
@@ -714,7 +714,7 @@
 			]
 		},
 		{
-		"name"                 : "CHAOS REALM",
+		"name"                 : "Chaos Realm",
 		"tier"                 : 4,
 		"type"                 : "Traversal",
 		"description"          : "An otherworldly space where the laws of reality are unstable and dangerous.",
@@ -767,7 +767,7 @@
 			]
 		},
 		{
-		"name"                 : "DIVINE USURPATION",
+		"name"                 : "Divine Usurpation",
 		"tier"                 : 4,
 		"type"                 : "Event",
 		"description"          : "A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.",
@@ -827,7 +827,7 @@
 			]
 		},
 		{
-		"name"                 : "IMPERIAL COURT",
+		"name"                 : "Imperial Court",
 		"tier"                 : 4,
 		"type"                 : "Social",
 		"description"          : "The majestic domain of a powerful empire, lavishly appointed with stolen treasures.",
@@ -880,7 +880,7 @@
 			]
 		},
 		{
-		"name"                 : "NECROMANCER’S OSSUARY",
+		"name"                 : "Necromancer’S Ossuary",
 		"tier"                 : 4,
 		"type"                 : "Exploration",
 		"description"          : "A dusty crypt with a library, twisting corridors, and abundant sarcophagi, spattered with the blood of ill-fated invaders.",
