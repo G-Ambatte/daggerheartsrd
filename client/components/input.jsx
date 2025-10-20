@@ -12,12 +12,13 @@ import * as communityData from '../types/communities.js';
 import * as domainData from '../types/domains.js';
 import * as environmentData from '../types/environments.js';
 import * as subclassData from '../types/subclasses.js';
+import * as weaponData from '../types/weapons.js';
 
 
 // const URL = '/api/';
 
 function Input({ setData, type, setType }) {
-	const types = ['adversary', 'ancestry', 'class', 'community', 'domain', 'environment', 'subclass'];
+	const types = ['adversary', 'ancestry', 'class', 'community', 'domain', 'environment', 'subclass', 'weapon'];
 
 	const [autoCompleteSuggestions, setAutoCompleteSuggestions] = useState(['', '']);
 
@@ -31,7 +32,8 @@ function Input({ setData, type, setType }) {
 			'community'   : communityData.suggestionsRoute,
 			'domain'      : domainData.suggestionsRoute,
 			'environment' : environmentData.suggestionsRoute,
-			'subclass'    : subclassData.suggestionsRoute
+			'subclass'    : subclassData.suggestionsRoute,
+			'weapon'      : weaponData.suggestionsRoute
 		};
 		if(!Object.keys(suggestionsMap).includes(type)){
 			console.log('Unknown type for suggestions:', type);
@@ -68,7 +70,8 @@ function Input({ setData, type, setType }) {
 				'community'   : communityData.dataRoute,
 				'domain'      : domainData.dataRoute,
 				'environment' : environmentData.dataRoute,
-				'subclass'    : subclassData.dataRoute
+				'subclass'    : subclassData.dataRoute,
+				'weapon'      : weaponData.dataRoute
 			};
 
 			// console.log(dataURL);
