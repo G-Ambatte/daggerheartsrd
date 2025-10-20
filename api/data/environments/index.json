@@ -32,7 +32,7 @@
 				"name"        : "You Are Not Welcome Here",
 				"type"        : "Action",
 				"description" : ["A Young Dryad, two Sylvan Soldiers, and a number of Minor Treants equal to the number of PCs appear to confront the party for their intrusion. What are the grove guardians concealing? What threat to the forest could the PCs confront to appease the Dryad? Defiler - Action: Spend a Fear to summon a Minor Chaos Elemental drawn to the echoes of violence and discord. They appear within Far range of a chosen PC and immediately take the spotlight."],
-				"questions"   : "What color does the grass turn as the elemental appears? How does the chaos warp insects and small wildlife within the grove? "
+				"questions"   : "What color does the grass turn as the elemental appears? How does the chaos warp insects and small wildlife within the grove?"
 				}
 			],
 		"sources" : [
@@ -64,7 +64,7 @@
 				"name"        : "Surprise!",
 				"type"        : "Action",
 				"description" : ["The ambushers reveal themselves to the party, you gain 2 Fear, and the spotlight immediately shifts to one of the ambushing adversaries."],
-				"questions"   : "What do the ambushers want from the party? How do their tactics in the ambush reﬂect that? "
+				"questions"   : "What do the ambushers want from the party? How do their tactics in the ambush reﬂect that?"
 				}
 			],
 		"sources" : [
@@ -142,7 +142,7 @@
 				"name"        : "Crowd Closes In",
 				"type"        : "Reaction",
 				"description" : ["When one of the PCs splits from the group, the crowds shift and cut them off from the party."],
-				"questions"   : "Where does the crowd’s movement carry them? How do they feel about being alone but surrounded? "
+				"questions"   : "Where does the crowd’s movement carry them? How do they feel about being alone but surrounded?"
 				}
 			],
 		"sources" : [
@@ -188,7 +188,7 @@
 				"name"        : "Fall",
 				"type"        : "Action",
 				"description" : ["Spend a Fear to have a PC’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they hit the ground and tick up the countdown by 2. The PC takes 1d12 physical damage if the countdown is between 8 and 12, 2d12 between 4 and 7, and 3d12 at 3 or lower."],
-				"questions"   : "How can you tell many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal? "
+				"questions"   : "How can you tell many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?"
 				}
 			],
 		"sources" : [
@@ -247,7 +247,7 @@
 				"name"        : "Bar Fight!",
 				"type"        : "Action",
 				"description" : ["Spend a Fear to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take 1d6+2 physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons."],
-				"questions"   : "Who started the ﬁght? What will it take to stop it? "
+				"questions"   : "Who started the ﬁght? What will it take to stop it?"
 				}
 			],
 		"sources" : [
@@ -397,7 +397,7 @@
 				"name"        : "Complete the Ritual",
 				"type"        : "Reaction",
 				"description" : ["If the ritual’s leader is targeted by an attack or spell, an ally within Very Close range of them can mark a Stress to be targeted by that attack or spell instead."],
-				"questions"   : "What does it feel like to see such devotion turned to the pursuit of fear and domination? "
+				"questions"   : "What does it feel like to see such devotion turned to the pursuit of fear and domination?"
 				}
 			],
 		"sources" : [
@@ -449,7 +449,7 @@
 				"name"        : "Divine Censure",
 				"type"        : "Reaction",
 				"description" : ["When the PCs have trespassed, blasphemed, or offended the clergy, you can spend a Fear to summon a High Seraph and 1d4 Bladed Guards within Close range of the senior priest to reinforce their will."],
-				"questions"   : "What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling? "
+				"questions"   : "What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?"
 				}
 			],
 		"sources" : [
@@ -605,7 +605,7 @@
 				"name"        : "Choking Ash",
 				"type"        : "Reaction",
 				"description" : ["Countdown (Loop ). When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take 4d6+5 direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll."],
-				"questions"   : "What hallucinations does the ash induce? What incongruous taste does it possess? "
+				"questions"   : "What hallucinations does the ash induce? What incongruous taste does it possess?"
 				}
 			],
 		"sources" : [
@@ -655,7 +655,7 @@
 					"- Targets who fail take 3d8+3 physical or magic damage and must mark a Stress.",
 					"- Targets who succeed must mark a Stress."
 					],
-				"questions" : "What debris is scattered by the attack? What is broken by the strike that can’t be easily mended? "
+				"questions" : "What debris is scattered by the attack? What is broken by the strike that can’t be easily mended?"
 				}
 			],
 		"sources" : [
@@ -754,7 +754,7 @@
 				"name"        : "Disorienting Reality",
 				"type"        : "Reaction",
 				"description" : ["On a result with Fear, you can ask the PC to describe which of their fears the Chaos Realm evokes as a vision of reality unmakes and reconstitutes itself to the PC. The PC loses a Hope. If it is their last Hope, you gain a Fear."],
-				"questions"   : "What moment do they see? If it’s a memory, how is it warped by this place? How hard will it be to hold on to the real memory? "
+				"questions"   : "What moment do they see? If it’s a memory, how is it warped by this place? How hard will it be to hold on to the real memory?"
 				}
 			],
 		"sources" : [
@@ -814,7 +814,7 @@
 				"name"        : "Ritual Nexus",
 				"type"        : "Reaction",
 				"description" : ["On any failure with Fear against the Usurper, the PC must mark 1d4 Stress from the backlash of magical power."],
-				"questions"   : "What visions of failures past torment you as your eﬀorts fall short? How are these memories twisted by the Usurper? "
+				"questions"   : "What visions of failures past torment you as your eﬀorts fall short? How are these memories twisted by the Usurper?"
 				}
 			],
 		"sources" : [
@@ -867,7 +867,7 @@
 				"name"        : "Eyes Everywhere",
 				"type"        : "Reaction",
 				"description" : ["On a result with Fear, you can spend a Fear to have someone loyal to the empire overhear seditious talk within the court. A PC must succeed on an Instinct Reaction Roll to notice that the group has been overheard so they can try to intercept the witness before the PCs are exposed."],
-				"questions"   : "How has the empire compromised this witness? Why is their ﬁrst impulse to protect the empire, even if doesn’t treat them well? "
+				"questions"   : "How has the empire compromised this witness? Why is their ﬁrst impulse to protect the empire, even if doesn’t treat them well?"
 				}
 			],
 		"sources" : [
