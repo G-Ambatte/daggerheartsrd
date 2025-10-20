@@ -50,6 +50,11 @@ export default `
           width: 100%;
         }
       }
+      &.environment {
+        .questions {
+          margin-top: inherit;
+        }
+      }
       &.adversary {
         background: #DDD;
         
