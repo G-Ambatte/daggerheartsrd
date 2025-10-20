@@ -7,7 +7,7 @@ const suggestionsRoute = '/api/weapons';
 const dataRoute = '/api/weapon';
 
 const formatFn = (data)=>{
-	return dedent`{{card,environment
+	return dedent`{{card,weapon
 
 		# ${data.name}
 		***Tier ${data.tier} ${data.burden} ${data.type} Weapon***  
