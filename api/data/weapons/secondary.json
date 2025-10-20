@@ -1,0 +1,668 @@
+[
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Shortsword",
+		"trait" : "Agility",
+		"range" : "Melee",
+		"damage" : "d8 phy",
+		"burden" : "One",
+		"feature" : "Paired: +2 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Round Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d4 phy",
+		"burden" : "One",
+		"feature" : "Protective: +1 to Armor Score"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Tower Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d6 phy",
+		"burden" : "One",
+		"feature" : "Barrier: +2 to Armor Score; −1 to Evasion"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Small Dagger",
+		"trait" : "Finesse",
+		"range" : "Melee",
+		"damage" : "d8 phy",
+		"burden" : "One",
+		"feature" : "Paired: +2 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Whip",
+		"trait" : "Presence",
+		"range" : "Very Close",
+		"damage" : "d6 phy",
+		"burden" : "One",
+		"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Grappler",
+		"trait" : "Finesse",
+		"range" : "Close",
+		"damage" : "d6 phy",
+		"burden" : "One",
+		"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 1,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Hand Crossbow",
+		"trait" : "Finesse",
+		"range" : "Far",
+		"damage" : "d6+1 phy",
+		"burden" : "One",
+		"feature" : "—"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Shortsword",
+		"trait" : "Agility",
+		"range" : "Melee",
+		"damage" : "d8+2 phy",
+		"burden" : "One",
+		"feature" : "Paired: +3 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Round Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d4+2 phy",
+		"burden" : "One",
+		"feature" : "Protective: +2 to Armor Score"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Tower Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d6+2 phy",
+		"burden" : "One",
+		"feature" : "Barrier: +3 to Armor Score; −1 to Evasion"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Small Dagger",
+		"trait" : "Finesse",
+		"range" : "Melee",
+		"damage" : "d8+2 phy",
+		"burden" : "One",
+		"feature" : "Paired: +3 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Whip",
+		"trait" : "Presence",
+		"range" : "Very Close",
+		"damage" : "d6+2 phy",
+		"burden" : "One",
+		"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Grappler",
+		"trait" : "Finesse",
+		"range" : "Close",
+		"damage" : "d6+2 phy",
+		"burden" : "One",
+		"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Improved Hand Crossbow",
+		"trait" : "Finesse",
+		"range" : "Far",
+		"damage" : "d6+3 phy",
+		"burden" : "One",
+		"feature" : "—"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Spiked Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d6+2 phy",
+		"burden" : "One",
+		"feature" : "Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Parrying Dagger",
+		"trait" : "Finesse",
+		"range" : "Melee",
+		"damage" : "d6+2 phy",
+		"burden" : "One",
+		"feature" : "Parry: When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 2,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Returning Axe",
+		"trait" : "Agility",
+		"range" : "Close",
+		"damage" : "d6+4 phy",
+		"burden" : "One",
+		"feature" : "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Shortsword",
+		"trait" : "Agility",
+		"range" : "Melee",
+		"damage" : "d8+4 phy",
+		"burden" : "One",
+		"feature" : "Paired: +4 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Round Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d4+4 phy",
+		"burden" : "One",
+		"feature" : "Protective: +3 to Armor Score"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Tower Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d6+4 phy",
+		"burden" : "One",
+		"feature" : "Barrier: +4 to Armor Score; −1 to Evasion"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Small Dagger",
+		"trait" : "Finesse",
+		"range" : "Melee",
+		"damage" : "d8+4 phy",
+		"burden" : "One",
+		"feature" : "Paired: +4 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Whip",
+		"trait" : "Presence",
+		"range" : "Very Close",
+		"damage" : "d6+4 phy",
+		"burden" : "One",
+		"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Grappler",
+		"trait" : "Finesse",
+		"range" : "Close",
+		"damage" : "d6+4 phy",
+		"burden" : "One",
+		"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Advanced Hand Crossbow",
+		"trait" : "Finesse",
+		"range" : "Far",
+		"damage" : "d6+5 phy",
+		"burden" : "One",
+		"feature" : "—"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Buckler",
+		"trait" : "Agility",
+		"range" : "Melee",
+		"damage" : "d4+4 phy",
+		"burden" : "One",
+		"feature" : "Deflecting: When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Score against the attack."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Powered Gauntlet",
+		"trait" : "Knowledge",
+		"range" : "Close",
+		"damage" : "d6+4 phy",
+		"burden" : "One",
+		"feature" : "Charged: Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 3,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Hand Sling",
+		"trait" : "Finesse",
+		"range" : "Very Far",
+		"damage" : "d6+4 phy",
+		"burden" : "One",
+		"feature" : "Versatile: This weapon can also be used with these statistics—Finesse, Close, d8+4."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Shortsword",
+		"trait" : "Agility",
+		"range" : "Melee",
+		"damage" : "d8+6 phy",
+		"burden" : "One",
+		"feature" : "Paired: +5 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Round Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d4+6 phy",
+		"burden" : "One",
+		"feature" : "Protective: +4 to Armor Score"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Tower Shield",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d6+6 phy",
+		"burden" : "One",
+		"feature" : "Barrier: +5 to Armor Score; −1 to Evasion."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Small Dagger",
+		"trait" : "Finesse",
+		"range" : "Melee",
+		"damage" : "d8+6 phy",
+		"burden" : "One",
+		"feature" : "Paired: +5 to primary weapon damage to targets within Melee range"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Whip",
+		"trait" : "Presence",
+		"range" : "Very Close",
+		"damage" : "d6+6 phy",
+		"burden" : "One",
+		"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Grappler",
+		"trait" : "Finesse",
+		"range" : "Close",
+		"damage" : "d6+6 phy",
+		"burden" : "One",
+		"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Legendary Hand Crossbow",
+		"trait" : "Finesse",
+		"range" : "Far",
+		"damage" : "d6+7 phy",
+		"burden" : "One",
+		"feature" : "—"
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Braveshield",
+		"trait" : "Agility",
+		"range" : "Melee",
+		"damage" : "d4+6 phy",
+		"burden" : "One",
+		"feature" : "Sheltering: When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Knuckle Claws",
+		"trait" : "Strength",
+		"range" : "Melee",
+		"damage" : "d6+8 phy",
+		"burden" : "One",
+		"feature" : "Doubled Up: When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
+	},
+	{
+		"slot" : "Secondary",
+		"tier" : 4,
+		"sources" : [
+			{
+				"id" : "052/135",
+				"set": "DH SRD",
+				"updated" : "2025-09-09",
+				"publisher": "Daggerheart © Darrington Press 2025"
+			}
+		],
+		"name" : "Primer Shard",
+		"trait" : "Instinct",
+		"range" : "Very Close",
+		"damage" : "d4 phy",
+		"burden" : "One",
+		"feature" : "Locked On: On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
+	}
+]
