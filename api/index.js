@@ -12,7 +12,7 @@ import communityData from './data/communities/index.json' with { type: 'json' };
 import domainData from './data/domains/index.json' with { type: 'json' };
 import environmentData from './data/environments/index.json' with { type: 'json' };
 import subclassData from './data/subclasses/index.json' with { type: 'json' };
-
+import weaponData from './data/weapons/index.json' with { type: 'json' };
 
 
 const getDataFromJSON = async (id, dataObj, genre = false)=>{
@@ -114,6 +114,19 @@ app.get('/api/subclasses', asyncHandler(async (req, res)=>{
 // Subclass
 app.get('/api/subclass/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, subclassData, 'subclasses');
+	if(data.length == 0) return res.status(404).json('Unknown subclass');
+	res.send(data);
+}));
+
+// Subclasses
+app.get('/api/weapons', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('weapons', weaponData);
+	res.send(data);
+}));
+
+// Subclass
+app.get('/api/weapon/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, weaponData, 'weapons');
 	if(data.length == 0) return res.status(404).json('Unknown subclass');
 	res.send(data);
 }));
