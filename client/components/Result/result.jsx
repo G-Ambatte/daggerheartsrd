@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import resultStyle from './resultStyle.js';
 import { formatFn as adversaryFormat } from '../../types/adversaries.js';
 import { formatFn as environmentFormat } from '../../types/environments.js';
+import { formatFn as weaponFormat } from '../../types/weapons.js';
 
 function Result({ data, type }) {
 
@@ -24,11 +25,12 @@ function Result({ data, type }) {
 
 	useEffect(()=>{
 		if(!data) return;
-		const url = '';
+		// const url = '';
 
 		const outputMap = {
 			'adversary'   : adversaryFormat,
-			'environment' : environmentFormat
+			'environment' : environmentFormat,
+			'weapon'      : weaponFormat
 		};
 
 		if(activeTab == 'homebrewery') setText(Object.keys(outputMap).includes(type) ? `${outputMap[type](data)}\n\n<style>${resultStyle}</style>` : '');
