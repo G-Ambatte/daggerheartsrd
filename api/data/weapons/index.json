@@ -2856,7 +2856,7 @@
 			"trait" : "Agility",
 			"range" : "Melee",
 			"damage" : "d8 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +2 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -2875,7 +2875,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Protective: +1 to Armor Score"
 		},
 		{
@@ -2894,7 +2894,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Barrier: +2 to Armor Score; −1 to Evasion"
 		},
 		{
@@ -2913,7 +2913,7 @@
 			"trait" : "Finesse",
 			"range" : "Melee",
 			"damage" : "d8 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +2 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -2932,7 +2932,7 @@
 			"trait" : "Presence",
 			"range" : "Very Close",
 			"damage" : "d6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
 		},
 		{
@@ -2951,7 +2951,7 @@
 			"trait" : "Finesse",
 			"range" : "Close",
 			"damage" : "d6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
 		},
 		{
@@ -2970,7 +2970,7 @@
 			"trait" : "Finesse",
 			"range" : "Far",
 			"damage" : "d6+1 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "—"
 		},
 		{
@@ -2989,7 +2989,7 @@
 			"trait" : "Agility",
 			"range" : "Melee",
 			"damage" : "d8+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +3 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -3008,7 +3008,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d4+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Protective: +2 to Armor Score"
 		},
 		{
@@ -3027,7 +3027,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d6+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Barrier: +3 to Armor Score; −1 to Evasion"
 		},
 		{
@@ -3046,7 +3046,7 @@
 			"trait" : "Finesse",
 			"range" : "Melee",
 			"damage" : "d8+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +3 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -3065,7 +3065,7 @@
 			"trait" : "Presence",
 			"range" : "Very Close",
 			"damage" : "d6+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
 		},
 		{
@@ -3084,7 +3084,7 @@
 			"trait" : "Finesse",
 			"range" : "Close",
 			"damage" : "d6+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
 		},
 		{
@@ -3103,7 +3103,7 @@
 			"trait" : "Finesse",
 			"range" : "Far",
 			"damage" : "d6+3 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "—"
 		},
 		{
@@ -3122,7 +3122,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d6+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range"
 		},
 		{
@@ -3141,7 +3141,7 @@
 			"trait" : "Finesse",
 			"range" : "Melee",
 			"damage" : "d6+2 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Parry: When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled."
 		},
 		{
@@ -3160,7 +3160,7 @@
 			"trait" : "Agility",
 			"range" : "Close",
 			"damage" : "d6+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
 		},
 		{
@@ -3179,7 +3179,7 @@
 			"trait" : "Agility",
 			"range" : "Melee",
 			"damage" : "d8+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +4 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -3198,7 +3198,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d4+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Protective: +3 to Armor Score"
 		},
 		{
@@ -3217,7 +3217,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d6+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Barrier: +4 to Armor Score; −1 to Evasion"
 		},
 		{
@@ -3236,7 +3236,7 @@
 			"trait" : "Finesse",
 			"range" : "Melee",
 			"damage" : "d8+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +4 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -3255,7 +3255,7 @@
 			"trait" : "Presence",
 			"range" : "Very Close",
 			"damage" : "d6+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
 		},
 		{
@@ -3274,7 +3274,7 @@
 			"trait" : "Finesse",
 			"range" : "Close",
 			"damage" : "d6+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
 		},
 		{
@@ -3293,7 +3293,7 @@
 			"trait" : "Finesse",
 			"range" : "Far",
 			"damage" : "d6+5 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "—"
 		},
 		{
@@ -3312,7 +3312,7 @@
 			"trait" : "Agility",
 			"range" : "Melee",
 			"damage" : "d4+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Deflecting: When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Score against the attack."
 		},
 		{
@@ -3331,7 +3331,7 @@
 			"trait" : "Knowledge",
 			"range" : "Close",
 			"damage" : "d6+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Charged: Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
 		},
 		{
@@ -3350,7 +3350,7 @@
 			"trait" : "Finesse",
 			"range" : "Very Far",
 			"damage" : "d6+4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Versatile: This weapon can also be used with these statistics—Finesse, Close, d8+4."
 		},
 		{
@@ -3369,7 +3369,7 @@
 			"trait" : "Agility",
 			"range" : "Melee",
 			"damage" : "d8+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +5 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -3388,7 +3388,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d4+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Protective: +4 to Armor Score"
 		},
 		{
@@ -3407,7 +3407,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d6+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Barrier: +5 to Armor Score; −1 to Evasion."
 		},
 		{
@@ -3426,7 +3426,7 @@
 			"trait" : "Finesse",
 			"range" : "Melee",
 			"damage" : "d8+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Paired: +5 to primary weapon damage to targets within Melee range"
 		},
 		{
@@ -3445,7 +3445,7 @@
 			"trait" : "Presence",
 			"range" : "Very Close",
 			"damage" : "d6+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
 		},
 		{
@@ -3464,7 +3464,7 @@
 			"trait" : "Finesse",
 			"range" : "Close",
 			"damage" : "d6+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Hooked: On a successful attack, you can pull the target into Melee range."
 		},
 		{
@@ -3483,7 +3483,7 @@
 			"trait" : "Finesse",
 			"range" : "Far",
 			"damage" : "d6+7 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "—"
 		},
 		{
@@ -3502,7 +3502,7 @@
 			"trait" : "Agility",
 			"range" : "Melee",
 			"damage" : "d4+6 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Sheltering: When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
 		},
 		{
@@ -3521,7 +3521,7 @@
 			"trait" : "Strength",
 			"range" : "Melee",
 			"damage" : "d6+8 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Doubled Up: When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
 		},
 		{
@@ -3540,7 +3540,7 @@
 			"trait" : "Instinct",
 			"range" : "Very Close",
 			"damage" : "d4 phy",
-			"burden" : "One",
+			"burden" : "One-Handed",
 			"feature" : "Locked On: On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
 		}
 
