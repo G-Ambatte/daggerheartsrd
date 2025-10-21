@@ -93,12 +93,18 @@ function Input({ setData, type, setType }) {
 		setData(undefined);
 	};
 
+	const setInputType = function (e){
+		setData(undefined);
+		setText('');
+		setType(e.target.value);
+	};
+
 	return <>
 		<div className='input'>
 			<form onSubmit={(e)=>{return fetchData(e);}}>
 				<label>
 					<span>
-						<select onChange={(e)=>{setType(e.target.value);}}>
+						<select onChange={(e)=>{setInputType(e);}}>
 							{types.sort().map((type, index)=>{ return <option key={index}>{type}</option>;})}
 						</select>
 						/

@@ -17,6 +17,7 @@ function Result({ data, type }) {
 
 	useEffect(()=>{
 		setCopyState(false);
+		if(!data) setText('');
 	}, [data]);
 
 	useEffect(()=>{
