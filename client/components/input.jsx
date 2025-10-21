@@ -108,7 +108,15 @@ function Input({ setData, type, setType }) {
 							{types.sort().map((type, index)=>{ return <option key={index}>{type}</option>;})}
 						</select>
 						/
-						<AutocompleteTextField Component='input' value={text} onChange={(e)=>{setText(e);}} options={autoCompleteSuggestions} trigger='' spacer='' matchAny={true} />
+						<AutocompleteTextField
+							Component='input'
+							value={text}
+							onChange={(e)=>{setText(e);}}
+							options={autoCompleteSuggestions}
+							trigger=''
+							spacer=''
+							matchAny={true}
+						/>
 					</span>
 				</label>
 				<input type='submit' value='Fetch'></input>
