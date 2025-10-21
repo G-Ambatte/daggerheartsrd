@@ -25,6 +25,9 @@ function Input({ setData, type, setType }) {
 	const [text, setText] = useState('');
 
 	useEffect(()=>{
+		setData();
+		setText('');
+
 		const suggestionsMap = {
 			'adversary'   : adversaryData.suggestionsRoute,
 			'ancestry'    : ancestryData.suggestionsRoute,
@@ -50,8 +53,6 @@ function Input({ setData, type, setType }) {
 			setAutoCompleteSuggestions(suggestions);
 		};
 		fetchSuggestions();
-		setData();
-		setText('');
 	}, [type, setData]);
 
 	const fetchData = async function(e){
