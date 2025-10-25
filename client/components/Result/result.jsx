@@ -54,7 +54,7 @@ function Result({ data, type }) {
 			<div className='tabs'>
 				{tabs.map((tab, index)=>{return <button key={index} onClick={()=>{setActiveTab(tab.toLowerCase());}}>{tab}</button>;})}
 			</div>
-			<textarea className='result' defaultValue={text}></textarea>
+			<textarea className='result' spellCheck={false} defaultValue={text}></textarea>
 			<button onClick={()=>{copyToClipboard();}}>{copyState ? 'Copied!' : 'Copy'}</button>
 		</div>
 	</>;
