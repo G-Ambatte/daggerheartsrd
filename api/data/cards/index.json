@@ -1,7 +1,7 @@
 {
 	"cards" : [
 		{
-			"name" : "RUNE WARD",
+			"name" : "Rune Ward",
 			"level" : 1,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -19,7 +19,7 @@
 				]
 		},
 		{
-			"name" : "UNLEASH CHAOS",
+			"name" : "Unleash Chaos",
 			"level" : 1,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -37,7 +37,7 @@
 				]
 		},
 		{
-			"name" : "WALL WALK",
+			"name" : "Wall Walk",
 			"level" : 1,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -55,7 +55,7 @@
 				]
 		},
 		{
-			"name" : "CINDER GRASP",
+			"name" : "Cinder Grasp",
 			"level" : 2,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -73,7 +73,7 @@
 				]
 		},
 		{
-			"name" : "FLOATING EYE",
+			"name" : "Floating Eye",
 			"level" : 2,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -91,7 +91,7 @@
 				]
 		},
 		{
-			"name" : "COUNTERSPELL",
+			"name" : "Counterspell",
 			"level" : 3,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -109,7 +109,7 @@
 				]
 		},
 		{
-			"name" : "FLIGHT",
+			"name" : "Flight",
 			"level" : 3,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -127,7 +127,7 @@
 				]
 		},
 		{
-			"name" : "BLINK OUT",
+			"name" : "Blink Out",
 			"level" : 4,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -145,7 +145,7 @@
 				]
 		},
 		{
-			"name" : "PRESERVATION BLAST",
+			"name" : "Preservation Blast",
 			"level" : 4,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -163,7 +163,7 @@
 				]
 		},
 		{
-			"name" : "CHAIN LIGHTNING",
+			"name" : "Chain Lightning",
 			"level" : 5,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -181,7 +181,7 @@
 				]
 		},
 		{
-			"name" : "PREMONITION",
+			"name" : "Premonition",
 			"level" : 5,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -199,7 +199,7 @@
 				]
 		},
 		{
-			"name" : "RIFT WALKER",
+			"name" : "Rift Walker",
 			"level" : 6,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -217,7 +217,7 @@
 				]
 		},
 		{
-			"name" : "TELEKINESIS",
+			"name" : "Telekinesis",
 			"level" : 6,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -235,7 +235,7 @@
 				]
 		},
 		{
-			"name" : "ARCANA-TOUCHED",
+			"name" : "Arcana-Touched",
 			"level" : 7,
 			"domain" : "Arcana",
 			"type" : "Ability",
@@ -255,7 +255,7 @@
 				]
 		},
 		{
-			"name" : "CLOAKING BLAST",
+			"name" : "Cloaking Blast",
 			"level" : 7,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -273,7 +273,7 @@
 				]
 		},
 		{
-			"name" : "ARCANE REFLECTION",
+			"name" : "Arcane Reflection",
 			"level" : 8,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -291,7 +291,7 @@
 				]
 		},
 		{
-			"name" : "CONFUSING AURA",
+			"name" : "Confusing Aura",
 			"level" : 8,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -309,7 +309,7 @@
 				]
 		},
 		{
-			"name" : "EARTHQUAKE",
+			"name" : "Earthquake",
 			"level" : 9,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -327,7 +327,7 @@
 				]
 		},
 		{
-			"name" : "SENSORY PROJECTION",
+			"name" : "Sensory Projection",
 			"level" : 9,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -345,7 +345,7 @@
 				]
 		},
 		{
-			"name" : "ADJUST REALITY",
+			"name" : "Adjust Reality",
 			"level" : 10,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -363,7 +363,7 @@
 				]
 		},
 		{
-			"name" : "FALLING SKY",
+			"name" : "Falling Sky",
 			"level" : 10,
 			"domain" : "Arcana",
 			"type" : "Spell",
@@ -381,7 +381,7 @@
 				]
 		},
 		{
-			"name" : "GET BACK UP",
+			"name" : "Get Back Up",
 			"level" : 1,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -399,7 +399,7 @@
 				]
 		},
 		{
-			"name" : "NOT GOOD ENOUGH",
+			"name" : "Not Good Enough",
 			"level" : 1,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -417,7 +417,7 @@
 				]
 		},
 		{
-			"name" : "WHIRLWIND",
+			"name" : "Whirlwind",
 			"level" : 1,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -435,7 +435,7 @@
 				]
 		},
 		{
-			"name" : "A SOLDIER’S BOND",
+			"name" : "A Soldier’S Bond",
 			"level" : 2,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -453,7 +453,7 @@
 				]
 		},
 		{
-			"name" : "RECKLESS",
+			"name" : "Reckless",
 			"level" : 2,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -471,7 +471,7 @@
 				]
 		},
 		{
-			"name" : "SCRAMBLE",
+			"name" : "Scramble",
 			"level" : 3,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -489,7 +489,7 @@
 				]
 		},
 		{
-			"name" : "VERSATILE FIGHTER",
+			"name" : "Versatile Fighter",
 			"level" : 3,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -507,7 +507,7 @@
 				]
 		},
 		{
-			"name" : "DEADLY FOCUS",
+			"name" : "Deadly Focus",
 			"level" : 4,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -525,7 +525,7 @@
 				]
 		},
 		{
-			"name" : "FORTIFIED ARMOR",
+			"name" : "Fortified Armor",
 			"level" : 4,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -543,7 +543,7 @@
 				]
 		},
 		{
-			"name" : "CHAMPION’S EDGE",
+			"name" : "Champion’S Edge",
 			"level" : 5,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -564,7 +564,7 @@
 				]
 		},
 		{
-			"name" : "VITALITY",
+			"name" : "Vitality",
 			"level" : 5,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -585,7 +585,7 @@
 				]
 		},
 		{
-			"name" : "BATTLE-HARDENED",
+			"name" : "Battle-Hardened",
 			"level" : 6,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -603,7 +603,7 @@
 				]
 		},
 		{
-			"name" : "RAGE UP",
+			"name" : "Rage Up",
 			"level" : 6,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -621,7 +621,7 @@
 				]
 		},
 		{
-			"name" : "BLADE-TOUCHED",
+			"name" : "Blade-Touched",
 			"level" : 7,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -641,7 +641,7 @@
 				]
 		},
 		{
-			"name" : "GLANCING BLOW",
+			"name" : "Glancing Blow",
 			"level" : 7,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -659,7 +659,7 @@
 				]
 		},
 		{
-			"name" : "BATTLE CRY",
+			"name" : "Battle Cry",
 			"level" : 8,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -677,7 +677,7 @@
 				]
 		},
 		{
-			"name" : "FRENZY",
+			"name" : "Frenzy",
 			"level" : 8,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -695,7 +695,7 @@
 				]
 		},
 		{
-			"name" : "GORE AND GLORY",
+			"name" : "Gore And Glory",
 			"level" : 9,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -713,7 +713,7 @@
 				]
 		},
 		{
-			"name" : "REAPER’S STRIKE",
+			"name" : "Reaper’S Strike",
 			"level" : 9,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -731,7 +731,7 @@
 				]
 		},
 		{
-			"name" : "BATTLE MONSTER",
+			"name" : "Battle Monster",
 			"level" : 10,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -749,7 +749,7 @@
 				]
 		},
 		{
-			"name" : "ONSLAUGHT",
+			"name" : "Onslaught",
 			"level" : 10,
 			"domain" : "Blade",
 			"type" : "Ability",
@@ -767,7 +767,7 @@
 				]
 		},
 		{
-			"name" : "DEFT MANEUVERS",
+			"name" : "Deft Maneuvers",
 			"level" : 1,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -785,7 +785,7 @@
 				]
 		},
 		{
-			"name" : "I SEE IT COMING",
+			"name" : "I See It Coming",
 			"level" : 1,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -803,7 +803,7 @@
 				]
 		},
 		{
-			"name" : "UNTOUCHABLE",
+			"name" : "Untouchable",
 			"level" : 1,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -821,7 +821,7 @@
 				]
 		},
 		{
-			"name" : "FEROCITY",
+			"name" : "Ferocity",
 			"level" : 2,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -839,7 +839,7 @@
 				]
 		},
 		{
-			"name" : "STRATEGIC APPROACH",
+			"name" : "Strategic Approach",
 			"level" : 2,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -860,7 +860,7 @@
 				]
 		},
 		{
-			"name" : "BRACE",
+			"name" : "Brace",
 			"level" : 3,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -878,7 +878,7 @@
 				]
 		},
 		{
-			"name" : "TACTICIAN",
+			"name" : "Tactician",
 			"level" : 3,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -896,7 +896,7 @@
 				]
 		},
 		{
-			"name" : "BOOST",
+			"name" : "Boost",
 			"level" : 4,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -914,7 +914,7 @@
 				]
 		},
 		{
-			"name" : "REDIRECT",
+			"name" : "Redirect",
 			"level" : 4,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -932,7 +932,7 @@
 				]
 		},
 		{
-			"name" : "KNOW THY ENEMY",
+			"name" : "Know Thy Enemy",
 			"level" : 5,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -954,7 +954,7 @@
 				]
 		},
 		{
-			"name" : "SIGNATURE MOVE",
+			"name" : "Signature Move",
 			"level" : 5,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -972,7 +972,7 @@
 				]
 		},
 		{
-			"name" : "RAPID RIPOSTE",
+			"name" : "Rapid Riposte",
 			"level" : 6,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -990,7 +990,7 @@
 				]
 		},
 		{
-			"name" : "RECOVERY",
+			"name" : "Recovery",
 			"level" : 6,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1008,7 +1008,7 @@
 				]
 		},
 		{
-			"name" : "BONE-TOUCHED",
+			"name" : "Bone-Touched",
 			"level" : 7,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1028,7 +1028,7 @@
 				]
 		},
 		{
-			"name" : "CRUEL PRECISION",
+			"name" : "Cruel Precision",
 			"level" : 7,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1046,7 +1046,7 @@
 				]
 		},
 		{
-			"name" : "BREAKING BLOW",
+			"name" : "Breaking Blow",
 			"level" : 8,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1064,7 +1064,7 @@
 				]
 		},
 		{
-			"name" : "WRANGLE",
+			"name" : "Wrangle",
 			"level" : 8,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1082,7 +1082,7 @@
 				]
 		},
 		{
-			"name" : "ON THE BRINK",
+			"name" : "On The Brink",
 			"level" : 9,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1100,7 +1100,7 @@
 				]
 		},
 		{
-			"name" : "SPLINTERING STRIKE",
+			"name" : "Splintering Strike",
 			"level" : 9,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1118,7 +1118,7 @@
 				]
 		},
 		{
-			"name" : "DEATHRUN",
+			"name" : "Deathrun",
 			"level" : 10,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1136,7 +1136,7 @@
 				]
 		},
 		{
-			"name" : "SWIFT STEP",
+			"name" : "Swift Step",
 			"level" : 10,
 			"domain" : "Bone",
 			"type" : "Ability",
@@ -1154,7 +1154,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF AVA",
+			"name" : "Book Of Ava",
 			"level" : 1,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1172,7 +1172,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF ILLIAT",
+			"name" : "Book Of Illiat",
 			"level" : 1,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1190,7 +1190,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF TYFAR",
+			"name" : "Book Of Tyfar",
 			"level" : 1,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1208,7 +1208,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF SITIL",
+			"name" : "Book Of Sitil",
 			"level" : 2,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1226,7 +1226,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF VAGRAS",
+			"name" : "Book Of Vagras",
 			"level" : 2,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1244,7 +1244,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF KORVAX",
+			"name" : "Book Of Korvax",
 			"level" : 3,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1262,7 +1262,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF NORAI",
+			"name" : "Book Of Norai",
 			"level" : 3,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1280,7 +1280,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF EXOTA",
+			"name" : "Book Of Exota",
 			"level" : 4,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1298,7 +1298,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF GRYNN",
+			"name" : "Book Of Grynn",
 			"level" : 4,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1316,7 +1316,7 @@
 				]
 		},
 		{
-			"name" : "MANIFEST WALL",
+			"name" : "Manifest Wall",
 			"level" : 5,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1334,7 +1334,7 @@
 				]
 		},
 		{
-			"name" : "TELEPORT",
+			"name" : "Teleport",
 			"level" : 5,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1356,7 +1356,7 @@
 				]
 		},
 		{
-			"name" : "BANISH",
+			"name" : "Banish",
 			"level" : 6,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1374,7 +1374,7 @@
 				]
 		},
 		{
-			"name" : "SIGIL OF RETRIBUTION",
+			"name" : "Sigil Of Retribution",
 			"level" : 6,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1392,7 +1392,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF HOMET",
+			"name" : "Book Of Homet",
 			"level" : 7,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1410,7 +1410,7 @@
 				]
 		},
 		{
-			"name" : "CODEX-TOUCHED",
+			"name" : "Codex-Touched",
 			"level" : 7,
 			"domain" : "Codex",
 			"type" : "Ability",
@@ -1430,7 +1430,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF VYOLA",
+			"name" : "Book Of Vyola",
 			"level" : 8,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1448,7 +1448,7 @@
 				]
 		},
 		{
-			"name" : "SAFE HAVEN",
+			"name" : "Safe Haven",
 			"level" : 8,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1466,7 +1466,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF RONIN",
+			"name" : "Book Of Ronin",
 			"level" : 9,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1484,7 +1484,7 @@
 				]
 		},
 		{
-			"name" : "DISINTEGRATION WAVE",
+			"name" : "Disintegration Wave",
 			"level" : 9,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1502,7 +1502,7 @@
 				]
 		},
 		{
-			"name" : "BOOK OF YARROW",
+			"name" : "Book Of Yarrow",
 			"level" : 10,
 			"domain" : "Codex",
 			"type" : "Grimoire",
@@ -1520,7 +1520,7 @@
 				]
 		},
 		{
-			"name" : "TRANSCENDENT UNION",
+			"name" : "Transcendent Union",
 			"level" : 10,
 			"domain" : "Codex",
 			"type" : "Spell",
@@ -1538,7 +1538,7 @@
 				]
 		},
 		{
-			"name" : "DEFT DECEIVER",
+			"name" : "Deft Deceiver",
 			"level" : 1,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1556,7 +1556,7 @@
 				]
 		},
 		{
-			"name" : "ENRAPTURE",
+			"name" : "Enrapture",
 			"level" : 1,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1574,7 +1574,7 @@
 				]
 		},
 		{
-			"name" : "INSPIRATIONAL WORDS",
+			"name" : "Inspirational Words",
 			"level" : 1,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1595,7 +1595,7 @@
 				]
 		},
 		{
-			"name" : "TELL NO LIES",
+			"name" : "Tell No Lies",
 			"level" : 2,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1613,7 +1613,7 @@
 				]
 		},
 		{
-			"name" : "TROUBLEMAKER",
+			"name" : "Troublemaker",
 			"level" : 2,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1631,7 +1631,7 @@
 				]
 		},
 		{
-			"name" : "HYPNOTIC SHIMMER",
+			"name" : "Hypnotic Shimmer",
 			"level" : 3,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1649,7 +1649,7 @@
 				]
 		},
 		{
-			"name" : "INVISIBILITY",
+			"name" : "Invisibility",
 			"level" : 3,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1667,7 +1667,7 @@
 				]
 		},
 		{
-			"name" : "SOOTHING SPEECH",
+			"name" : "Soothing Speech",
 			"level" : 4,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1685,7 +1685,7 @@
 				]
 		},
 		{
-			"name" : "THROUGH YOUR EYES",
+			"name" : "Through Your Eyes",
 			"level" : 4,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1703,7 +1703,7 @@
 				]
 		},
 		{
-			"name" : "THOUGHT DELVER",
+			"name" : "Thought Delver",
 			"level" : 5,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1721,7 +1721,7 @@
 				]
 		},
 		{
-			"name" : "WORDS OF DISCORD",
+			"name" : "Words Of Discord",
 			"level" : 5,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1739,7 +1739,7 @@
 				]
 		},
 		{
-			"name" : "NEVER UPSTAGED",
+			"name" : "Never Upstaged",
 			"level" : 6,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1757,7 +1757,7 @@
 				]
 		},
 		{
-			"name" : "SHARE THE BURDEN",
+			"name" : "Share The Burden",
 			"level" : 6,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1775,7 +1775,7 @@
 				]
 		},
 		{
-			"name" : "ENDLESS CHARISMA",
+			"name" : "Endless Charisma",
 			"level" : 7,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1793,7 +1793,7 @@
 				]
 		},
 		{
-			"name" : "GRACE-TOUCHED",
+			"name" : "Grace-Touched",
 			"level" : 7,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1813,7 +1813,7 @@
 				]
 		},
 		{
-			"name" : "ASTRAL PROJECTION",
+			"name" : "Astral Projection",
 			"level" : 8,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1831,7 +1831,7 @@
 				]
 		},
 		{
-			"name" : "MASS ENRAPTURE",
+			"name" : "Mass Enrapture",
 			"level" : 8,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1849,7 +1849,7 @@
 				]
 		},
 		{
-			"name" : "COPYCAT",
+			"name" : "Copycat",
 			"level" : 9,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1867,7 +1867,7 @@
 				]
 		},
 		{
-			"name" : "MASTER OF THE CRAFT",
+			"name" : "Master Of The Craft",
 			"level" : 9,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1885,7 +1885,7 @@
 				]
 		},
 		{
-			"name" : "ENCORE",
+			"name" : "Encore",
 			"level" : 10,
 			"domain" : "Grace",
 			"type" : "Spell",
@@ -1903,7 +1903,7 @@
 				]
 		},
 		{
-			"name" : "NOTORIOUS",
+			"name" : "Notorious",
 			"level" : 10,
 			"domain" : "Grace",
 			"type" : "Ability",
@@ -1921,7 +1921,7 @@
 				]
 		},
 		{
-			"name" : "PICK AND PULL",
+			"name" : "Pick And Pull",
 			"level" : 1,
 			"domain" : "Midnight",
 			"type" : "Ability",
@@ -1939,7 +1939,7 @@
 				]
 		},
 		{
-			"name" : "RAIN OF BLADES",
+			"name" : "Rain Of Blades",
 			"level" : 1,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -1957,7 +1957,7 @@
 				]
 		},
 		{
-			"name" : "UNCANNY DISGUISE",
+			"name" : "Uncanny Disguise",
 			"level" : 1,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -1975,7 +1975,7 @@
 				]
 		},
 		{
-			"name" : "MIDNIGHT SPIRIT",
+			"name" : "Midnight Spirit",
 			"level" : 2,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -1993,7 +1993,7 @@
 				]
 		},
 		{
-			"name" : "SHADOWBIND",
+			"name" : "Shadowbind",
 			"level" : 2,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2011,7 +2011,7 @@
 				]
 		},
 		{
-			"name" : "CHOKEHOLD",
+			"name" : "Chokehold",
 			"level" : 3,
 			"domain" : "Midnight",
 			"type" : "Ability",
@@ -2029,7 +2029,7 @@
 				]
 		},
 		{
-			"name" : "VEIL OF NIGHT",
+			"name" : "Veil Of Night",
 			"level" : 3,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2047,7 +2047,7 @@
 				]
 		},
 		{
-			"name" : "STEALTH EXPERTISE",
+			"name" : "Stealth Expertise",
 			"level" : 4,
 			"domain" : "Midnight",
 			"type" : "Ability",
@@ -2065,7 +2065,7 @@
 				]
 		},
 		{
-			"name" : "GLYPH OF NIGHTFALL",
+			"name" : "Glyph Of Nightfall",
 			"level" : 4,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2083,7 +2083,7 @@
 				]
 		},
 		{
-			"name" : "HUSH",
+			"name" : "Hush",
 			"level" : 5,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2101,7 +2101,7 @@
 				]
 		},
 		{
-			"name" : "PHANTOM RETREAT",
+			"name" : "Phantom Retreat",
 			"level" : 5,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2119,7 +2119,7 @@
 				]
 		},
 		{
-			"name" : "DARK WHISPERS",
+			"name" : "Dark Whispers",
 			"level" : 6,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2141,7 +2141,7 @@
 				]
 		},
 		{
-			"name" : "MASS DISGUISE",
+			"name" : "Mass Disguise",
 			"level" : 6,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2159,7 +2159,7 @@
 				]
 		},
 		{
-			"name" : "MIDNIGHT-TOUCHED",
+			"name" : "Midnight-Touched",
 			"level" : 7,
 			"domain" : "Midnight",
 			"type" : "Ability",
@@ -2179,7 +2179,7 @@
 				]
 		},
 		{
-			"name" : "VANISHING DODGE",
+			"name" : "Vanishing Dodge",
 			"level" : 7,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2197,7 +2197,7 @@
 				]
 		},
 		{
-			"name" : "SHADOWHUNTER",
+			"name" : "Shadowhunter",
 			"level" : 8,
 			"domain" : "Midnight",
 			"type" : "Ability",
@@ -2215,7 +2215,7 @@
 				]
 		},
 		{
-			"name" : "SPELLCHARGE",
+			"name" : "Spellcharge",
 			"level" : 8,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2233,7 +2233,7 @@
 				]
 		},
 		{
-			"name" : "NIGHT TERROR",
+			"name" : "Night Terror",
 			"level" : 9,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2251,7 +2251,7 @@
 				]
 		},
 		{
-			"name" : "TWILIGHT TOLL",
+			"name" : "Twilight Toll",
 			"level" : 9,
 			"domain" : "Midnight",
 			"type" : "Ability",
@@ -2269,7 +2269,7 @@
 				]
 		},
 		{
-			"name" : "ECLIPSE",
+			"name" : "Eclipse",
 			"level" : 10,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2287,7 +2287,7 @@
 				]
 		},
 		{
-			"name" : "SPECTER OF THE DARK",
+			"name" : "Specter Of The Dark",
 			"level" : 10,
 			"domain" : "Midnight",
 			"type" : "Spell",
@@ -2305,7 +2305,7 @@
 				]
 		},
 		{
-			"name" : "GIFTED TRACKER",
+			"name" : "Gifted Tracker",
 			"level" : 1,
 			"domain" : "Sage",
 			"type" : "Ability",
@@ -2327,7 +2327,7 @@
 				]
 		},
 		{
-			"name" : "NATURE’S TONGUE",
+			"name" : "Nature’S Tongue",
 			"level" : 1,
 			"domain" : "Sage",
 			"type" : "Ability",
@@ -2345,7 +2345,7 @@
 				]
 		},
 		{
-			"name" : "VICIOUS ENTANGLE",
+			"name" : "Vicious Entangle",
 			"level" : 1,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2363,7 +2363,7 @@
 				]
 		},
 		{
-			"name" : "CONJURE SWARM",
+			"name" : "Conjure Swarm",
 			"level" : 2,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2381,7 +2381,7 @@
 				]
 		},
 		{
-			"name" : "NATURAL FAMILIAR",
+			"name" : "Natural Familiar",
 			"level" : 2,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2399,7 +2399,7 @@
 				]
 		},
 		{
-			"name" : "CORROSIVE PROJECTILE",
+			"name" : "Corrosive Projectile",
 			"level" : 3,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2417,7 +2417,7 @@
 				]
 		},
 		{
-			"name" : "TOWERING STALK",
+			"name" : "Towering Stalk",
 			"level" : 3,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2435,7 +2435,7 @@
 				]
 		},
 		{
-			"name" : "DEATH GRIP",
+			"name" : "Death Grip",
 			"level" : 4,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2456,7 +2456,7 @@
 				]
 		},
 		{
-			"name" : "HEALING FIELD",
+			"name" : "Healing Field",
 			"level" : 4,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2474,7 +2474,7 @@
 				]
 		},
 		{
-			"name" : "THORN SKIN",
+			"name" : "Thorn Skin",
 			"level" : 5,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2492,7 +2492,7 @@
 				]
 		},
 		{
-			"name" : "WILD FORTRESS",
+			"name" : "Wild Fortress",
 			"level" : 5,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2510,7 +2510,7 @@
 				]
 		},
 		{
-			"name" : "CONJURED STEEDS",
+			"name" : "Conjured Steeds",
 			"level" : 6,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2528,7 +2528,7 @@
 				]
 		},
 		{
-			"name" : "FORAGER",
+			"name" : "Forager",
 			"level" : 6,
 			"domain" : "Sage",
 			"type" : "Ability",
@@ -2546,7 +2546,7 @@
 				]
 		},
 		{
-			"name" : "SAGE-TOUCHED",
+			"name" : "Sage-Touched",
 			"level" : 7,
 			"domain" : "Sage",
 			"type" : "Ability",
@@ -2566,7 +2566,7 @@
 				]
 		},
 		{
-			"name" : "WILD SURGE",
+			"name" : "Wild Surge",
 			"level" : 7,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2584,7 +2584,7 @@
 				]
 		},
 		{
-			"name" : "FOREST SPRITES",
+			"name" : "Forest Sprites",
 			"level" : 8,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2604,7 +2604,7 @@
 				]
 		},
 		{
-			"name" : "REJUVENATION BARRIER",
+			"name" : "Rejuvenation Barrier",
 			"level" : 8,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2622,7 +2622,7 @@
 				]
 		},
 		{
-			"name" : "FANE OF THE WILDS",
+			"name" : "Fane Of The Wilds",
 			"level" : 9,
 			"domain" : "Sage",
 			"type" : "Ability",
@@ -2640,7 +2640,7 @@
 				]
 		},
 		{
-			"name" : "PLANT DOMINION",
+			"name" : "Plant Dominion",
 			"level" : 9,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2658,7 +2658,7 @@
 				]
 		},
 		{
-			"name" : "FORCE OF NATURE",
+			"name" : "Force Of Nature",
 			"level" : 10,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2679,7 +2679,7 @@
 				]
 		},
 		{
-			"name" : "TEMPEST",
+			"name" : "Tempest",
 			"level" : 10,
 			"domain" : "Sage",
 			"type" : "Spell",
@@ -2700,7 +2700,7 @@
 				]
 		},
 		{
-			"name" : "BOLT BEACON",
+			"name" : "Bolt Beacon",
 			"level" : 1,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2718,7 +2718,7 @@
 				]
 		},
 		{
-			"name" : "MENDING TOUCH",
+			"name" : "Mending Touch",
 			"level" : 1,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2736,7 +2736,7 @@
 				]
 		},
 		{
-			"name" : "REASSURANCE",
+			"name" : "Reassurance",
 			"level" : 1,
 			"domain" : "Splendor",
 			"type" : "Ability",
@@ -2754,7 +2754,7 @@
 				]
 		},
 		{
-			"name" : "FINAL WORDS",
+			"name" : "Final Words",
 			"level" : 2,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2772,7 +2772,7 @@
 				]
 		},
 		{
-			"name" : "HEALING HANDS",
+			"name" : "Healing Hands",
 			"level" : 2,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2790,7 +2790,7 @@
 				]
 		},
 		{
-			"name" : "SECOND WIND",
+			"name" : "Second Wind",
 			"level" : 3,
 			"domain" : "Splendor",
 			"type" : "Ability",
@@ -2808,7 +2808,7 @@
 				]
 		},
 		{
-			"name" : "VOICE OF REASON",
+			"name" : "Voice Of Reason",
 			"level" : 3,
 			"domain" : "Splendor",
 			"type" : "Ability",
@@ -2826,7 +2826,7 @@
 				]
 		},
 		{
-			"name" : "DIVINATION",
+			"name" : "Divination",
 			"level" : 4,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2844,7 +2844,7 @@
 				]
 		},
 		{
-			"name" : "LIFE WARD",
+			"name" : "Life Ward",
 			"level" : 4,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2862,7 +2862,7 @@
 				]
 		},
 		{
-			"name" : "SHAPE MATERIAL",
+			"name" : "Shape Material",
 			"level" : 5,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2880,7 +2880,7 @@
 				]
 		},
 		{
-			"name" : "SMITE",
+			"name" : "Smite",
 			"level" : 5,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2898,7 +2898,7 @@
 				]
 		},
 		{
-			"name" : "RESTORATION",
+			"name" : "Restoration",
 			"level" : 6,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2916,7 +2916,7 @@
 				]
 		},
 		{
-			"name" : "ZONE OF PROTECTION",
+			"name" : "Zone Of Protection",
 			"level" : 6,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2934,7 +2934,7 @@
 				]
 		},
 		{
-			"name" : "HEALING STRIKE",
+			"name" : "Healing Strike",
 			"level" : 7,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2952,7 +2952,7 @@
 				]
 		},
 		{
-			"name" : "SPLENDOR-TOUCHED",
+			"name" : "Splendor-Touched",
 			"level" : 7,
 			"domain" : "Splendor",
 			"type" : "Ability",
@@ -2972,7 +2972,7 @@
 				]
 		},
 		{
-			"name" : "SHIELD AURA",
+			"name" : "Shield Aura",
 			"level" : 8,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -2990,7 +2990,7 @@
 				]
 		},
 		{
-			"name" : "STUNNING SUNLIGHT",
+			"name" : "Stunning Sunlight",
 			"level" : 8,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -3008,7 +3008,7 @@
 				]
 		},
 		{
-			"name" : "OVERWHELMING AURA",
+			"name" : "Overwhelming Aura",
 			"level" : 9,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -3026,7 +3026,7 @@
 				]
 		},
 		{
-			"name" : "SALVATION BEAM",
+			"name" : "Salvation Beam",
 			"level" : 9,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -3044,7 +3044,7 @@
 				]
 		},
 		{
-			"name" : "INVIGORATION",
+			"name" : "Invigoration",
 			"level" : 10,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -3062,7 +3062,7 @@
 				]
 		},
 		{
-			"name" : "RESURRECTION",
+			"name" : "Resurrection",
 			"level" : 10,
 			"domain" : "Splendor",
 			"type" : "Spell",
@@ -3080,7 +3080,7 @@
 				]
 		},
 		{
-			"name" : "BARE BONES",
+			"name" : "Bare Bones",
 			"level" : 1,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3102,7 +3102,7 @@
 				]
 		},
 		{
-			"name" : "FORCEFUL PUSH",
+			"name" : "Forceful Push",
 			"level" : 1,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3120,7 +3120,7 @@
 				]
 		},
 		{
-			"name" : "I AM YOUR SHIELD",
+			"name" : "I Am Your Shield",
 			"level" : 1,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3138,7 +3138,7 @@
 				]
 		},
 		{
-			"name" : "BODY BASHER",
+			"name" : "Body Basher",
 			"level" : 2,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3156,7 +3156,7 @@
 				]
 		},
 		{
-			"name" : "BOLD PRESENCE",
+			"name" : "Bold Presence",
 			"level" : 2,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3174,7 +3174,7 @@
 				]
 		},
 		{
-			"name" : "CRITICAL INSPIRATION",
+			"name" : "Critical Inspiration",
 			"level" : 3,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3192,7 +3192,7 @@
 				]
 		},
 		{
-			"name" : "LEAN ON ME",
+			"name" : "Lean On Me",
 			"level" : 3,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3210,7 +3210,7 @@
 				]
 		},
 		{
-			"name" : "GOAD THEM ON",
+			"name" : "Goad Them On",
 			"level" : 4,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3228,7 +3228,7 @@
 				]
 		},
 		{
-			"name" : "SUPPORT TANK",
+			"name" : "Support Tank",
 			"level" : 4,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3246,7 +3246,7 @@
 				]
 		},
 		{
-			"name" : "ARMORER",
+			"name" : "Armorer",
 			"level" : 5,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3264,7 +3264,7 @@
 				]
 		},
 		{
-			"name" : "ROUSING STRIKE",
+			"name" : "Rousing Strike",
 			"level" : 5,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3282,7 +3282,7 @@
 				]
 		},
 		{
-			"name" : "INEVITABLE",
+			"name" : "Inevitable",
 			"level" : 6,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3300,7 +3300,7 @@
 				]
 		},
 		{
-			"name" : "RISE UP",
+			"name" : "Rise Up",
 			"level" : 6,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3318,7 +3318,7 @@
 				]
 		},
 		{
-			"name" : "SHRUG IT OFF",
+			"name" : "Shrug It Off",
 			"level" : 7,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3336,7 +3336,7 @@
 				]
 		},
 		{
-			"name" : "VALOR-TOUCHED",
+			"name" : "Valor-Touched",
 			"level" : 7,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3356,7 +3356,7 @@
 				]
 		},
 		{
-			"name" : "FULL SURGE",
+			"name" : "Full Surge",
 			"level" : 8,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3374,7 +3374,7 @@
 				]
 		},
 		{
-			"name" : "GROUND POUND",
+			"name" : "Ground Pound",
 			"level" : 8,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3392,7 +3392,7 @@
 				]
 		},
 		{
-			"name" : "HOLD THE LINE",
+			"name" : "Hold The Line",
 			"level" : 9,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3410,7 +3410,7 @@
 				]
 		},
 		{
-			"name" : "LEAD BY EXAMPLE",
+			"name" : "Lead By Example",
 			"level" : 9,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3428,7 +3428,7 @@
 				]
 		},
 		{
-			"name" : "UNBREAKABLE",
+			"name" : "Unbreakable",
 			"level" : 10,
 			"domain" : "Valor",
 			"type" : "Ability",
@@ -3446,7 +3446,7 @@
 				]
 		},
 		{
-			"name" : "UNYIELDING ARMOR",
+			"name" : "Unyielding Armor",
 			"level" : 10,
 			"domain" : "Valor",
 			"type" : "Ability",
