@@ -744,7 +744,15 @@
 				"trait" : "Strength",
 				"damage" : "d10+8 phy"
 			},
-			"advantage" : "To transform into this creature, mark an additional Stress. Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.",
+			"advantage" : "from base forms",
+			"features" : [
+				{
+					"name" : "Hybrid",
+					"description" : [
+						"To transform into this creature, mark 2 additional Stress. Choose any three Beastform options from Tiers 1-3. Choose a total of five advantages and three features from those options."
+					]
+				}
+			],
 			"sources" : [
 				{
 					"id": "014/135",
@@ -973,7 +981,15 @@
 				"trait" : "Melee",
 				"damage" : "d12+10 phy"
 			},
-			"advantage" : "To transform into this creature, mark 2 additional Stress. Choose any three Beastform options from Tiers 1-3. Choose a total of five advantages and three features from those options.",
+			"advantage" : "from base forms",
+			"features" : [
+				{
+					"name" : "Hybrid",
+					"description" : [
+						"To transform into this creature, mark 2 additional Stress. Choose any three Beastform options from Tiers 1-3. Choose a total of five advantages and three features from those options."
+					]
+				}
+			],
 			"sources" : [
 				{
 					"id": "015/135",
