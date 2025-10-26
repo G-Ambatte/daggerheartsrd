@@ -44,6 +44,8 @@ export default `
 
       .descriptive {
         background: #DDD;
+        border-width: 0px;
+        padding: 2px 5px;
         &+* {
           margin-top: 8px;
         }
