@@ -1,0 +1,208 @@
+{
+	"wheelchairs" : [
+		{
+			"name" : "Light-Frame Wheelchair",
+			"tier" : "1",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target rollsnother creature within range.",
+			"sources" : [
+				{
+					"id": "054/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Improved Light-Frame Wheelchair",
+			"tier" : "2",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+3 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range.",
+			"sources" : [
+				{
+					"id": "054/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Advanced Light-Frame Wheelchair",
+			"tier" : "3",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+6 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range.",
+			"sources" : [
+				{
+					"id": "054/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Legendary Light-Frame Wheelchair",
+			"tier" : "4",
+			"trait" : "Agility",
+			"range" : "Melee",
+			"damage" : "d8+9 phy",
+			"burden" : "One-Handed",
+			"feature" : "Quick: When you make an attack, you can mark a Stress to target another creature within range.",
+			"sources" : [
+				{
+					"id": "054/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Heavy-Frame Wheelchair",
+			"tier" : "1",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+3 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion ",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Improved Heavy-Frame Wheelchair",
+			"tier" : "2",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+6 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Advanced Heavy-Frame Wheelchair",
+			"tier" : "3",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+9 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Legendary Heavy-Frame Wheelchair",
+			"tier" : "4",
+			"trait" : "Strength",
+			"range" : "Melee",
+			"damage" : "d12+12 phy",
+			"burden" : "Two-Handed",
+			"feature" : "Heavy: −1 to Evasion",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Arcane-Frame Wheelchair",
+			"tier" : "1",
+			"trait" : "Spellcast",
+			"range" : "Far",
+			"damage" : "d6 mag",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Improved Arcane-Frame Wheelchair",
+			"tier" : "2",
+			"trait" : "Spellcast",
+			"range" : "Far",
+			"damage" : "d6+3 mag",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Advanced Arcane-Frame Wheelchair",
+			"tier" : "3",
+			"trait" : "Spellcast",
+			"range" : "Far",
+			"damage" : "d6+6 mag",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		},
+		{
+			"name" : "Legendary Arcane-Frame Wheelchair",
+			"tier" : "4",
+			"trait" : "Spellcast",
+			"range" : "Far",
+			"damage" : "d6+9 mag",
+			"burden" : "One-Handed",
+			"feature" : "Reliable: +1 to attack rolls",
+			"sources" : [
+				{
+					"id": "055/135",
+					"set": "DH SRD",
+					"updated": "2025-09-09",
+					"publisher": "Daggerheart © Darrington Press 2025"
+				}
+			]
+		}
+	]
+}

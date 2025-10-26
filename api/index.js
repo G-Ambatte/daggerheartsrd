@@ -15,6 +15,7 @@ import environmentData from './data/environments/index.json' with { type: 'json'
 import lootData from './data/loots/index.json' with { type: 'json' };
 import subclassData from './data/subclasses/index.json' with { type: 'json' };
 import weaponData from './data/weapons/index.json' with { type: 'json' };
+import wheelchairData from './data/wheelchairs/index.json' with { type: 'json' };
 
 
 const getDataFromJSON = async (id, dataObj, genre = false)=>{
@@ -146,16 +147,29 @@ app.get('/api/subclass/:id', asyncHandler(async (req, res)=>{
 	res.send(data);
 }));
 
-// Subclasses
+// Weapons
 app.get('/api/weapons', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON('weapons', weaponData);
 	res.send(data);
 }));
 
-// Subclass
+// Weapon
 app.get('/api/weapon/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, weaponData, 'weapons');
 	if(data.length == 0) return res.status(404).json('Unknown weapon');
+	res.send(data);
+}));
+
+// Wheelchairs
+app.get('/api/wheelchairs', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('wheelchairs', wheelchairData);
+	res.send(data);
+}));
+
+// Wheelchair
+app.get('/api/wheelchair/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, wheelchairData, 'wheelchairs');
+	if(data.length == 0) return res.status(404).json('Unknown wheelchair');
 	res.send(data);
 }));
 
