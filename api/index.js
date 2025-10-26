@@ -7,6 +7,7 @@ import dpcgl from './data/dpcgl.js';
 
 import armorData from './data/armors/index.json' with { type: 'json' };
 import adversaryData from './data/adversaries/index.json' with { type: 'json' };
+import beastformData from './data/beastforms/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
 import cardData from './data/cards/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
@@ -45,13 +46,13 @@ app.get('/api/armor/:id', asyncHandler(async (req, res)=>{
 	res.send(data);
 }));
 
-// Ancestries
+// Adversaries
 app.get('/api/adversaries', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON('adversaries', adversaryData);
 	res.send(data);
 }));
 
-// Ancestry
+// Adversary
 app.get('/api/adversary/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, adversaryData, 'adversaries');
 	if(data.length == 0) return res.status(404).json('Unknown adversary');
@@ -68,6 +69,19 @@ app.get('/api/ancestries', asyncHandler(async (req, res)=>{
 app.get('/api/ancestry/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, ancestryData, 'ancestries');
 	if(data.length == 0) return res.status(404).json('Unknown ancestry');
+	res.send(data);
+}));
+
+// Beastforms
+app.get('/api/beastforms', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('beastforms', beastformData);
+	res.send(data);
+}));
+
+// Beastform
+app.get('/api/beastform/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, beastformData, 'beastforms');
+	if(data.length == 0) return res.status(404).json('Unknown beastform');
 	res.send(data);
 }));
 
