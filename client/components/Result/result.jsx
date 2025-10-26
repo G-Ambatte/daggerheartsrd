@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import resultStyle from './resultStyle.js';
 import { formatFn as adversaryFormat } from '../../types/adversaries.js';
 import { formatFn as armorFormat } from '../../types/armors.js';
+import { formatFn as cardFormat } from '../../types/cards.js';
 import { formatFn as consumableFormat } from '../../types/consumables.js';
 import { formatFn as environmentFormat } from '../../types/environments.js';
 import { formatFn as lootFormat } from '../../types/loots.js';
@@ -35,6 +36,7 @@ function Result({ data, type }) {
 		const outputMap = {
 			'adversary'   : adversaryFormat,
 			'armor'       : armorFormat,
+			'card'        : cardFormat,
 			'consumable'  : consumableFormat,
 			'environment' : environmentFormat,
 			'loot'        : lootFormat,

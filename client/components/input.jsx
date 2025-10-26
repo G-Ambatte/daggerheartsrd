@@ -8,6 +8,7 @@ import 'react-autocomplete-input/dist/bundle.css';
 import * as adversaryData from '../types/adversaries.js';
 import * as ancestryData from '../types/ancestries.js';
 import * as armorData from '../types/armors.js';
+import * as cardData from '../types/cards.js';
 import * as classData from '../types/classes.js';
 import * as communityData from '../types/communities.js';
 import * as consumableData from '../types/consumables.js';
@@ -26,6 +27,7 @@ function Input({ setData, type, setType }) {
 		'armor',
 		'adversary',
 		'ancestry',
+		'card',
 		'class',
 		'community',
 		'consumable',
@@ -49,6 +51,7 @@ function Input({ setData, type, setType }) {
 			'adversary'   : adversaryData.suggestionsRoute,
 			'ancestry'    : ancestryData.suggestionsRoute,
 			'armor'       : armorData.suggestionsRoute,
+			'card'        : cardData.suggestionsRoute,
 			'class'       : classData.suggestionsRoute,
 			'community'   : communityData.suggestionsRoute,
 			'consumable'  : consumableData.suggestionsRoute,
@@ -89,6 +92,7 @@ function Input({ setData, type, setType }) {
 				'adversary'   : adversaryData.dataRoute,
 				'ancestry'    : ancestryData.dataRoute,
 				'armor'       : armorData.dataRoute,
+				'card'        : cardData.dataRoute,
 				'class'       : classData.dataRoute,
 				'community'   : communityData.dataRoute,
 				'consumable'  : consumableData.dataRoute,
