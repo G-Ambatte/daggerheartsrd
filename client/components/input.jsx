@@ -10,6 +10,7 @@ import * as ancestryData from '../types/ancestries.js';
 import * as armorData from '../types/armors.js';
 import * as classData from '../types/classes.js';
 import * as communityData from '../types/communities.js';
+import * as consumableData from '../types/consumables.js';
 import * as domainData from '../types/domains.js';
 import * as environmentData from '../types/environments.js';
 import * as lootData from '../types/loots.js';
@@ -21,7 +22,20 @@ import * as wheelchairData from '../types/wheelchairs.js';
 // const URL = '/api/';
 
 function Input({ setData, type, setType }) {
-	const types = ['armor', 'adversary', 'ancestry', 'class', 'community', 'domain', 'environment', 'loot', 'subclass', 'weapon', 'wheelchair'];
+	const types = [
+		'armor',
+		'adversary',
+		'ancestry',
+		'class',
+		'community',
+		'consumable',
+		'domain',
+		'environment',
+		'loot',
+		'subclass',
+		'weapon',
+		'wheelchair'
+	];
 
 	const [autoCompleteSuggestions, setAutoCompleteSuggestions] = useState(['', '']);
 
@@ -37,6 +51,7 @@ function Input({ setData, type, setType }) {
 			'armor'       : armorData.suggestionsRoute,
 			'class'       : classData.suggestionsRoute,
 			'community'   : communityData.suggestionsRoute,
+			'consumable'  : consumableData.suggestionsRoute,
 			'domain'      : domainData.suggestionsRoute,
 			'environment' : environmentData.suggestionsRoute,
 			'loot'        : lootData.suggestionsRoute,
@@ -76,6 +91,7 @@ function Input({ setData, type, setType }) {
 				'armor'       : armorData.dataRoute,
 				'class'       : classData.dataRoute,
 				'community'   : communityData.dataRoute,
+				'consumable'  : consumableData.dataRoute,
 				'domain'      : domainData.dataRoute,
 				'environment' : environmentData.dataRoute,
 				'loot'        : lootData.dataRoute,
