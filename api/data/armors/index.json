@@ -9,7 +9,7 @@
 					"severe" : 11
 				},
 				"base" : 3,
-				"description" : "Flexible: +1 to Evasion"
+				"feature" : "Flexible: +1 to Evasion"
 			},
 			{
 				"tier" : 1,
@@ -19,7 +19,7 @@
 					"severe" : 13
 				},
 				"base" : 3,
-				"description" : "—"
+				"feature" : "—"
 			},
 			{
 				"tier" : 1,
@@ -29,7 +29,7 @@
 					"severe" : 15
 				},
 				"base" : 4,
-				"description" : "Heavy: −1 to Evasion"
+				"feature" : "Heavy: −1 to Evasion"
 			},
 			{
 				"tier" : 1,
@@ -39,7 +39,7 @@
 					"severe" : 17
 				},
 				"base" : 4,
-				"description" : "Very Heavy: −2 to Evasion; −1 to Agility"
+				"feature" : "Very Heavy: −2 to Evasion; −1 to Agility"
 			},
 
 			{
@@ -50,7 +50,7 @@
 					"severe" : 16
 				},
 				"base" : 4,
-				"description" : "Flexible: +1 to Evasion"
+				"feature" : "Flexible: +1 to Evasion"
 			},
 			{
 				"tier" : 2,
@@ -60,7 +60,7 @@
 					"severe" : 20
 				},
 				"base" : 4,
-				"description" : "—"
+				"feature" : "—"
 			},
 			{
 				"tier" : 2,
@@ -70,7 +70,7 @@
 					"severe" : 24
 				},
 				"base" : 5,
-				"description" : "Heavy: −1 to Evasion"
+				"feature" : "Heavy: −1 to Evasion"
 			},
 			{
 				"tier" : 2,
@@ -80,7 +80,7 @@
 					"severe" : 28
 				},
 				"base" : 5,
-				"description" : "Very Heavy: −2 to Evasion; −1 to Agility"
+				"feature" : "Very Heavy: −2 to Evasion; −1 to Agility"
 			},
 			{
 				"tier" : 2,
@@ -90,7 +90,7 @@
 					"severe" : 21
 				},
 				"base" : 4,
-				"description" : "Warded: You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds."
+				"feature" : "Warded: You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds."
 			},
 			{
 				"tier" : 2,
@@ -100,7 +100,7 @@
 					"severe" : 21
 				},
 				"base" : 4,
-				"description" : "Resilient: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot."
+				"feature" : "Resilient: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot."
 			},
 			{
 				"tier" : 2,
@@ -110,7 +110,7 @@
 					"severe" : 20
 				},
 				"base" : 4,
-				"description" : "Reinforced: When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot."
+				"feature" : "Reinforced: When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot."
 			},
 			{
 				"tier" : 2,
@@ -120,7 +120,7 @@
 					"severe" : 20
 				},
 				"base" : 4,
-				"description" : "Shifting: When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage."
+				"feature" : "Shifting: When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage."
 			},
 			{
 				"tier" : 2,
@@ -130,7 +130,7 @@
 					"severe" : 18
 				},
 				"base" : 5,
-				"description" : "Quiet: You gain a +2 bonus to rolls you make to move silently."
+				"feature" : "Quiet: You gain a +2 bonus to rolls you make to move silently."
 			},
 			{
 				"tier" : 2,
@@ -140,7 +140,7 @@
 					"severe" : 23
 				},
 				"base" : 5,
-				"description" : "Hopeful: When you would spend a Hope, you can mark an Armor Slot instead."
+				"feature" : "Hopeful: When you would spend a Hope, you can mark an Armor Slot instead."
 			},
 
 			{
@@ -151,7 +151,7 @@
 					"severe" : 23
 				},
 				"base" : 5,
-				"description" : "Flexible: +1 to Evasion"
+				"feature" : "Flexible: +1 to Evasion"
 			},
 			{
 				"tier" : 3,
@@ -161,7 +161,7 @@
 					"severe" : 27
 				},
 				"base" : 5,
-				"description" : "—"
+				"feature" : "—"
 			},
 			{
 				"tier" : 3,
@@ -171,7 +171,7 @@
 					"severe" : 31
 				},
 				"base" : 6,
-				"description" : "Heavy: −1 to Evasion"
+				"feature" : "Heavy: −1 to Evasion"
 			},
 			{
 				"tier" : 3,
@@ -181,7 +181,7 @@
 					"severe" : 35
 				},
 				"base" : 6,
-				"description" : "Very Heavy: −2 to Evasion; −1 to Agility"
+				"feature" : "Very Heavy: −2 to Evasion; −1 to Agility"
 			},
 			{
 				"tier" : 3,
@@ -191,7 +191,7 @@
 					"severe" : 27
 				},
 				"base" : 5,
-				"description" : "Gilded: +1 to Presence"
+				"feature" : "Gilded: +1 to Presence"
 			},
 			{
 				"tier" : 3,
@@ -201,7 +201,7 @@
 					"severe" : 27
 				},
 				"base" : 5,
-				"description" : "Impenetrable: Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress."
+				"feature" : "Impenetrable: Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress."
 			},
 			{
 				"tier" : 3,
@@ -211,7 +211,7 @@
 					"severe" : 25
 				},
 				"base" : 5,
-				"description" : "Sharp: On a successful attack against a target within Melee range, add a d4 to the damage roll."
+				"feature" : "Sharp: On a successful attack against a target within Melee range, add a d4 to the damage roll."
 			},
 			{
 				"tier" : 3,
@@ -221,7 +221,7 @@
 					"severe" : 39
 				},
 				"base" : 6,
-				"description" : "Physical: You can’t mark an Armor Slot to reduce magic damage."
+				"feature" : "Physical: You can’t mark an Armor Slot to reduce magic damage."
 			},
 			{
 				"tier" : 3,
@@ -231,7 +231,7 @@
 					"severe" : 39
 				},
 				"base" : 6,
-				"description" : "Magic: You can’t mark an Armor Slot to reduce physical damage."
+				"feature" : "Magic: You can’t mark an Armor Slot to reduce physical damage."
 			},
 			{
 				"tier" : 3,
@@ -241,7 +241,7 @@
 					"severe" : 43
 				},
 				"base" : 6,
-				"description" : "Painful: Each time you mark an Armor Slot, you must mark a Stress."
+				"feature" : "Painful: Each time you mark an Armor Slot, you must mark a Stress."
 			},
 
 			{
@@ -252,7 +252,7 @@
 					"severe" : 32
 				},
 				"base" : 6,
-				"description" : "Flexible: +1 to Evasion"
+				"feature" : "Flexible: +1 to Evasion"
 			},
 			{
 				"tier" : 4,
@@ -262,7 +262,7 @@
 					"severe" : 36
 				},
 				"base" : 6,
-				"description" : "—"
+				"feature" : "—"
 			},
 			{
 				"tier" : 4,
@@ -272,7 +272,7 @@
 					"severe" : 40
 				},
 				"base" : 7,
-				"description" : "Heavy: −1 to Evasion"
+				"feature" : "Heavy: −1 to Evasion"
 			},
 			{
 				"tier" : 4,
@@ -282,7 +282,7 @@
 					"severe" : 44
 				},
 				"base" : 7,
-				"description" : "Very Heavy: −2 to Evasion; −1 to Agility"
+				"feature" : "Very Heavy: −2 to Evasion; −1 to Agility"
 			},
 			{
 				"tier" : 4,
@@ -292,7 +292,7 @@
 					"severe" : 36
 				},
 				"base" : 7,
-				"description" : "Timeslowing: Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack."
+				"feature" : "Timeslowing: Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack."
 			},
 			{
 				"tier" : 4,
@@ -302,7 +302,7 @@
 					"severe" : 36
 				},
 				"base" : 5,
-				"description" : "Channeling: +1 to Spellcast Rolls"
+				"feature" : "Channeling: +1 to Spellcast Rolls"
 			},
 			{
 				"tier" : 4,
@@ -312,7 +312,7 @@
 					"severe" : 36
 				},
 				"base" : 6,
-				"description" : "Burning: When an adversary attacks you within Melee range, they mark a Stress."
+				"feature" : "Burning: When an adversary attacks you within Melee range, they mark a Stress."
 			},
 			{
 				"tier" : 4,
@@ -322,7 +322,7 @@
 					"severe" : 40
 				},
 				"base" : 4,
-				"description" : "Fortified: When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one."
+				"feature" : "Fortified: When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one."
 			},
 			{
 				"tier" : 4,
@@ -332,7 +332,7 @@
 					"severe" : 36
 				},
 				"base" : 6,
-				"description" : "Truthseeking: This armor glows when another creature within Close range tells a lie."
+				"feature" : "Truthseeking: This armor glows when another creature within Close range tells a lie."
 			},
 			{
 				"tier" : 4,
@@ -342,7 +342,7 @@
 					"severe" : 48
 				},
 				"base" : 8,
-				"description" : "Difficult: −1 to all character traits and Evasion"
+				"feature" : "Difficult: −1 to all character traits and Evasion"
 			}
 		]
 }
