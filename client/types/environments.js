@@ -9,33 +9,33 @@ const dataRoute = '/api/environment';
 const formatFn = (data)=>{
 	return dedent`{{card,environment
 
-	# ${data.name}
-	***Tier ${data.tier} ${data.type}***  
-	*${data.description}*  
-	**Impulses:** ${data.impulses}
+		# ${data.name}
+		***Tier ${data.tier} ${data.type}***  
+		*${data.description}*  
+		**Impulses:** ${data.impulses}
 
-	:
+		:
 
-	{{descriptive
-	**Difficulty:** :: ${data.difficulty}
-	**Potential Adversaries:** :: ${data.potentialAdversaries.join(', ')}
-	}}
+		{{descriptive
+		**Difficulty:** :: ${data.difficulty}
+		**Potential Adversaries:** :: ${data.potentialAdversaries.join(', ')}
+		}}
 
-	## Features
-	${data.features.map((feature)=>{
+		## Features
+		${data.features.map((feature)=>{
 		return `**${feature.name} - ${feature.type}** ${feature.description.join('  \n')}\n\n{{questions *${feature.questions}* }}\n`;
 	}).join('\n:\n')}
 
-	:
+		:
 
-	{{source ${data.sources.map((source)=>{return `*${source.id} ${source.set}, ${source.updated} - ${source.publisher}*`;}).join('\n')}}}
-	}}
-	
-	::
+		${data.sources.map((source)=>{return `{{source *${source.id} ${source.set}, ${source.updated} - ${source.publisher}*}}`;}).join('  \n')}
+		}}
+		
+		::
 
-	${data.attribution}
-	
-	`;
+		${data.attribution}
+		
+		`;
 };
 
 export {
