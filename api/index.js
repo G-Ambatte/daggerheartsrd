@@ -5,6 +5,7 @@ import asyncHandler from 'express-async-handler';
 
 import dpcgl from './data/dpcgl.js';
 
+import armorData from './data/armors/index.json' with { type: 'json' };
 import adversaryData from './data/adversaries/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
@@ -26,6 +27,19 @@ const getDataFromJSON = async (id, dataObj, genre = false)=>{
 
 
 const app = express();
+
+// Armors
+app.get('/api/armors', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('armors', armorData);
+	res.send(data);
+}));
+
+// Armor
+app.get('/api/armor/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, armorData, 'armors');
+	if(data.length == 0) return res.status(404).json('Unknown armor');
+	res.send(data);
+}));
 
 // Ancestries
 app.get('/api/adversaries', asyncHandler(async (req, res)=>{
