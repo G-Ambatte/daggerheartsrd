@@ -15,12 +15,13 @@ import * as environmentData from '../types/environments.js';
 import * as lootData from '../types/loots.js';
 import * as subclassData from '../types/subclasses.js';
 import * as weaponData from '../types/weapons.js';
+import * as wheelchairData from '../types/wheelchairs.js';
 
 
 // const URL = '/api/';
 
 function Input({ setData, type, setType }) {
-	const types = ['armor', 'adversary', 'ancestry', 'class', 'community', 'domain', 'environment', 'loot', 'subclass', 'weapon'];
+	const types = ['armor', 'adversary', 'ancestry', 'class', 'community', 'domain', 'environment', 'loot', 'subclass', 'weapon', 'wheelchair'];
 
 	const [autoCompleteSuggestions, setAutoCompleteSuggestions] = useState(['', '']);
 
@@ -40,7 +41,8 @@ function Input({ setData, type, setType }) {
 			'environment' : environmentData.suggestionsRoute,
 			'loot'        : lootData.suggestionsRoute,
 			'subclass'    : subclassData.suggestionsRoute,
-			'weapon'      : weaponData.suggestionsRoute
+			'weapon'      : weaponData.suggestionsRoute,
+			'wheelchair'  : wheelchairData.suggestionsRoute
 		};
 		if(!Object.keys(suggestionsMap).includes(type)){
 			console.log('Unknown type for suggestions:', type);
@@ -78,7 +80,8 @@ function Input({ setData, type, setType }) {
 				'environment' : environmentData.dataRoute,
 				'loot'        : lootData.dataRoute,
 				'subclass'    : subclassData.dataRoute,
-				'weapon'      : weaponData.dataRoute
+				'weapon'      : weaponData.dataRoute,
+				'wheelchair'  : wheelchairData.dataRoute
 			};
 
 			// console.log(dataURL);

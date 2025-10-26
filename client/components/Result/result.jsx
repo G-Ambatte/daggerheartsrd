@@ -8,6 +8,7 @@ import { formatFn as armorFormat } from '../../types/armors.js';
 import { formatFn as environmentFormat } from '../../types/environments.js';
 import { formatFn as lootFormat } from '../../types/loots.js';
 import { formatFn as weaponFormat } from '../../types/weapons.js';
+import { formatFn as wheelchairFormat } from '../../types/wheelchairs.js';
 
 function Result({ data, type }) {
 
@@ -35,7 +36,8 @@ function Result({ data, type }) {
 			'armor'       : armorFormat,
 			'environment' : environmentFormat,
 			'loot'        : lootFormat,
-			'weapon'      : weaponFormat
+			'weapon'      : weaponFormat,
+			'wheelchair'  : wheelchairFormat
 		};
 
 		if(activeTab == 'homebrewery') setText(Object.keys(outputMap).includes(type) ? `${outputMap[type](data)}\n\n<style>${resultStyle}</style>` : '');
