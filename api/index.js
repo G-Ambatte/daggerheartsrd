@@ -8,6 +8,7 @@ import dpcgl from './data/dpcgl.js';
 import armorData from './data/armors/index.json' with { type: 'json' };
 import adversaryData from './data/adversaries/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
+import cardData from './data/cards/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
 import communityData from './data/communities/index.json' with { type: 'json' };
 import consumableData from './data/consumables/index.json' with { type:'json' };
@@ -67,6 +68,19 @@ app.get('/api/ancestries', asyncHandler(async (req, res)=>{
 app.get('/api/ancestry/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, ancestryData, 'ancestries');
 	if(data.length == 0) return res.status(404).json('Unknown ancestry');
+	res.send(data);
+}));
+
+// Cards
+app.get('/api/cards', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('cards', cardData);
+	res.send(data);
+}));
+
+// Card
+app.get('/api/card/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, cardData, 'cards');
+	if(data.length == 0) return res.status(404).json('Unknown card');
 	res.send(data);
 }));
 
