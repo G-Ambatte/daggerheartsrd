@@ -50,7 +50,7 @@ app.get('/api/adversaries', asyncHandler(async (req, res)=>{
 // Ancestry
 app.get('/api/adversary/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, adversaryData, 'adversaries');
-	if(data.length == 0) return res.status(404).json('Unknown ancestry');
+	if(data.length == 0) return res.status(404).json('Unknown adversary');
 	res.send(data);
 }));
 
@@ -115,7 +115,7 @@ app.get('/api/environments', asyncHandler(async (req, res)=>{
 // Domain
 app.get('/api/environment/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, environmentData, 'environments');
-	if(data.length == 0) return res.status(404).json('Unknown domain');
+	if(data.length == 0) return res.status(404).json('Unknown environment');
 	res.send(data);
 }));
 
@@ -141,7 +141,7 @@ app.get('/api/weapons', asyncHandler(async (req, res)=>{
 // Subclass
 app.get('/api/weapon/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, weaponData, 'weapons');
-	if(data.length == 0) return res.status(404).json('Unknown subclass');
+	if(data.length == 0) return res.status(404).json('Unknown weapon');
 	res.send(data);
 }));
 
