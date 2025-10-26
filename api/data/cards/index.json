@@ -11,6 +11,12 @@
 			],
 			"sources" : [
 					{
+						"id": "082/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "119/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -28,6 +34,12 @@
 				"At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card. Make a Spellcast Roll against a target within Far range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of d10s equal to the tokens you spent and deal that much magic damage to the target. Mark a Stress to replenish this card with tokens (up to your Spellcast trait). At the end of each session, clear all unspent tokens."
 			],
 			"sources" : [
+					{
+						"id": "083/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "119/135",
 						"set": "DH SRD",
@@ -47,6 +59,12 @@
 			],
 			"sources" : [
 					{
+						"id": "084/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "119/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -64,6 +82,12 @@
 				"Make a Spellcast Roll against a target within Melee range. On a success, the target instantly bursts into flames, takes 1d20+3 magic damage, and is temporarily lit On Fire. When a creature acts while On Fire, they must take an extra 2d6 magic damage if they are still On Fire at the end of their action."
 			],
 			"sources" : [
+					{
+						"id": "085/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "119/135",
 						"set": "DH SRD",
@@ -83,6 +107,12 @@
 			],
 			"sources" : [
 					{
+						"id": "086/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "119/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -100,6 +130,12 @@
 				"You can interrupt a magical effect taking place by making a reaction roll using your Spellcast trait. On a success, the effect stops and any consequences are avoided, and this card is placed in your vault."
 			],
 			"sources" : [
+					{
+						"id": "087/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "119/135",
 						"set": "DH SRD",
@@ -119,6 +155,12 @@
 			],
 			"sources" : [
 					{
+						"id": "088/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "119/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -136,6 +178,12 @@
 				"Make a Spellcast Roll (12). On a success, spend a Hope to teleport to another point you can see within Far range. If any willing creatures are within Very Close range, spend an additional Hope for each creature to bring them with you."
 			],
 			"sources" : [
+					{
+						"id": "089/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "119/135",
 						"set": "DH SRD",
@@ -155,6 +203,12 @@
 			],
 			"sources" : [
 					{
+						"id": "090/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "119/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -172,6 +226,12 @@
 				"Mark 2 Stress to make a Spellcast Roll, unleashing lightning on all targets within Close range. Targets you succeed against must make a reaction roll with a Difficulty equal to the result of your Spellcast Roll. Targets who fail take 2d8+4 magic damage. Additional adversaries not already targeted by Chain Lightning and within Close range of previous targets who took damage must also make the reaction roll. Targets who fail take 2d8+4 magic damage. This chain continues until there are no more adversaries within range."
 			],
 			"sources" : [
+					{
+						"id": "091/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "119/135",
 						"set": "DH SRD",
@@ -191,6 +251,12 @@
 			],
 			"sources" : [
 					{
+						"id": "092/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "120/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -209,6 +275,12 @@
 			],
 			"sources" : [
 					{
+						"id": "093/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "120/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -226,6 +298,12 @@
 				"Make a Spellcast Roll against a target within Far range. On a success, you can use your mind to move them anywhere within Far range of their original position. You can throw the lifted target as an attack by making an additional Spellcast Roll against the second target you’re trying to attack. On a success, deal d12+4 physical damage to the second target using your Proficiency. This spell then ends."
 			],
 			"sources" : [
+					{
+						"id": "094/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "120/135",
 						"set": "DH SRD",
@@ -247,6 +325,12 @@
 			],
 			"sources" : [
 					{
+						"id": "095/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "120/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -264,6 +348,12 @@
 				"When you make a successful Spellcast Roll to cast a different spell, you can spend a Hope to become Cloaked. While Cloaked, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary’s line of sight or make an attack, you are no longer Cloaked."
 			],
 			"sources" : [
+					{
+						"id": "096/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "120/135",
 						"set": "DH SRD",
@@ -283,6 +373,12 @@
 			],
 			"sources" : [
 					{
+						"id": "097/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "120/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -300,6 +396,12 @@
 				"Make a Spellcast Roll (14). Once per long rest on a success, you create a layer of illusion over your body that makes it hard to tell exactly where you are. Mark any number of Stress to make that many additional layers. When an adversary makes an attack against you, roll a number of d6s equal to the number of layers currently active. If any roll a 5 or higher, one layer of the aura is destroyed and the attack fails. If all the results are 4 or lower, you take the damage and this spell ends"
 			],
 			"sources" : [
+					{
+						"id": "098/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "120/135",
 						"set": "DH SRD",
@@ -319,6 +421,12 @@
 			],
 			"sources" : [
 					{
+						"id": "099/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "120/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -336,6 +444,12 @@
 				"Once per rest, make a Spellcast Roll (15). On a success, drop into a vision that lets you clearly see and hear any place you have been before as though you are standing there in this moment. You can move freely in this vision and are not constrained by the physics or impediments of a physical body. This spell cannot be detected by mundane or magical means. You drop out of this vision upon taking damage or casting another spell."
 			],
 			"sources" : [
+					{
+						"id": "100/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "120/135",
 						"set": "DH SRD",
@@ -355,6 +469,12 @@
 			],
 			"sources" : [
 					{
+						"id": "101/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "120/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -372,6 +492,12 @@
 				"Make a Spellcast Roll against all adversaries within Far range. Mark any number of Stress to make shards of arcana rain down from above. Targets you succeed against take 1d20+2 magic damage for each Stress marked."
 			],
 			"sources" : [
+					{
+						"id": "102/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "120/135",
 						"set": "DH SRD",
@@ -391,6 +517,12 @@
 			],
 			"sources" : [
 					{
+						"id": "103/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -408,6 +540,12 @@
 				"When you roll your damage dice, you can reroll any 1s or 2s."
 			],
 			"sources" : [
+					{
+						"id": "104/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "121/135",
 						"set": "DH SRD",
@@ -427,6 +565,12 @@
 			],
 			"sources" : [
 					{
+						"id": "105/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -444,6 +588,12 @@
 				"Once per long rest, when you compliment someone or ask them about something they’re good at, you can both gain 3 Hope."
 			],
 			"sources" : [
+					{
+						"id": "106/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "121/135",
 						"set": "DH SRD",
@@ -463,6 +613,12 @@
 			],
 			"sources" : [
 					{
+						"id": "107/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -480,6 +636,12 @@
 				"Once per rest, when a creature within Melee range would deal damage to you, you can avoid the attack and safely move out of Melee range of the enemy."
 			],
 			"sources" : [
+					{
+						"id": "108/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "121/135",
 						"set": "DH SRD",
@@ -499,6 +661,12 @@
 			],
 			"sources" : [
 					{
+						"id": "109/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -517,6 +685,12 @@
 			],
 			"sources" : [
 					{
+						"id": "110/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -534,6 +708,12 @@
 				"While you are wearing armor, gain a +2 bonus to your damage thresholds."
 			],
 			"sources" : [
+					{
+						"id": "111/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "121/135",
 						"set": "DH SRD",
@@ -556,6 +736,12 @@
 			],
 			"sources" : [
 					{
+						"id": "112/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -577,6 +763,12 @@
 			],
 			"sources" : [
 					{
+						"id": "113/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -595,6 +787,12 @@
 			],
 			"sources" : [
 					{
+						"id": "114/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -612,6 +810,12 @@
 				"Before you make an attack, you can mark a Stress to gain a bonus to your damage roll equal to twice your Strength. You can Rage Up twice per attack."
 			],
 			"sources" : [
+					{
+						"id": "115/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "121/135",
 						"set": "DH SRD",
@@ -633,6 +837,12 @@
 			],
 			"sources" : [
 					{
+						"id": "116/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -650,6 +860,12 @@
 				"When you fail an attack, you can mark a Stress to deal weapon damage using half your Proficiency."
 			],
 			"sources" : [
+					{
+						"id": "117/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "121/135",
 						"set": "DH SRD",
@@ -669,6 +885,12 @@
 			],
 			"sources" : [
 					{
+						"id": "118/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "121/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -686,6 +908,12 @@
 				"Once per long rest, you can go into a Frenzy until there are no more adversaries within sight. While Frenzied, you can’t use Armor Slots, and you gain a +10 bonus to your damage rolls and a +8 bonus to your Severe damage threshold."
 			],
 			"sources" : [
+					{
+						"id": "119/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "122/135",
 						"set": "DH SRD",
@@ -705,6 +933,12 @@
 			],
 			"sources" : [
 					{
+						"id": "120/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "122/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -722,6 +956,12 @@
 				"Once per long rest, spend a Hope to make an attack roll. The GM tells you which targets within range it would succeed against. Choose one of these targets and force them to mark 5 Hit Points."
 			],
 			"sources" : [
+					{
+						"id": "121/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "122/135",
 						"set": "DH SRD",
@@ -741,6 +981,12 @@
 			],
 			"sources" : [
 					{
+						"id": "122/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "122/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -758,6 +1004,12 @@
 				"When you successfully make an attack with your weapon, you never deal damage beneath a target’s Major damage threshold (the target always marks a minimum of 2 Hit Points). Additionally, when a creature within your weapon’s range deals damage to an ally with an attack that doesn’t include you, you can mark a Stress to force them to make a Reaction Roll (15). On a failure, the target must mark a Hit Point."
 			],
 			"sources" : [
+					{
+						"id": "123/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "122/135",
 						"set": "DH SRD",
@@ -777,6 +1029,12 @@
 			],
 			"sources" : [
 					{
+						"id": "124/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "122/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -794,6 +1052,12 @@
 				"When you’re targeted by an attack made from beyond Melee range, you can mark a Stress to roll a d4 and gain a bonus to your Evasion equal to the result against the attack."
 			],
 			"sources" : [
+					{
+						"id": "125/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "122/135",
 						"set": "DH SRD",
@@ -813,6 +1077,12 @@
 			],
 			"sources" : [
 					{
+						"id": "126/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "122/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -830,6 +1100,12 @@
 				"When you cause an adversary to mark 1 or more Hit Points, you can spend 2 Hope to increase your Evasion by the number of Hit Points they marked. This bonus lasts until after the next attack made against you."
 			],
 			"sources" : [
+					{
+						"id": "127/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "122/135",
 						"set": "DH SRD",
@@ -852,6 +1128,12 @@
 			],
 			"sources" : [
 					{
+						"id": "128/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "122/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -869,6 +1151,12 @@
 				"When you mark an Armor Slot to reduce incoming damage, you can mark a Stress to mark an additional Armor Slot."
 			],
 			"sources" : [
+					{
+						"id": "129/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "122/135",
 						"set": "DH SRD",
@@ -888,6 +1176,12 @@
 			],
 			"sources" : [
 					{
+						"id": "130/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "122/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -906,6 +1200,12 @@
 			],
 			"sources" : [
 					{
+						"id": "131/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -923,6 +1223,12 @@
 				"When an attack made against you from beyond Melee range fails, roll a number of d6s equal to your Proficiency. If any roll a 6, you can mark a Stress to redirect the attack to damage an adversary within Very Close range instead."
 			],
 			"sources" : [
+					{
+						"id": "132/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -946,6 +1252,12 @@
 			],
 			"sources" : [
 					{
+						"id": "133/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -963,6 +1275,12 @@
 				"Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you’re taking, you can roll a d20 as your Hope Die. On a success, clear a Stress."
 			],
 			"sources" : [
+					{
+						"id": "134/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -982,6 +1300,12 @@
 			],
 			"sources" : [
 					{
+						"id": "135/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -999,6 +1323,12 @@
 				"During a short rest, you can choose a long rest downtime move instead. You can spend a Hope to let an ally do the same."
 			],
 			"sources" : [
+					{
+						"id": "136/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -1020,6 +1350,12 @@
 			],
 			"sources" : [
 					{
+						"id": "137/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1037,6 +1373,12 @@
 				"When you make a successful attack with a weapon, gain a bonus to your damage roll equal to either your Finesse or Agility."
 			],
 			"sources" : [
+					{
+						"id": "138/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -1056,6 +1398,12 @@
 			],
 			"sources" : [
 					{
+						"id": "139/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1073,6 +1421,12 @@
 				"Make an Agility Roll against all targets within Close range. Spend a Hope to move targets you succeed against, and any willing allies within Close range, to another point within Close range."
 			],
 			"sources" : [
+					{
+						"id": "140/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -1092,6 +1446,12 @@
 			],
 			"sources" : [
 					{
+						"id": "141/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1109,6 +1469,12 @@
 				"Spend a Hope and make an attack against all adversaries within your weapon’s range. Once per long rest, on a success against any targets, roll your weapon's damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them."
 			],
 			"sources" : [
+					{
+						"id": "142/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -1128,6 +1494,12 @@
 			],
 			"sources" : [
 					{
+						"id": "143/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "123/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1145,6 +1517,12 @@
 				"When an attack made against you fails, clear a Stress. If you can’t clear a Stress, gain a Hope."
 			],
 			"sources" : [
+					{
+						"id": "144/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "123/135",
 						"set": "DH SRD",
@@ -1164,6 +1542,12 @@
 			],
 			"sources" : [
 					{
+						"id": "145/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "124/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1181,6 +1565,12 @@
 				"Slumber: Make a Spellcast Roll against a target within Very Close range. On a success, they’re Asleep until they take damage or the GM spends a Fear on their turn to clear this condition. Arcane Barrage: Once per rest, spend any number of Hope and shoot magical projectiles that strike a target of your choice within Close range. Roll a number of d6s equal to the Hope spent and deal that much magic damage to the target. Telepathy: Spend a Hope to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again."
 			],
 			"sources" : [
+					{
+						"id": "146/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "124/135",
 						"set": "DH SRD",
@@ -1200,6 +1590,12 @@
 			],
 			"sources" : [
 					{
+						"id": "147/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "124/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1217,6 +1613,12 @@
 				"Adjust Appearance: You magically shift your appearance and clothing to avoid recognition. Parallela: Spend 2 Hope to cast this spell on yourself or an ally within Close range. The next time the target makes an attack, they can hit an additional target within range that their attack roll would succeed against. You can only hold this spell on one creature at a time. Illusion: Make a Spellcast Roll (14). On a success, create a temporary visual illusion no larger than you within Close range that lasts for as long as you look at it. It holds up to scrutiny until an observer is within Melee range."
 			],
 			"sources" : [
+					{
+						"id": "148/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "124/135",
 						"set": "DH SRD",
@@ -1236,6 +1638,12 @@
 			],
 			"sources" : [
 					{
+						"id": "149/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "124/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1253,6 +1661,12 @@
 				"Levitation: Make a Spellcast Roll to temporarily lift a target you can see up into the air and move them within Close range of their original position. Recant: Spend a Hope to force a target within Melee range to make a Reaction Roll (15). On a failure, they forget the last minute of your conversation. Rune Circle: Mark a Stress to create a temporary magical circle on the ground where you stand. All adversaries within Melee range, or who enter Melee range, take 2d12+4 magic damage and are knocked back to Very Close range."
 			],
 			"sources" : [
+					{
+						"id": "150/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "124/135",
 						"set": "DH SRD",
@@ -1272,6 +1686,12 @@
 			],
 			"sources" : [
 					{
+						"id": "151/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "124/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1289,6 +1709,12 @@
 				"Repudiate: You can interrupt a magical effect taking place. Make a reaction roll using your Spellcast trait. Once per rest on a success, the effect stops and any consequences are avoided. Create Construct: Spend a Hope to choose a group of objects around you and create an animated construct from them that obeys basic commands. Make a Spellcast Roll to command them to take action. When necessary, they share your Evasion and traits and their attacks deal 2d10+3 physical damage. You can only maintain one construct at a time, and they fall apart when they take any amount of damage."
 			],
 			"sources" : [
+					{
+						"id": "152/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "124/135",
 						"set": "DH SRD",
@@ -1308,6 +1734,12 @@
 			],
 			"sources" : [
 					{
+						"id": "153/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "125/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1325,6 +1757,12 @@
 				"Make a Spellcast Roll (15). Once per rest on a success, spend a Hope to create a temporary magical wall between two points within Far range. It can be up to 50 feet high and form at any angle. Creatures or objects in its path are shunted to a side of your choice. The wall stays up until your next rest or you cast Manifest Wall again."
 			],
 			"sources" : [
+					{
+						"id": "154/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "125/135",
 						"set": "DH SRD",
@@ -1348,6 +1786,12 @@
 			],
 			"sources" : [
 					{
+						"id": "155/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "125/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1365,6 +1809,12 @@
 				"Make a Spellcast Roll against a target within Close range. On a success, roll a number of d20s equal to your Spellcast trait. The target must make a reaction roll with a Difficulty equal to your highest result. On a success, the target must mark a Stress but isn’t banished. Once per rest on a failure, they are banished from this realm. When the PCs roll with Fear, the Difficulty gains a −1 penalty and the target makes another reaction roll. On a success, they return from banishment."
 			],
 			"sources" : [
+					{
+						"id": "156/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "125/135",
 						"set": "DH SRD",
@@ -1384,6 +1834,12 @@
 			],
 			"sources" : [
 					{
+						"id": "157/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "125/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1401,6 +1857,12 @@
 				"Pass Through: Make a Spellcast Roll (13). Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side. Plane Gate: Make a Spellcast Roll (14). Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you’ve been to before. This gateway lasts until your next rest."
 			],
 			"sources" : [
+					{
+						"id": "158/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "125/135",
 						"set": "DH SRD",
@@ -1422,6 +1884,12 @@
 			],
 			"sources" : [
 					{
+						"id": "159/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "125/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1439,6 +1907,12 @@
 				"Memory Delve: Make a Spellcast Roll against a target within Far range. On a success, peer into the target’s mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer. Shared Clarity: Once per long rest, spend a Hope to choose two willing creatures. When one of them would mark Stress, they can choose between the two of them who marks it. This spell lasts until their next rest."
 			],
 			"sources" : [
+					{
+						"id": "160/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "125/135",
 						"set": "DH SRD",
@@ -1458,6 +1932,12 @@
 			],
 			"sources" : [
 					{
+						"id": "161/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "125/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1475,6 +1955,12 @@
 				"Transform: Make a Spellcast Roll (15). On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage. Eternal Enervation: Once per long rest, make a Spellcast Roll against a target within Close range. On a success, they become permanently Vulnerable. They can’t clear this condition by any means."
 			],
 			"sources" : [
+					{
+						"id": "162/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "126/135",
 						"set": "DH SRD",
@@ -1494,6 +1980,12 @@
 			],
 			"sources" : [
 					{
+						"id": "163/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "126/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1511,6 +2003,12 @@
 				"Timejammer: Make a Spellcast Roll (18). On a success, time temporarily slows to a halt for everyone within Far range except for you. It resumes the next time you make an action roll that targets another creature. Magic Immunity: Spend 5 Hope to become immune to magic damage until your next rest."
 			],
 			"sources" : [
+					{
+						"id": "164/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "126/135",
 						"set": "DH SRD",
@@ -1530,6 +2028,12 @@
 			],
 			"sources" : [
 					{
+						"id": "165/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "126/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1548,6 +2052,12 @@
 			],
 			"sources" : [
 					{
+						"id": "166/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "126/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1565,6 +2075,12 @@
 				"Make a Spellcast Roll against a target within Close range. On a success, they become temporarily Enraptured. While Enraptured, a target’s attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Once per rest on a success, you can mark a Stress to force the Enraptured target to mark a Stress as well."
 			],
 			"sources" : [
+					{
+						"id": "167/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "126/135",
 						"set": "DH SRD",
@@ -1587,6 +2103,12 @@
 			],
 			"sources" : [
 					{
+						"id": "168/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "126/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1604,6 +2126,12 @@
 				"Make a Spellcast Roll against a target within Very Close range. On a success, they can’t lie to you while they remain within Close range, but they are not compelled to speak. If you ask them a question and they refuse to answer, they must mark a Stress and the effect ends. The target is typically unaware this spell has been cast on them until it causes them to utter the truth."
 			],
 			"sources" : [
+					{
+						"id": "169/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "126/135",
 						"set": "DH SRD",
@@ -1623,6 +2151,12 @@
 			],
 			"sources" : [
 					{
+						"id": "170/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "126/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1640,6 +2174,12 @@
 				"Make a Spellcast Roll against all adversaries in front of you within Close range. Once per rest on a success, create an illusion of flashing colors and lights that temporarily Stuns targets you succeed against and forces them to mark a Stress. While Stunned, they can’t use reactions and can’t take any other actions until they clear this condition."
 			],
 			"sources" : [
+					{
+						"id": "171/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "126/135",
 						"set": "DH SRD",
@@ -1659,6 +2199,12 @@
 			],
 			"sources" : [
 					{
+						"id": "172/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "126/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1676,6 +2222,12 @@
 				"During a short rest, when you take the time to comfort another character while using the Tend to Wounds downtime move on them, clear an additional Hit Point on that character. When you do, you also clear 2 Hit Points."
 			],
 			"sources" : [
+					{
+						"id": "173/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "126/135",
 						"set": "DH SRD",
@@ -1695,6 +2247,12 @@
 			],
 			"sources" : [
 					{
+						"id": "174/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1712,6 +2270,12 @@
 				"You can peek into the minds of others. Spend a Hope to read the vague surface thoughts of a target within Far range. Make a Spellcast Roll against the target to delve for deeper, more hidden thoughts. On a roll with Fear, the target might, at the GM’s discretion, become aware that you’re reading their thoughts."
 			],
 			"sources" : [
+					{
+						"id": "175/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "127/135",
 						"set": "DH SRD",
@@ -1731,6 +2295,12 @@
 			],
 			"sources" : [
 					{
+						"id": "176/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1748,6 +2318,12 @@
 				"When you mark 1 or more Hit Points from an attack, you can mark a Stress to place a number of tokens equal to the number of Hit Points you marked on this card. On your next successful attack, gain a +5 bonus to your damage roll for each token on this card, then clear all tokens."
 			],
 			"sources" : [
+					{
+						"id": "177/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "127/135",
 						"set": "DH SRD",
@@ -1767,6 +2343,12 @@
 			],
 			"sources" : [
 					{
+						"id": "178/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1784,6 +2366,12 @@
 				"After you make an action roll to persuade, lie, or garner favor, you can spend a Hope to reroll the Hope or Fear Die."
 			],
 			"sources" : [
+					{
+						"id": "179/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "127/135",
 						"set": "DH SRD",
@@ -1805,6 +2393,12 @@
 			],
 			"sources" : [
 					{
+						"id": "180/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1822,6 +2416,12 @@
 				"Once per long rest, mark a Stress to create a projected copy of yourself that can appear anywhere you’ve been before. You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it’s of magical origin. This effect lasts until your next rest or your projection takes any damage."
 			],
 			"sources" : [
+					{
+						"id": "181/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "127/135",
 						"set": "DH SRD",
@@ -1841,6 +2441,12 @@
 			],
 			"sources" : [
 					{
+						"id": "182/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1858,6 +2464,12 @@
 				"Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player’s loadout. Spend Hope equal to half the card’s level to gain access to the feature. It lasts until your next rest or they place the card in their vault."
 			],
 			"sources" : [
+					{
+						"id": "183/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "127/135",
 						"set": "DH SRD",
@@ -1877,6 +2489,12 @@
 			],
 			"sources" : [
 					{
+						"id": "184/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1894,6 +2512,12 @@
 				"When an ally within Close range deals damage to an adversary, you can make a Spellcast Roll against that same target. On a success, you deal the same damage to the target that your ally dealt. If your Spellcast Roll succeeds with Fear, place this card in your vault."
 			],
 			"sources" : [
+					{
+						"id": "185/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "127/135",
 						"set": "DH SRD",
@@ -1913,6 +2537,12 @@
 			],
 			"sources" : [
 					{
+						"id": "186/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "127/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1930,6 +2560,12 @@
 				"You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force)."
 			],
 			"sources" : [
+					{
+						"id": "187/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "128/135",
 						"set": "DH SRD",
@@ -1949,6 +2585,12 @@
 			],
 			"sources" : [
 					{
+						"id": "188/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "128/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -1966,6 +2608,12 @@
 				"When you have a few minutes to prepare, you can mark a Stress to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny. Place a number of tokens equal to your Spellcast trait on this card. When you take an action while disguised, spend a token from this card. After the action that spends the last token is resolved, the disguise drops."
 			],
 			"sources" : [
+					{
+						"id": "189/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "128/135",
 						"set": "DH SRD",
@@ -1985,6 +2633,12 @@
 			],
 			"sources" : [
 					{
+						"id": "190/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "128/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2002,6 +2656,12 @@
 				"Make a Spellcast Roll against all adversaries within Very Close range. Targets you succeed against are temporarily Restrained as their shadow binds them in place."
 			],
 			"sources" : [
+					{
+						"id": "191/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "128/135",
 						"set": "DH SRD",
@@ -2021,6 +2681,12 @@
 			],
 			"sources" : [
 					{
+						"id": "192/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "128/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2038,6 +2704,12 @@
 				"Make a Spellcast Roll (13). On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You’re considered Hidden to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell."
 			],
 			"sources" : [
+					{
+						"id": "193/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "128/135",
 						"set": "DH SRD",
@@ -2057,6 +2729,12 @@
 			],
 			"sources" : [
 					{
+						"id": "194/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "128/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2074,6 +2752,12 @@
 				"Make a Spellcast Roll against a target within Very Close range. On a success, spend a Hope to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target’s Difficulty by a value equal to your Knowledge (minimum 1)."
 			],
 			"sources" : [
+					{
+						"id": "195/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "128/135",
 						"set": "DH SRD",
@@ -2093,6 +2777,12 @@
 			],
 			"sources" : [
 					{
+						"id": "196/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "128/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2110,6 +2800,12 @@
 				"Spend a Hope to activate Phantom Retreat where you’re currently standing. Spend another Hope at any time before your next rest to disappear from where you are and reappear where you were standing when you activated Phantom Retreat. This spell ends after you reappear."
 			],
 			"sources" : [
+					{
+						"id": "197/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "128/135",
 						"set": "DH SRD",
@@ -2133,6 +2829,12 @@
 			],
 			"sources" : [
 					{
+						"id": "198/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "129/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2150,6 +2852,12 @@
 				"When you have a few minutes of silence to focus, you can mark a Stress to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you’ve seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny. Activate a Countdown (8). It ticks down as a consequence the GM chooses. When it triggers, the disguise drops."
 			],
 			"sources" : [
+					{
+						"id": "199/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "129/135",
 						"set": "DH SRD",
@@ -2171,6 +2879,12 @@
 			],
 			"sources" : [
 					{
+						"id": "200/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "129/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2188,6 +2902,12 @@
 				"When an attack made against you that would deal physical damage fails, you can spend a Hope to envelop yourself in shadow, becoming Hidden and teleporting to a point within Close range of the attacker. You remain Hidden until the next time you make an action roll."
 			],
 			"sources" : [
+					{
+						"id": "201/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "129/135",
 						"set": "DH SRD",
@@ -2207,6 +2927,12 @@
 			],
 			"sources" : [
 					{
+						"id": "202/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "129/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2224,6 +2950,12 @@
 				"When you take magic damage, place tokens equal to the number of Hit Points you marked on this card. You can store a number of tokens equal to your Spellcast trait. When you make a successful attack against a target, you can spend any number of tokens to add a d6 for each token spent to your damage roll."
 			],
 			"sources" : [
+					{
+						"id": "203/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "129/135",
 						"set": "DH SRD",
@@ -2243,6 +2975,12 @@
 			],
 			"sources" : [
 					{
+						"id": "204/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "129/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2260,6 +2998,12 @@
 				"Choose a target within Far range. When you succeed on an action roll against them that doesn’t result in making a damage roll, place a token on this card. When you deal damage to this target, spend any number of tokens to add a d12 for each token spent to your damage roll. You can only hold Twilight Toll on one creature at a time. When you choose a new target or take a rest, clear all unspent tokens."
 			],
 			"sources" : [
+					{
+						"id": "205/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "129/135",
 						"set": "DH SRD",
@@ -2279,6 +3023,12 @@
 			],
 			"sources" : [
 					{
+						"id": "206/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "129/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2296,6 +3046,12 @@
 				"Mark a Stress to become Spectral until you make an action roll targeting another creature. While Spectral, you’re immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you’re in this form."
 			],
 			"sources" : [
+					{
+						"id": "207/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "129/135",
 						"set": "DH SRD",
@@ -2319,6 +3075,12 @@
 			],
 			"sources" : [
 					{
+						"id": "208/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "130/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2336,6 +3098,12 @@
 				"You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an Instinct Roll (12). On a success, they’ll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost. Additionally, before you make a Spellcast Roll while within a natural environment, you can spend a Hope to gain a +2 bonus to the roll."
 			],
 			"sources" : [
+					{
+						"id": "209/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "130/135",
 						"set": "DH SRD",
@@ -2355,6 +3123,12 @@
 			],
 			"sources" : [
 					{
+						"id": "210/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "130/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2372,6 +3146,12 @@
 				"Tekaira Armored Beetles: Mark a Stress to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can spend a Hope to keep the beetles conjured after taking damage. Fire Flies: Make a Spellcast Roll against all adversaries within Close range. Spend a Hope to deal 2d8+3 magic damage to targets you succeeded against."
 			],
 			"sources" : [
+					{
+						"id": "211/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "130/135",
 						"set": "DH SRD",
@@ -2391,6 +3171,12 @@
 			],
 			"sources" : [
 					{
+						"id": "212/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "130/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2409,6 +3195,12 @@
 			],
 			"sources" : [
 					{
+						"id": "213/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "130/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2426,6 +3218,12 @@
 				"Once per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range. Mark a Stress to use this spell as an attack. Make a Spellcast Roll against an adversary or group of adversaries within Close range. The erupting stalk lifts targets you succeed against into the air and drops them, dealing d8 physical damage using your Proficiency."
 			],
 			"sources" : [
+					{
+						"id": "214/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "130/135",
 						"set": "DH SRD",
@@ -2448,6 +3246,12 @@
 			],
 			"sources" : [
 					{
+						"id": "215/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "130/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2465,6 +3269,12 @@
 				"Once per long rest, you can conjure a field of healing plants around you. Everywhere within Close range of you bursts to life with vibrant nature, allowing you and all allies in the area to clear a Hit Point. Spend 2 Hope to allow you and all allies to clear 2 Hit Points instead."
 			],
 			"sources" : [
+					{
+						"id": "216/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "130/135",
 						"set": "DH SRD",
@@ -2484,6 +3294,12 @@
 			],
 			"sources" : [
 					{
+						"id": "217/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "130/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2501,6 +3317,12 @@
 				"Make a Spellcast Roll (13). On a success, spend 2 Hope to grow a natural barricade in the shape of a dome that you and one ally can take cover within. While inside the dome, a creature can’t be targeted by attacks and can’t make attacks. Attacks made against the dome automatically succeed. The dome has the following damage thresholds and lasts until it marks 3 Hit Points. Place tokens on this card to represent marking Hit Points. Thresholds: 15/30"
 			],
 			"sources" : [
+					{
+						"id": "218/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "131/135",
 						"set": "DH SRD",
@@ -2520,6 +3342,12 @@
 			],
 			"sources" : [
 					{
+						"id": "219/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "131/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2537,6 +3365,12 @@
 				"As an additional downtime move you can choose, roll a d6 to see what you forage. Work with the GM to describe it and add it to your inventory as a consumable. Your party can carry up to five foraged consumables at a time. 1. A unique food (Clear 2 Stress) 2. A beautiful relic (Gain 2 Hope) 3. An arcane rune (+2 to a Spellcast Roll) 4. A healing vial (Clear 2 Hit Points) 5. A luck charm (Reroll any die) 6. Choose one of the options above."
 			],
 			"sources" : [
+					{
+						"id": "220/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "131/135",
 						"set": "DH SRD",
@@ -2558,6 +3392,12 @@
 			],
 			"sources" : [
 					{
+						"id": "221/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "131/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2575,6 +3415,12 @@
 				"Once per long rest, mark a Stress to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a d6 on this card with the 1 value facing up. While the Wild Surge Die is active, you add its value to every action roll you make. After you add its value to a roll, increase the Wild Surge Die’s value by one. When the die’s value would exceed 6 or you take a rest, this form drops and you must mark an additional Stress."
 			],
 			"sources" : [
+					{
+						"id": "222/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "131/135",
 						"set": "DH SRD",
@@ -2596,6 +3442,12 @@
 			],
 			"sources" : [
 					{
+						"id": "223/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "131/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2613,6 +3465,12 @@
 				"Make a Spellcast Roll (15). Once per rest on a success, create a temporary barrier of protective energy around you at Very Close range. You and all allies within the barrier when this spell is cast clear 1d4 Hit Points. While the barrier is up, you and all allies within have resistance to physical damage from outside the barrier. When you move, the barrier follows you."
 			],
 			"sources" : [
+					{
+						"id": "224/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "131/135",
 						"set": "DH SRD",
@@ -2632,6 +3490,12 @@
 			],
 			"sources" : [
 					{
+						"id": "225/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "131/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2649,6 +3513,12 @@
 				"Make a Spellcast Roll (18). Once per long rest on a success, you reshape the natural world, changing the surrounding plant life anywhere within Far range of you. For example, you can grow trees instantly, clear a path through dense vines, or create a wall of roots."
 			],
 			"sources" : [
+					{
+						"id": "226/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "131/135",
 						"set": "DH SRD",
@@ -2671,6 +3541,12 @@
 			],
 			"sources" : [
 					{
+						"id": "227/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "131/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2692,6 +3568,12 @@
 			],
 			"sources" : [
 					{
+						"id": "228/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "132/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2709,6 +3591,12 @@
 				"Make a Spellcast Roll against a target within Far range. On a success, spend a Hope to send a bolt of shimmering light toward them, dealing d8+2 magic damage using your Proficiency. The target becomes temporarily Vulnerable and glows brightly until this condition is cleared."
 			],
 			"sources" : [
+					{
+						"id": "229/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "132/135",
 						"set": "DH SRD",
@@ -2728,6 +3616,12 @@
 			],
 			"sources" : [
 					{
+						"id": "230/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "132/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2745,6 +3639,12 @@
 				"Once per rest, after an ally attempts an action roll but before the consequences take place, you can offer assistance or words of support. When you do, your ally can reroll their dice."
 			],
 			"sources" : [
+					{
+						"id": "231/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "132/135",
 						"set": "DH SRD",
@@ -2764,6 +3664,12 @@
 			],
 			"sources" : [
 					{
+						"id": "232/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "132/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2781,6 +3687,12 @@
 				"Make a Spellcast Roll (13) and target a creature other than yourself within Melee range. On a success, mark a Stress to clear 2 Hit Points or 2 Stress on the target. On a failure, mark a Stress to clear a Hit Point or a Stress on the target. You can’t heal the same target again until your next long rest."
 			],
 			"sources" : [
+					{
+						"id": "233/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "132/135",
 						"set": "DH SRD",
@@ -2800,6 +3712,12 @@
 			],
 			"sources" : [
 					{
+						"id": "234/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "132/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2817,6 +3735,12 @@
 				"You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead. Additionally, you’re emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls."
 			],
 			"sources" : [
+					{
+						"id": "235/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "132/135",
 						"set": "DH SRD",
@@ -2836,6 +3760,12 @@
 			],
 			"sources" : [
 					{
+						"id": "236/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "132/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2853,6 +3783,12 @@
 				"Spend 3 Hope and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead. This effect ends when it saves the target from a death move, you cast Life Ward on another target, or you take a long rest."
 			],
 			"sources" : [
+					{
+						"id": "237/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "132/135",
 						"set": "DH SRD",
@@ -2872,6 +3808,12 @@
 			],
 			"sources" : [
 					{
+						"id": "238/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2889,6 +3831,12 @@
 				"Once per rest, spend 3 Hope to charge your powerful smite. When you next successfully attack with a weapon, double the result of your damage roll. This attack deals magic damage regardless of the weapon’s damage type."
 			],
 			"sources" : [
+					{
+						"id": "239/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "133/135",
 						"set": "DH SRD",
@@ -2908,6 +3856,12 @@
 			],
 			"sources" : [
 					{
+						"id": "240/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2926,6 +3880,12 @@
 			],
 			"sources" : [
 					{
+						"id": "241/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2943,6 +3903,12 @@
 				"When you deal damage to an adversary, you can spend 2 Hope to clear a Hit Point on an ally within Close range."
 			],
 			"sources" : [
+					{
+						"id": "242/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "133/135",
 						"set": "DH SRD",
@@ -2964,6 +3930,12 @@
 			],
 			"sources" : [
 					{
+						"id": "243/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -2981,6 +3953,12 @@
 				"Mark a Stress to cast a protective aura on a target within Very Close range. When the target marks an Armor Slot, they reduce the severity of the attack by an additional threshold. If this spell causes a creature who would be damaged to instead mark no Hit Points, the effect ends. You can only hold Shield Aura on one creature at a time."
 			],
 			"sources" : [
+					{
+						"id": "244/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "133/135",
 						"set": "DH SRD",
@@ -3000,6 +3978,12 @@
 			],
 			"sources" : [
 					{
+						"id": "245/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3017,6 +4001,12 @@
 				"Make a Spellcast Roll (15) to magically empower your aura. On a success, spend 2 Hope to make your Presence equal to your Spellcast trait until your next long rest. While this spell is active, an adversary must mark a Stress when they target you with an attack."
 			],
 			"sources" : [
+					{
+						"id": "246/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "133/135",
 						"set": "DH SRD",
@@ -3036,6 +4026,12 @@
 			],
 			"sources" : [
 					{
+						"id": "247/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3054,6 +4050,12 @@
 			],
 			"sources" : [
 					{
+						"id": "248/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "133/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3071,6 +4073,12 @@
 				"Make a Spellcast Roll (20). On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a d6. On a result of 5 or lower, place this card in your vault permanently. On a failure, you can’t cast Resurrection again for a week."
 			],
 			"sources" : [
+					{
+						"id": "249/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "133/135",
 						"set": "DH SRD",
@@ -3094,6 +4102,12 @@
 			],
 			"sources" : [
 					{
+						"id": "250/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3111,6 +4125,12 @@
 				"Make an attack with your primary weapon against a target within Melee range. On a success, you deal damage and knock them back to Close range. On a success with Hope, add a d6 to your damage roll. Additionally, you can spend a Hope to make them temporarily Vulnerable."
 			],
 			"sources" : [
+					{
+						"id": "251/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3130,6 +4150,12 @@
 			],
 			"sources" : [
 					{
+						"id": "252/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3147,6 +4173,12 @@
 				"You use the full force of your body in a fight. On a successful attack using a weapon with a Melee range, gain a bonus to your damage roll equal to your Strength."
 			],
 			"sources" : [
+					{
+						"id": "253/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3166,6 +4198,12 @@
 			],
 			"sources" : [
 					{
+						"id": "254/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3183,6 +4221,12 @@
 				"Once per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope."
 			],
 			"sources" : [
+					{
+						"id": "255/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3202,6 +4246,12 @@
 			],
 			"sources" : [
 					{
+						"id": "256/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3219,6 +4269,12 @@
 				"Describe how you taunt a target within Close range, then make a Presence Roll against them. On a success, the target must mark a Stress, and the next time the GM spotlights them, they must target you with an attack, which they make with disadvantage."
 			],
 			"sources" : [
+					{
+						"id": "257/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3238,6 +4294,12 @@
 			],
 			"sources" : [
 					{
+						"id": "258/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3255,6 +4317,12 @@
 				"While you’re wearing armor, gain a +1 bonus to your Armor Score. During a rest, when you choose to repair your armor as a downtime move, your allies also clear an Armor Slot."
 			],
 			"sources" : [
+					{
+						"id": "259/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3274,6 +4342,12 @@
 			],
 			"sources" : [
 					{
+						"id": "260/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3291,6 +4365,12 @@
 				"When you fail an action roll, your next action roll has advantage."
 			],
 			"sources" : [
+					{
+						"id": "261/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3310,6 +4390,12 @@
 			],
 			"sources" : [
 					{
+						"id": "262/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3327,6 +4413,12 @@
 				"When you would take damage, you can mark a Stress to reduce the severity of the damage by one threshold. When you do, roll a d6. On a result of 3 or lower, place this card in your vault."
 			],
 			"sources" : [
+					{
+						"id": "263/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "134/135",
 						"set": "DH SRD",
@@ -3348,6 +4440,12 @@
 			],
 			"sources" : [
 					{
+						"id": "264/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "134/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3365,6 +4463,12 @@
 				"Once per long rest, mark 3 Stress to push your body to its limits. Gain a +2 bonus to all of your character traits until your next rest."
 			],
 			"sources" : [
+					{
+						"id": "265/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "135/135",
 						"set": "DH SRD",
@@ -3384,6 +4488,12 @@
 			],
 			"sources" : [
 					{
+						"id": "266/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "135/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3401,6 +4511,12 @@
 				"Describe the defensive stance you take and spend a Hope. If an adversary moves within Very Close range, they’re pulled into Melee range and Restrained. This condition lasts until you move or fail a roll with Fear, or the GM spends 2 Fear on their turn to clear it."
 			],
 			"sources" : [
+					{
+						"id": "267/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "135/135",
 						"set": "DH SRD",
@@ -3420,6 +4536,12 @@
 			],
 			"sources" : [
 					{
+						"id": "268/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "135/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3438,6 +4560,12 @@
 			],
 			"sources" : [
 					{
+						"id": "269/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
+					{
 						"id": "135/135",
 						"set": "DH SRD",
 						"updated": "2025-09-09",
@@ -3455,6 +4583,12 @@
 				"When you would mark an Armor Slot, roll a number of d6s equal to your Proficiency. If any roll a 6, reduce the severity by one threshold without marking an Armor Slot."
 			],
 			"sources" : [
+					{
+						"id": "270/270",
+						"set": "DH Core",
+						"publisher": "Daggerheart © Darrington Press 2025",
+						"updated": "2025-05-19"
+					},
 					{
 						"id": "135/135",
 						"set": "DH SRD",
