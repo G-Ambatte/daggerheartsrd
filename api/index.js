@@ -10,6 +10,7 @@ import adversaryData from './data/adversaries/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
 import communityData from './data/communities/index.json' with { type: 'json' };
+import consumableData from './data/consumables/index.json' with { type:'json' };
 import domainData from './data/domains/index.json' with { type: 'json' };
 import environmentData from './data/environments/index.json' with { type: 'json' };
 import lootData from './data/loots/index.json' with { type: 'json' };
@@ -92,6 +93,19 @@ app.get('/api/communities', asyncHandler(async (req, res)=>{
 app.get('/api/community/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, communityData, 'communities');
 	if(data.length == 0) return res.status(404).json('Unknown community');
+	res.send(data);
+}));
+
+// Consumables
+app.get('/api/consumables', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('consumables', consumableData);
+	res.send(data);
+}));
+
+// Consumable
+app.get('/api/consumable/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, consumableData, 'consumables');
+	if(data.length == 0) return res.status(404).json('Unknown consumable');
 	res.send(data);
 }));
 
