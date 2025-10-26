@@ -12,6 +12,7 @@ import classData from './data/classes/index.json' with { type: 'json' };
 import communityData from './data/communities/index.json' with { type: 'json' };
 import domainData from './data/domains/index.json' with { type: 'json' };
 import environmentData from './data/environments/index.json' with { type: 'json' };
+import lootData from './data/loots/index.json' with { type: 'json' };
 import subclassData from './data/subclasses/index.json' with { type: 'json' };
 import weaponData from './data/weapons/index.json' with { type: 'json' };
 
@@ -112,10 +113,23 @@ app.get('/api/environments', asyncHandler(async (req, res)=>{
 	res.send(data);
 }));
 
-// Domain
+// Environment
 app.get('/api/environment/:id', asyncHandler(async (req, res)=>{
 	const data = await getDataFromJSON(req.params.id, environmentData, 'environments');
 	if(data.length == 0) return res.status(404).json('Unknown environment');
+	res.send(data);
+}));
+
+// Environments
+app.get('/api/loots', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON('loots', lootData);
+	res.send(data);
+}));
+
+// Environment
+app.get('/api/loot/:id', asyncHandler(async (req, res)=>{
+	const data = await getDataFromJSON(req.params.id, lootData, 'loots');
+	if(data.length == 0) return res.status(404).json('Unknown loot');
 	res.send(data);
 }));
 
