@@ -11,7 +11,7 @@ const formatFn = (data)=>{
 	return dedent`{{card,beastform
 
 		# ${data.name}
-		*Tier ${data.tier} Beast Form*
+		*Tier ${data.tier} Beast Form*  
 		*Examples: ${data.examples}*
 		:
 
