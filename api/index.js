@@ -31,189 +31,38 @@ const getDataFromJSON = async (id, dataObj, genre = false)=>{
 };
 
 
+const types  = [
+	{ singular: 'armor', plural: 'armors', data: armorData },
+	{ singular: 'adversary', plural: 'adversaries', data: adversaryData },
+	{ singular: 'ancestry', plural: 'ancestries', data: ancestryData },
+	{ singular: 'beastform', plural: 'beastforms', data: beastformData },
+	{ singular: 'card', plural: 'cards', data: cardData },
+	{ singular: 'class', plural: 'classes', data: classData },
+	{ singular: 'community', plural: 'communities', data: communityData },
+	{ singular: 'consumable', plural: 'consumables', data: consumableData },
+	{ singular: 'domain', plural: 'domains', data: domainData },
+	{ singular: 'environment', plural: 'environments', data: environmentData },
+	{ singular: 'loot', plural: 'loots', data: lootData },
+	{ singular: 'subclass', plural: 'subclasses', data: subclassData },
+	{ singular: 'weapon', plural: 'weapons', data: weaponData },
+	{ singular: 'wheelchair', plural: 'wheelchairs', data: wheelchairData }
+];
+
+
 const app = express();
 
-// Armors
-app.get('/api/armors', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('armors', armorData);
-	res.send(data);
-}));
+types.map((type)=>{
+	app.get(`/api/${type.plural}`, asyncHandler(async (req, res)=>{
+		const data = await getDataFromJSON(type.plural, type.data);
+		res.send(data);
+	}));
+	app.get(`/api/${type.singular}/:id`, asyncHandler(async (req, res)=>{
+		const data = await getDataFromJSON(req.params.id, type.data, type.plural);
+		if(data.length == 0) return res.status(404).json(`Unknown ${type.singular}`);
+		res.send(data);
+	}));
+});
 
-// Armor
-app.get('/api/armor/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, armorData, 'armors');
-	if(data.length == 0) return res.status(404).json('Unknown armor');
-	res.send(data);
-}));
-
-// Adversaries
-app.get('/api/adversaries', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('adversaries', adversaryData);
-	res.send(data);
-}));
-
-// Adversary
-app.get('/api/adversary/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, adversaryData, 'adversaries');
-	if(data.length == 0) return res.status(404).json('Unknown adversary');
-	res.send(data);
-}));
-
-// Ancestries
-app.get('/api/ancestries', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('ancestries', ancestryData);
-	res.send(data);
-}));
-
-// Ancestry
-app.get('/api/ancestry/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, ancestryData, 'ancestries');
-	if(data.length == 0) return res.status(404).json('Unknown ancestry');
-	res.send(data);
-}));
-
-// Beastforms
-app.get('/api/beastforms', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('beastforms', beastformData);
-	res.send(data);
-}));
-
-// Beastform
-app.get('/api/beastform/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, beastformData, 'beastforms');
-	if(data.length == 0) return res.status(404).json('Unknown beastform');
-	res.send(data);
-}));
-
-// Cards
-app.get('/api/cards', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('cards', cardData);
-	res.send(data);
-}));
-
-// Card
-app.get('/api/card/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, cardData, 'cards');
-	if(data.length == 0) return res.status(404).json('Unknown card');
-	res.send(data);
-}));
-
-// Classes
-app.get('/api/classes', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('classes', classData);
-	res.send(data);
-}));
-
-// Class
-app.get('/api/class/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, classData, 'classes');
-	if(data.length == 0) return res.status(404).json('Unknown class');
-	res.send(data);
-}));
-
-// Communities
-app.get('/api/communities', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('communities', communityData);
-	res.send(data);
-}));
-
-// Community
-app.get('/api/community/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, communityData, 'communities');
-	if(data.length == 0) return res.status(404).json('Unknown community');
-	res.send(data);
-}));
-
-// Consumables
-app.get('/api/consumables', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('consumables', consumableData);
-	res.send(data);
-}));
-
-// Consumable
-app.get('/api/consumable/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, consumableData, 'consumables');
-	if(data.length == 0) return res.status(404).json('Unknown consumable');
-	res.send(data);
-}));
-
-// Domains
-app.get('/api/domains', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('domains', domainData);
-	res.send(data);
-}));
-
-// Domain
-app.get('/api/domain/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, domainData, 'domains');
-	if(data.length == 0) return res.status(404).json('Unknown domain');
-	res.send(data);
-}));
-
-// Environments
-app.get('/api/environments', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('environments', environmentData);
-	res.send(data);
-}));
-
-// Environment
-app.get('/api/environment/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, environmentData, 'environments');
-	if(data.length == 0) return res.status(404).json('Unknown environment');
-	res.send(data);
-}));
-
-// Environments
-app.get('/api/loots', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('loots', lootData);
-	res.send(data);
-}));
-
-// Environment
-app.get('/api/loot/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, lootData, 'loots');
-	if(data.length == 0) return res.status(404).json('Unknown loot');
-	res.send(data);
-}));
-
-// Subclasses
-app.get('/api/subclasses', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('subclasses', subclassData);
-	res.send(data);
-}));
-
-// Subclass
-app.get('/api/subclass/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, subclassData, 'subclasses');
-	if(data.length == 0) return res.status(404).json('Unknown subclass');
-	res.send(data);
-}));
-
-// Weapons
-app.get('/api/weapons', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('weapons', weaponData);
-	res.send(data);
-}));
-
-// Weapon
-app.get('/api/weapon/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, weaponData, 'weapons');
-	if(data.length == 0) return res.status(404).json('Unknown weapon');
-	res.send(data);
-}));
-
-// Wheelchairs
-app.get('/api/wheelchairs', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON('wheelchairs', wheelchairData);
-	res.send(data);
-}));
-
-// Wheelchair
-app.get('/api/wheelchair/:id', asyncHandler(async (req, res)=>{
-	const data = await getDataFromJSON(req.params.id, wheelchairData, 'wheelchairs');
-	if(data.length == 0) return res.status(404).json('Unknown wheelchair');
-	res.send(data);
-}));
 
 
 ViteExpress.listen(app, 3000, ()=>console.log('Server is listening on port 3000...'),
