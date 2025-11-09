@@ -5,10 +5,10 @@ import asyncHandler from 'express-async-handler';
 
 import dpcgl from './data/dpcgl.js';
 
-import armorData from './data/armors/index.json' with { type: 'json' };
 import adversaryData from './data/adversaries/index.json' with { type: 'json' };
-import beastformData from './data/beastforms/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
+import armorData from './data/armors/index.json' with { type: 'json' };
+import beastformData from './data/beastforms/index.json' with { type: 'json' };
 import cardData from './data/cards/index.json' with { type: 'json' };
 import classData from './data/classes/index.json' with { type: 'json' };
 import communityData from './data/communities/index.json' with { type: 'json' };
@@ -32,9 +32,9 @@ const getDataFromJSON = async (id, dataObj, genre = false)=>{
 
 
 const types  = [
-	{ singular: 'armor', plural: 'armors', data: armorData },
 	{ singular: 'adversary', plural: 'adversaries', data: adversaryData },
 	{ singular: 'ancestry', plural: 'ancestries', data: ancestryData },
+	{ singular: 'armor', plural: 'armors', data: armorData },
 	{ singular: 'beastform', plural: 'beastforms', data: beastformData },
 	{ singular: 'card', plural: 'cards', data: cardData },
 	{ singular: 'class', plural: 'classes', data: classData },
