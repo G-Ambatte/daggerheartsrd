@@ -2,7 +2,7 @@ import * as testObj from './wheelchairs.js';
 
 import { describe, test, expect } from 'vitest';
 
-describe('Check Armor Type', ()=>{
+describe('Check Wheelchair Type', ()=>{
 	test('Check expected properties exist', async ()=>{
 		expect(testObj).toHaveProperty('type');
 		expect(testObj).toHaveProperty('category');

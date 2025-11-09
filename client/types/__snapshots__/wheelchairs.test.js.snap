@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`Check Armor Type > Format function should return known result for given data 1`] = `
+exports[`Check Wheelchair Type > Format function should return known result for given data 1`] = `
 "{{card,wheelchair
 
 # test
