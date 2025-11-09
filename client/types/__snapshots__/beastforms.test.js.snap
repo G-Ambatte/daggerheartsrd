@@ -1,5 +1,32 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
+exports[`Check Beastform Type > Format function should return known result for alternate data 1`] = `
+"{{card,beastform
+
+# test
+*Tier tier Beast Form*  
+*Examples: examples*
+:
+
+{{descriptive
+**traitName** traitBonus  
+**ATK:** trait | **Range:** range | **Damage:** damage
+}}
+
+
+**Advantage on:** advantage
+:
+
+
+
+{{source *sourceID sourceSet, sourceUpdated - sourcePublisher*}}
+}}
+
+::
+
+attribution"
+`;
+
 exports[`Check Beastform Type > Format function should return known result for given data 1`] = `
 "{{card,beastform
 

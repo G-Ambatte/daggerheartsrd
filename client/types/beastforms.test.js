@@ -60,4 +60,35 @@ describe('Check Beastform Type', ()=>{
 
 		expect(testObj.formatFn(testData)).toMatchSnapshot();
 	});
+
+	test('Format function should return known result for alternate data', async ()=>{
+		const testData = {
+			name        : 'test',
+			examples    : 'examples',
+			tier        : 'tier',
+			attribution : 'attribution',
+			advantage   : 'advantage',
+			attack      : {
+				trait  : 'trait',
+				range  : 'range',
+				damage : 'damage'
+			},
+			traits : [
+				{
+					name  : 'traitName',
+					bonus : 'traitBonus'
+				}
+			],
+			sources : [
+				{
+					id        : 'sourceID',
+					set       : 'sourceSet',
+					updated   : 'sourceUpdated',
+					publisher : 'sourcePublisher'
+				}
+			]
+		};
+
+		expect(testObj.formatFn(testData)).toMatchSnapshot();
+	});
 });
