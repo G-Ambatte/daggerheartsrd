@@ -37,22 +37,22 @@ The intention of this project is to provide a simple API that returns data from 
 - [x] Wheelchairs
 
 ### Internal Tests
-- [x] API Data
+- [x] API Data - 100%
 - [ ] API Results
 	- [x] Adversaries
 	- [ ] Ancestries
-	- [ ] Armors
-	- [ ] Beast Forms
+	- [x] Armors
+	- [x] Beast Forms
 	- [ ] Cards
 	- [ ] Classes
 	- [ ] Communities
 	- [ ] Consumables
 	- [ ] Domains
 	- [ ] Environments
-	- [ ] Loot
+	- [x] Loot
 	- [ ] Subclasses
-	- [ ] Weapons
-	- [ ] Wheelchairs
+	- [x] Weapons
+	- [x] Wheelchairs
 
 
 ## Attribution
