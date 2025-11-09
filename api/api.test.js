@@ -5,7 +5,7 @@ import { describe, test, expect } from 'vitest';
 
 describe('API Data tests', ()=>{
 	describe('Negative tests', ()=>{
-		test('Non-existent route returns 404', async ()=>{
+		test('Non-existent API route returns 404', async ()=>{
 			const response = await request(app).get('/api/shouldFail');
 			expect(response.statusCode).toBe(404);
 		});
@@ -113,6 +113,11 @@ describe('API Data tests', ()=>{
 		test('Return Adversary: Adult Flickerfly', async ()=>{
 			const response = await request(app).get('/api/adversary/adult%20flickerfly');
 			expect(response.statusCode).toBe(200);
+			expect(response.body).toMatchSnapshot();
+		});
+		test('Return Unknown Adversary', async ()=>{
+			const response = await request(app).get('/api/adversary/unknown');
+			expect(response.statusCode).toBe(404);
 			expect(response.body).toMatchSnapshot();
 		});
 

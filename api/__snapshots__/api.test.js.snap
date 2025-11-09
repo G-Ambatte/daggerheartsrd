@@ -23523,6 +23523,8 @@ exports[`API Data tests > Individual item tests > Return Subclass: Nightwalker 1
 ]
 `;
 
+exports[`API Data tests > Individual item tests > Return Unknown Adversary 1`] = `"Unknown adversary"`;
+
 exports[`API Data tests > Individual item tests > Return Weapon: Wand of Enthrallment 1`] = `
 [
   {
