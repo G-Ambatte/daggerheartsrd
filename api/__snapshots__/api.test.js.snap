@@ -1,0 +1,618 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`API Data tests > Individual item tests > Return Adversary: Adult Flickerfly 1`] = `
+[
+  {
+    "attack": {
+      "damage": "3d20 phy",
+      "mod": "+3",
+      "name": "Wing Slash",
+      "range": "Very Close",
+    },
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "description": "A winged insect the size of a large house with iridescent scales and wings that move too fast to track.",
+    "difficulty": 17,
+    "features": [
+      {
+        "description": "The Flickerfly can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.",
+        "name": "Relentless (4)",
+        "type": "Passive",
+      },
+      {
+        "description": "When the Flickerfly makes an attack, the target’s Evasion is halved against the attack.",
+        "name": "Never Misses",
+        "type": "Passive",
+      },
+      {
+        "description": "While flying, the Flickerfly can move up to Far range instead of Close range before taking an action.",
+        "name": "Deadly Flight",
+        "type": "Passive",
+      },
+      {
+        "description": "Spend a Fear to whirl, making an attack against all targets within Very Close range. Targets the Flickerfly succeeds against take 3d8 direct physical damage. ",
+        "name": "Whirlwind",
+        "type": "Action",
+      },
+      {
+        "description": "Mark a Stress to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an Instinct Reaction Roll. For each target who failed, you gain a Fear and the Flickerfly learns one of the target’s fears. ",
+        "name": "Mind Dance",
+        "type": "Action",
+      },
+      {
+        "description": "Countdown (Loop 1d6). When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must make an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail lose 2 Hope and take 3d8+3 direct magic damage. ",
+        "name": "Hallucinatory Breath",
+        "type": "Reaction",
+      },
+      {
+        "description": "When the Flickerfly takes damage from an attack within Close range, you can mark a Stress to take half damage.",
+        "name": "Uncanny Reflexes",
+        "type": "Reaction",
+      },
+    ],
+    "hitPoints": 12,
+    "name": "Adult Flickerfly",
+    "sources": [
+      {
+        "id": "091/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "stress": 6,
+    "tactics": "Collect shiny things, hunt, nest, swoop",
+    "thresholds": {
+      "major": 20,
+      "severe": 35,
+    },
+    "tier": "3",
+    "type": "Solo",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Ancestry: Galapa 1`] = `
+[
+  {
+    "ancestryImage": {},
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "description": "Galapa resemble anthropomorphic turtles with large, domed shells into which they can retract.",
+    "descriptionFormat": "markdown",
+    "name": "Galapa",
+    "source": [
+      {
+        "id": "064/270",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH Core",
+        "updated": "2025-05-19",
+      },
+      {
+        "id": "029/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "tags": {
+      "categories": [
+        "ancestry",
+        "galapa",
+      ],
+      "mechanics": [
+        "protection",
+        "defense",
+      ],
+      "themes": [
+        "turtle",
+        "defense",
+        "resilience",
+      ],
+    },
+    "traits": [
+      {
+        "description": "Gain a bonus to your damage thresholds equal to your Proficiency.",
+        "descriptionFormat": "markdown",
+        "frequency": "passive",
+        "id": "ancestry-galapa-shell",
+        "mechanic": "protection",
+        "name": "Shell",
+        "type": "trait",
+      },
+      {
+        "description": "**Mark a Stress** to retract into your shell. While in your shell, you have resistance to physical damage, you have disadvantage on action rolls, and you can't move.",
+        "descriptionFormat": "markdown",
+        "frequency": "mark stress",
+        "id": "ancestry-galapa-retreat",
+        "mechanic": "defense",
+        "name": "Retreat",
+        "type": "trait",
+      },
+    ],
+    "type": "ancestry",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Armor: Full Plate Armor 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "base": 4,
+    "feature": "Very Heavy: −2 to Evasion; −1 to Agility",
+    "name": "Full Plate Armor",
+    "sources": [
+      {
+        "id": "056/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "thresholds": {
+      "major": 8,
+      "severe": 17,
+    },
+    "tier": 1,
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Beastform: Epic Aquatic Beast 1`] = `
+[
+  {
+    "advantage": "locate, protect, scare, track",
+    "attack": {
+      "damage": "d10+10 phy",
+      "range": "Melee",
+      "trait": "Agility",
+    },
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "examples": "Giant Squid, Whale, etc.",
+    "features": [
+      {
+        "description": [
+          "You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily Restrain them.",
+        ],
+        "name": "Ocean Master",
+      },
+      {
+        "description": [
+          "When you would mark an Armor Slot, roll a d6. On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.",
+        ],
+        "name": "Unyielding",
+      },
+    ],
+    "name": "Epic Aquatic Beast",
+    "sources": [
+      {
+        "id": "015/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "tier": 4,
+    "traits": [
+      {
+        "bonus": "+3",
+        "name": "Agility",
+      },
+      {
+        "bonus": "+3",
+        "name": "Evasion",
+      },
+    ],
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Card: Flight 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "description": [
+      "Make a Spellcast Roll (15). On a success, place a number of tokens equal to your Agility on this card (minimum 1). When you make an action roll while flying, spend a token from this card. After the action that spends the last token is resolved, you descend to the ground directly below you.",
+    ],
+    "domain": "Arcana",
+    "level": 3,
+    "name": "Flight",
+    "recall": 1,
+    "sources": [
+      {
+        "id": "088/270",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH Core",
+        "updated": "2025-05-19",
+      },
+      {
+        "id": "119/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "type": "Spell",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Class: Seraph 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "characterCreation": {
+      "startingClassItems": [
+        "A bundle of offerings or a sigil of your god",
+      ],
+      "startingEvasion": 9,
+      "startingHitPoints": 7,
+    },
+    "description": "Seraphs are divine fighters and healers imbued with sacred purpose. A wide array of deities exist within the realms, and thus numerous kinds of seraphs are appointed by these gods. Their ethos traditionally aligns with the domain or goals of their god, such as defending the weak, exacting vengeance, protecting a land or artifact, or upholding a particular faith. Some seraphs ally themselves with an army or locale, much to the satisfaction of their rulers, but other crusaders fight in opposition to the follies of the Mortal Realm. It is better to be a seraph's ally than their enemy, as they are terrifying foes to those who defy their purpose.",
+    "domains": [
+      "splendor",
+      "valor",
+    ],
+    "id": "seraph",
+    "name": "Seraph",
+    "source": [
+      {
+        "id": "dh-class-seraph",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH Core",
+        "updated": "2025-05-19",
+      },
+      {
+        "id": "020/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "subclassOptions": [],
+    "type": "class",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Community: Wanderborne 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "communityImage": {},
+    "description": "Being part of a wanderborne community means you've lived as a nomad, forgoing a permanent home and experiencing a wide variety of cultures.",
+    "descriptionFormat": "markdown",
+    "name": "Wanderborne",
+    "source": [
+      {
+        "id": "080/270",
+        "key": "dh-core",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH Core",
+        "updated": "2025-05-19",
+      },
+      {
+        "id": "034/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "tags": {
+      "categories": [
+        "community",
+        "wanderborne",
+      ],
+      "mechanics": [
+        "ability",
+      ],
+      "themes": [
+        "nomad",
+        "resourcefulness",
+      ],
+    },
+    "traits": [
+      {
+        "description": "Add a Nomadic Pack to your inventory. Once per session, you can spend a Hope to reach into this pack and pull out a mundane item that's useful to your situation. Work with the GM to figure out what item you take out.",
+        "descriptionFormat": "markdown",
+        "frequency": "once per session",
+        "id": "community-wanderborne-nomadic-pack",
+        "mechanic": "ability",
+        "name": "Nomadic Pack",
+        "type": "trait",
+      },
+    ],
+    "type": "community",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Consumable: Bolster Potion 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "description": "You gain a +1 bonus to your next Strength Roll.",
+    "name": "Bolster Potion",
+    "roll": "02",
+    "sources": [
+      {
+        "id": "060/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Domain: Bone 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "classes": [
+      "Ranger",
+      "Warrior",
+    ],
+    "description": "Bone is the domain of tactics and the body. Practitioners of this domain have an uncanny control over their own physical abilities and an eye for predicting the behaviors of others in combat. Adherents to Bone gain an unparalleled understanding of bodies and their movements. The Bone domain can be accessed by the Ranger & Warrior classes.",
+    "id": "bone",
+    "name": "Bone",
+    "source": [
+      {
+        "id": "domain-bone",
+        "key": "dh-core",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH Domains",
+        "updated": "2025-05-19",
+      },
+      {
+        "id": "007/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Environment: Divine Usurpation 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "description": "A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.",
+    "difficulty": "20",
+    "features": [
+      {
+        "description": [
+          "When the environment first takes the spotlight, designate one adversary as the Usurper seeking to overthrow the gods. Activate a Long-Term Countdown (8) as the Usurper assembles what they need to conduct the ritual. When it triggers, spotlight this environment to use the “Beginning of the End” feature. While this environment remains in play, you can hold up to 15 Fear.",
+        ],
+        "name": "Final Preparations",
+        "questions": "What does the Usurper still require: The heart of a High Seraph? The lodestone of an ancient waygate? The loyalty of two archenemies? The heartbroken tears of a pure soul?",
+        "type": "Passive",
+      },
+      {
+        "description": [
+          "When a PC critically succeeds, they can spend 2 Hope to refresh an ability normally limited by uses (such as once per rest, once per session).",
+        ],
+        "name": "Divine Blessing",
+        "questions": "What god favors you as you ﬁght against this usurpation? How does your renewed power reﬂect their inﬂuence?",
+        "type": "Passive",
+      },
+      {
+        "description": [
+          "Spend 2 Fear to summon 1d4+2 Fallen Shock Troops that appear within Close range of the Usurper to assist their divine siege. Immediately spotlight the Shock Troops to use a “Group Attack” action.",
+        ],
+        "name": "Defilers Abound",
+        "questions": "Which High Fallen do these troops serve? Which god’s ﬂesh do they wish to feast upon?",
+        "type": "Action",
+      },
+      {
+        "description": [
+          "If the Divine Siege Countdown (see “Beginning of the End”) has triggered, you can spend 3 Fear to describe the Usurper slaying one of the gods of the Hallows Above, feasting upon their power and growing stronger. The Usurper clears 2 HP. Increase their Difficulty, damage, attack modifier, or give them a new feature from the slain god.",
+        ],
+        "name": "Godslayer",
+        "questions": "Which god meets their end? What are their last words? How does the Usurper’s new stolen power manifest?",
+        "type": "Action",
+      },
+      {
+        "description": [
+          "When the “Final Preparations” long-term countdown triggers, the Usurper begins hammering on the gates of the Hallows themselves. Activate a Divine Siege Countdown (10). Spotlight the Usurper to describe the Usurper’s assault and tick down this countdown by 1. If the Usurper takes Major or greater damage, tick up the countdown by 1. When it triggers, the Usurper shatters the barrier between the Mortal Realm and the Hallows Above to slay the gods and take their place. You gain a Fear for each unmarked HP the Usurper has. You can immediately use the “Godslayer” feature without spending Fear to make an additional GM move.",
+        ],
+        "name": "Beginning of the End",
+        "questions": "How does the Mortal Realm writhe as the natural order is violated? What mortals witness this blasphemy from afar?",
+        "type": "Reaction",
+      },
+      {
+        "description": [
+          "On any failure with Fear against the Usurper, the PC must mark 1d4 Stress from the backlash of magical power.",
+        ],
+        "name": "Ritual Nexus",
+        "questions": "What visions of failures past torment you as your eﬀorts fall short? How are these memories twisted by the Usurper?",
+        "type": "Reaction",
+      },
+    ],
+    "impulses": "Collect power, overawe, silence dissent",
+    "name": "Divine Usurpation",
+    "potentialAdversaries": [
+      "Arch-Necromancer",
+      "Fallen Shock Troops",
+      "Mortal Hunter",
+      "Oracle of Doom",
+      "Perfected Zombie",
+    ],
+    "sources": [
+      {
+        "id": "110/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "tier": 4,
+    "type": "Event",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Loot: Gem of Alacrity 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "description": "You can attach this gem to a weapon, allowing you to use your Agility when making an attack with that weapon.",
+    "name": "Gem of Alacrity",
+    "roll": "53",
+    "sources": [
+      {
+        "id": "060/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Subclass: Nightwalker 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "class": "Rogue",
+    "description": "Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.",
+    "foundation": {
+      "features": [
+        {
+          "description": [
+            "You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can mark a Stress to disappear from where you are and reappear inside another shadow within Far range. When you reappear, you are Cloaked.",
+          ],
+          "name": "Shadow Stepper",
+        },
+      ],
+      "sources": [
+        {
+          "id": "025/270",
+          "publisher": "Daggerheart © Darrington Press 2025",
+          "set": "DH Core",
+          "updated": "2025-06-15",
+        },
+        {
+          "id": "019/135",
+          "publisher": "Daggerheart © Darrington Press 2025",
+          "set": "DH SRD",
+          "updated": "2025-09-09",
+        },
+      ],
+    },
+    "mastery": {
+      "features": [
+        {
+          "description": [
+            "Gain a permanent +1 bonus to your Evasion. You can use your “Shadow Stepper” feature to move within Very Far range.",
+          ],
+          "name": "Fleeting Shadow",
+        },
+        {
+          "description": [
+            "Mark a Stress to become Cloaked at any time. When Cloaked from this feature, you automatically clear the Restrained condition if you have it. You remain Cloaked in this way until you roll with Fear or until your next rest.",
+          ],
+          "name": "Vanishing Act",
+        },
+      ],
+      "sources": [
+        {
+          "id": "027/270",
+          "publisher": "Daggerheart © Darrington Press 2025",
+          "set": "DH Core",
+          "updated": "2025-06-15",
+        },
+        {
+          "id": "019/135",
+          "publisher": "Daggerheart © Darrington Press 2025",
+          "set": "DH SRD",
+          "updated": "2025-09-09",
+        },
+      ],
+    },
+    "name": "Nightwalker",
+    "specialization": {
+      "features": [
+        {
+          "description": [
+            "Make a Spellcast Roll (15). On a success, create a temporary dark cloud that covers any area within Close range. Anyone in this cloud can’t see outside of it, and anyone outside of it can’t see in. You’re considered Cloaked from any adversary for whom the cloud blocks line of sight.",
+          ],
+          "name": "Dark Cloud",
+        },
+        {
+          "description": [
+            "While you're Vulnerable, add your level to your damage rolls.",
+          ],
+          "name": "Adrenaline",
+        },
+      ],
+      "sources": [
+        {
+          "id": "026/270",
+          "publisher": "Daggerheart © Darrington Press 2025",
+          "set": "DH Core",
+          "updated": "2025-06-15",
+        },
+        {
+          "id": "019/135",
+          "publisher": "Daggerheart © Darrington Press 2025",
+          "set": "DH SRD",
+          "updated": "2025-09-09",
+        },
+      ],
+    },
+    "spellcastTrait": "Finesse",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Weapon: Wand of Enthrallment 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "burden": "One-Handed",
+    "damage": "d6+4 mag",
+    "feature": "Persuasive: Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result.",
+    "name": "Wand of Enthrallment",
+    "range": "Far",
+    "slot": "Primary",
+    "sources": [
+      {
+        "id": "047/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "tier": 2,
+    "trait": "Presence",
+    "type": "Magic",
+  },
+]
+`;
+
+exports[`API Data tests > Individual item tests > Return Wheelchair: Improved Arcane-Frame Wheelchair 1`] = `
+[
+  {
+    "attribution": "This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.",
+    "burden": "One-Handed",
+    "damage": "d6+3 mag",
+    "feature": "Reliable: +1 to attack rolls",
+    "name": "Improved Arcane-Frame Wheelchair",
+    "range": "Far",
+    "sources": [
+      {
+        "id": "055/135",
+        "publisher": "Daggerheart © Darrington Press 2025",
+        "set": "DH SRD",
+        "updated": "2025-09-09",
+      },
+    ],
+    "tier": "2",
+    "trait": "Spellcast",
+  },
+]
+`;
