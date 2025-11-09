@@ -15,84 +15,98 @@ describe('API Data tests', ()=>{
 			const response = await request(app).get('/api/adversaries');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(129);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 18 Ancestries', async ()=>{
 			const response = await request(app).get('/api/ancestries');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(18);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 34 Armors', async ()=>{
 			const response = await request(app).get('/api/armors');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(34);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 24 Beastforms', async ()=>{
 			const response = await request(app).get('/api/beastforms');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(24);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 189 Cards', async ()=>{
 			const response = await request(app).get('/api/cards');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(189);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 9 Classes', async ()=>{
 			const response = await request(app).get('/api/classes');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(9);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 9 Communities', async ()=>{
 			const response = await request(app).get('/api/communities');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(9);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 60 Consumables', async ()=>{
 			const response = await request(app).get('/api/consumables');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(60);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 9 Domains', async ()=>{
 			const response = await request(app).get('/api/domains');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(9);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 19 Environments', async ()=>{
 			const response = await request(app).get('/api/environments');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(19);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 60 Loots', async ()=>{
 			const response = await request(app).get('/api/loots');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(60);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 18 Subclasses', async ()=>{
 			const response = await request(app).get('/api/subclasses');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(18);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 186 Weapons', async ()=>{
 			const response = await request(app).get('/api/weapons');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(186);
+			expect(response.body).toMatchSnapshot();
 		});
 
 		test('Returns 12 Wheelchairs', async ()=>{
 			const response = await request(app).get('/api/wheelchairs');
 			expect(response.statusCode).toBe(200);
 			expect(response.body).toHaveLength(12);
+			expect(response.body).toMatchSnapshot();
 		});
 	});
 	describe('Individual item tests', ()=>{
