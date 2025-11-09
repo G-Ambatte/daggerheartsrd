@@ -1,0 +1,18 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Check Loot Type > Format function should return known result for given data 1`] = `
+"{{card,loot
+
+# test
+*Loot Table #roll*
+:
+**Description:** description
+:
+
+{{source *sourceID sourceSet, sourceUpdated - sourcePublisher*}}
+}}
+
+::
+
+attribution"
+`;
