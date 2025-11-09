@@ -19,7 +19,7 @@ import { wheelchairs as wheelchairData } from './data/wheelchairs/index.json' wi
 
 import { describe, test, expect } from 'vitest';
 
-describe('API tests', ()=>{
+describe('API Data tests', ()=>{
 	describe('Negative tests', ()=>{
 		test('Non-existent route returns 404', async ()=>{
 			const response = await request(app).get('/api/shouldFail');
