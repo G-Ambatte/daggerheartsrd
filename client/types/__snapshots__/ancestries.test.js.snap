@@ -1,0 +1,36 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Check Adversary Type > Format function should return known result for given data 1`] = `
+"{{card,adversary
+
+# test
+***Tier tier type***  
+*description*  
+**Motives & Tactics:** tactics
+
+:
+
+{{descriptive
+**Difficulty:** difficulty | **Thresholds:** -/- | **HP:** hitPoints | **Stress:** stress  
+**ATK:** mod | **attack:** range | damage
+
+
+---
+
+**Experience:** :: experience
+
+}}
+
+## Features
+***featName - featType:*** featDescription
+
+
+:
+
+{{source *sourceID sourceSet, sourceUpdated - sourcePublisher*}}
+}}
+
+::
+
+attribution"
+`;

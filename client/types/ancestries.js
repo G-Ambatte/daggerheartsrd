@@ -10,4 +10,4 @@ export {
 	category,
 	suggestionsRoute,
 	dataRoute
-}
+};
