@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`Check Adversary Type > Format function should return known result for given data 1`] = `
+exports[`Check Adversary Type > Format function should return known result for alternate data 1`] = `
 "{{card,adversary
 
 # test
@@ -12,6 +12,37 @@ exports[`Check Adversary Type > Format function should return known result for g
 
 {{descriptive
 **Difficulty:** difficulty | **Thresholds:** -/- | **HP:** hitPoints | **Stress:** stress  
+**ATK:** mod | **attack:** range | damage
+
+
+}}
+
+## Features
+***featName - featType:*** featDescription
+
+
+:
+
+{{source *sourceID sourceSet, sourceUpdated - sourcePublisher*}}
+}}
+
+::
+
+attribution"
+`;
+
+exports[`Check Adversary Type > Format function should return known result for given data 1`] = `
+"{{card,adversary
+
+# test
+***Tier tier type***  
+*description*  
+**Motives & Tactics:** tactics
+
+:
+
+{{descriptive
+**Difficulty:** difficulty | **Thresholds:** 1/2 | **HP:** hitPoints | **Stress:** stress  
 **ATK:** mod | **attack:** range | damage
 
 
