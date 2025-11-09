@@ -1,0 +1,23 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Check Weapon Type > Format function should return known result for given data 1`] = `
+"{{card,weapon
+
+# test
+***Tier tier burden type Weapon***  
+*slot*
+:
+**Trait:** trait | **Range:** range | **Damage:** damage
+
+---
+
+**Feature:** feature
+:
+
+{{source *sourceID sourceSet, sourceUpdated - sourcePublisher*}}
+}}
+
+::
+
+attribution"
+`;
