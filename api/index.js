@@ -3,7 +3,7 @@ import ViteExpress from 'vite-express';
 
 import asyncHandler from 'express-async-handler';
 
-import { dpcgl } from './data/dpcgl.json' with { type: 'json' };
+import dpcgl from './data/dpcgl.json' with { type: 'json' };
 
 import adversaryData from './data/adversaries/index.json' with { type: 'json' };
 import ancestryData from './data/ancestries/index.json' with { type: 'json' };
